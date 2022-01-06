@@ -366,11 +366,7 @@ use HeadlessChromium\BrowserFactory;
 
 
         foreach(array_unique($addresses) as $key => $address){
-
-            if($key !== 50)
                 getData($address,$key,$file_name);
-            else
-                die();
         }
 
         // print_r($addresses);
