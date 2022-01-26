@@ -350,9 +350,9 @@ use HeadlessChromium\BrowserFactory;
 
     if (1) {
         
-        $file_name = "final3";
-        // $file = fopen('uploads/'.$file_name.'.txt', "w");
-        // fclose($file);
+        $file_name = "final";
+        $file = fopen('uploads/'.$file_name.'.txt', "w");
+        fclose($file);
 
         $file_addresses = fopen("source/input.txt", "r") or die("Unable to open file!");
 
@@ -364,7 +364,7 @@ use HeadlessChromium\BrowserFactory;
 
 
         foreach(array_unique($addresses) as $key => $address){
-                getData($address,$key,$file_name);
+            getData($address, $key, $file_name);
         }
 
         // print_r($addresses);

@@ -45,6 +45,10 @@ error_reporting(1);
 
 
     foreach ($mainfile as $key => $value) {
+
+        // if($key == 50)
+            // die();
+
         if(trim($value) == trim($datafile[$key])){
             continue;
         }
