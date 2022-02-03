@@ -242,6 +242,8 @@ use HeadlessChromium\BrowserFactory;
         
         if($page_link == ''){
             createLog($key,$original_input,'Link issue');
+
+            // Enter not found data
         }
         else{
 
@@ -350,6 +352,9 @@ use HeadlessChromium\BrowserFactory;
 
     if (1) {
         
+
+        // File 1
+
         $file_name = "final";
         $file = fopen('uploads/'.$file_name.'.txt', "w");
         fclose($file);
@@ -367,25 +372,24 @@ use HeadlessChromium\BrowserFactory;
             getData($address, $key, $file_name);
         }
 
-        // print_r($addresses);
 
-        // createLog(0001, 'loop 1', 'New 1 loop started', true);
-        // runFailedNumbers($file_name);
 
-        // createLog(0002, 'loop 2', 'New 2 loop started', true);
-        // runFailedNumbers($file_name);
+        // File 2
+        $file_name = "final-2";
+        $file = fopen('uploads/'.$file_name.'.txt', "w");
+        fclose($file);
 
-        // createLog(0003, 'loop 3', 'New 3 loop started', true);
-        // runFailedNumbers($file_name);
+        $file_addresses = fopen("source/input-2.txt", "r") or die("Unable to open file!");
 
-        // createLog(0004, 'loop 4', 'New 4 loop started', true);
-        // runFailedNumbers($file_name);
+        $addresses = [];
 
-        // createLog(0005, 'loop 5', 'New 5 loop started', true);
-        // runFailedNumbers($file_name);
+        while (($line = fgets($file_addresses)) !== false) {
+            $addresses[] = $line;
+        }
 
-        // createLog(0006, 'loop 6', 'New 6 loop started', true);
-        // runFailedNumbers($file_name);        
 
-        // echo 'Finsihed';
+        foreach(array_unique($addresses) as $key => $address){
+            getData($address, $key, $file_name);
+        }
+
     }
