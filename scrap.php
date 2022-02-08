@@ -372,24 +372,4 @@ use HeadlessChromium\BrowserFactory;
             getData($address, $key, $file_name);
         }
 
-
-
-        // File 2
-        $file_name = "final-2";
-        $file = fopen('uploads/'.$file_name.'.txt', "w");
-        fclose($file);
-
-        $file_addresses = fopen("source/input-2.txt", "r") or die("Unable to open file!");
-
-        $addresses = [];
-
-        while (($line = fgets($file_addresses)) !== false) {
-            $addresses[] = $line;
-        }
-
-
-        foreach(array_unique($addresses) as $key => $address){
-            getData($address, $key, $file_name);
-        }
-
     }
