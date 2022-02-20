@@ -50,8 +50,8 @@ error_reporting(1);
             // die();
 
         if(trim($value) == trim($datafile[$key])){
-            // storeData(trim($actual_file[$key]) . "\t". $value);
-            // continue;
+            storeData(trim($actual_file[$key]) . "\t". $value);
+            continue;
         }
         else{
             storeData(trim($actual_file[$key]) . "\t". $datafile[$key]);

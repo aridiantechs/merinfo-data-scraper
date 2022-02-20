@@ -247,18 +247,21 @@ use HeadlessChromium\BrowserFactory;
         }
         else{
 
-            $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
-            $txt =  trim($original_input)     . "\t" .
-                    trim($name)     . "\t" . 
-                    trim($ssn)      . "\t". 
-                    trim($address)  . "\t". 
-                    trim($postal)   . "\t". 
-                    trim($city)     . "\t". 
-                    trim($phone);
+            if($phone){
+                $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
+                $txt =  trim($original_input)     . "\t" .
+                        trim($name)     . "\t" . 
+                        trim($ssn)      . "\t". 
+                        trim($address)  . "\t". 
+                        trim($postal)   . "\t". 
+                        trim($city)     . "\t". 
+                        trim($phone);
 
-            fwrite($myfile, $txt);
-            fwrite($myfile, "\n");
-            fclose($myfile);
+                fwrite($myfile, $txt);
+                fwrite($myfile, "\n");
+                fclose($myfile);
+            }
+
         }
 
     }
