@@ -12,7 +12,7 @@ error_reporting(1);
     
         return;
     }
-
+        
     $file_addresses = fopen("source/input-2.txt", "r") or die("Unable to open file!");
 
     $addresses = [];

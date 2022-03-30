@@ -43,7 +43,7 @@ error_reporting(1);
 
     // print_r($actual_file);die();       
 
-
+    $changes = 0;
     foreach ($mainfile as $key => $value) {
 
         // if($key == 50)
@@ -54,9 +54,14 @@ error_reporting(1);
             continue;
         }
         else{
+            if($key == 50){
+                echo trim($actual_file[$key]) . "\t". $datafile[$key];
+                die();
+            }
+            $changes++;
             storeData(trim($actual_file[$key]) . "\t". $datafile[$key]);
         }
     }
 
-
+echo $changes;
     // if (strpos(trim($line), trim($input_word)) !== false){

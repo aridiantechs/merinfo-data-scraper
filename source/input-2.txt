@@ -1,2485 +1,3736 @@
-Christer Wennergren 19671220
-Peiying Gong 19630207
-Linda Eriksson 19750524
-Emelie Neumann Gustafsson 19920913
-Kristofer Mikael Björk 19900507
-Shidrak Shamoon 19780410
-Daniel Aydin 19900131
-Rahim Ali Zadah 19871122
-Anders Karlsson 19670519
-Linda Persson 19790623
-Anton Enetjärn 19930415
-Erika Ekelund 19730307
-Camilla Lindholm 19680215
-Martin Korn 19691218
-David Kjellén 19781130
-Robert Johansson 19921226
-Dan Ström 19660112
-Sargon Gorgius 19891208
-Emanuel Barjohannes 19831123
-Max Eliasson 19720812
-Peter Berggren 19741219
-Jonas Klarén 19770714
-Stina Möller 19740918
-Bekim Limanoski 19760123
-Martina Andresen Fahl 19711228
-Thomas Magnusson 19700114
-Pengine Zimbu Hamisi 19780103
-Catrin Wätteräng 19750711
-Johannes Magnusson 19750729
-Petra Larsson 19781215
-Nadim Chamoun 19630729
-Imad Hakani 19780223
-Peter Wallin 19660412
-Lars Börjesson 19651205
-Erica Czekansky Samuelsson 19940420
-Martina Feuk 19681112
-Olof Samuel Ahlström 19680713
-Pernilla Törnqvist 19910221
-Salwa Krounbe 19640715
-Catarina Johansson 19680810
-Göran von Brömssen 19730926
-Jennie Pettersson 19810116
-Elvin Ismayilov 19810529
-Ewa Henning 19560328
-Edina Kusturica 19750418
-Alexander Demirel 19950507
-Tobias Samuelsson 19970610
-Viktor Johansson 19910620
-Johanna Reimers 19760927
-Victor Ceder 19990812
-Eva Marie Arvidsson 19600926
-Gabriel Josef 19680908
-Lisbeth Sandin 19491122
-Mehran Moghaddam Hosseini 19640602
-Joakim Ramsberg 19680113
-Emil Andreasson 19920104
-Mattias Muratson 19880930
-Wajdi Lahdo 19650101
-Henrik Olsson 19651018
-Daniel Kourieh 19550314
-David Celik 19820429
-Inger Viola Christensson 19471107
-Jesper Edlind 19690504
-Frida Warnemyr 19990122
-Diana Fredborg 19970708
-Sami Tewolde Ambaye 19820123
-Johanna Ageborg 19881007
-Sanna Hörlind 19690816
-Shwan Zaiya 19720514
-Potros Potros 19700912
-Alibeki Solak 19580405
-Sandra Lundmark 19770330
-Rose-Marie Pflug 19590403
-Filip Rabi Bahno 19910323
-Rooda Yusuf 19781225
-Jon Andersson Grahn 19931205
-Rickard Hedlund 19720628
-Karin Ljungberg 19591005
-Josephine Belboul 19880619
-Anders Åhslund 19630701
-Janni Kajbrink 19750522
-Yakhanis Zaya 19560401
-Lotta Åsevi 19760505
-Liliana Börjesson 19691205
-David Anil Khanna 19700827
-Thomas Johansson 19710105
-Johan Westberg 19800618
-Lina Keriakous 19860701
-Ola Dyrhill 19670901
-Tommy Källman 19580618
-Philip Claesson 19770314
-Camilla Andersson 19770703
-Benny Svensson 19500903
-Erik Gustav Norrström 19660221
-Maj Ingegerd Adolfsson 19570221
-Fredrika Mattsson 19740919
-Per Eriksson 19661205
-Fredrik Saxborn 19740909
-Eric Berggren 19931025
-Tobias Holmström 19940922
-Joakim Gustavsson 19930105
-Peter Håkanson 19661110
-Göran Rudbo 19590723
-Richard Karlsson 19870531
-Anette Rusten 19790312
-Annelie Johansson 19591224
-Sven Olof Finnman 19580220
-Carl Palsson 19820722
-Anton Voxberg 19961008
-Ingemar Björk 19610206
-Gustav Banck 19920201
-Rezek Mamoush 19641201
-Ulf Hansson 19621116
-Jonas Christian Ahlström 19690622
-Jan Bylund 19660826
-Jesper Mårtensson 19740312
-Ingrid Svensson 19721101
-Magnus Aresund 19640222
-Anders Wennberg 19641007
-Sebastian Alfredsson 19940217
-Malin Johnson 19700831
-Josefine Ekman Colliander 19810519
-Lars Jansson Bernfjord 19620915
-Herman Jansson 19720610
-Eva Carin Elisabeth Ranehill 19780224
-Dan-Olof Robert Axelsson 19651101
-Pamela Pérez Gazmuri 19751218
-Thomas Zaks 19750304
-Otto Myhrberg 19960311
-Carl Börjesson 19850105
-Samuel Alexandersson 19790808
-Rickard Segerdahl 19730609
-Adam Simonsson Rosenkrantz 19920518
-Karl Anders Alexandersson 19650811
-Stefan Palmér 19720309
-Jörgen Skarstig 19741111
-Malak Hassan 19900710
-Peter Baltzersen 19720506
-Anita Abraham 19850813
-Jonas Canova 19720329
-Sara Nilsson Gunne 19811026
-Leif Karl-Janne Gustafsson 19600216
-Sule Pütün 19880727
-Lena Gustafsson 19750702
-Karol Schultz 19970510
-Fredrik Eliasson 19620604
-Tamás Ákos Fazakas 19750103
-Jonas Södergård 19790812
-Bertil Macao 19690403
-Stina Lamm 19910116
-Per Roland Axelsson 19720810
-Magnus Jonsson 19750103
-Caroline Guldbrand 19750101
-Peter Larsson 19691203
-Johan Egvik 19891116
-Jan Wingård 19560330
-Jan Karlsson 19560304
-Margaretha Lundqvist 19560531
-Niclas Andersson 19740304
-Anders Källhage 19760728
-Panisara Sanorklang 19761027
-Iben Danielsen 19740317
-Wera Ellinor Linnea Larsson 19920825
-Carl Johansson 19921017
-Evelina Wahlsten 19850320
-Ghadeer Berg Fakeh 19830128
-Reine Christer Spiik 19490418
-Gunnar Janzon 19480827
-Kerstin Margareta Ljungström 19580430
-Ni Putu Pratiwi Yuliana 19890708
-Fredric Trydal By 19920828
-André Eriksson 19931129
-Ahmad Nazare Gustafsson 19570910
-Marcus Arfwidsson 19730703
-Hans-Erik Olsson 19490711
-Thorbjörn Bengt Åklint 19670930
-Tomas Svensson 19520310
-Biyu Lundgren 19620118
-Tore Johansson 19560616
-Besim Kurt 19690101
-Andreas Wallberg 19841125
-Anna Pallarp 19560722
-Zolly Abbasi 19570823
-Fredrik Engler 19721013
-Americo Castro Iturriaga 19560417
-Philip Dos Santos Jadidi 19900817
-Samuel Bäckrud 19760212
-Åsa Hallberg Holm 19680321
-Peter Bäck 19611220
-Johan Nyström 19730508
-Erik Henriksson Lantz 19970108
-Jesper Eriksson 19940923
-Linnéa Olsson 19960412
-August Österman 19940924
-Rebecca Johansson 19670112
-Saulius Derkintis 19920910
-Klas Ekedorff 19530223
-John Henrik Hallberg 19730709
-Therese Nielsen 19860426
-Elaine Sannestål 19580629
-Petter Lundström 19660624
-Trine Flatjord 19700504
-Rikard Lindén 19690202
-Marita Ammon 19570614
-Mikael Johansson 19711009
-Fikri Zhaco 19660218
-Mats Särnholm 19660602
-Martina Ottosson 19720810
-Benjamin Düperthal 19780315
-Anna Johansson Fagerlund 19940129
-Peter Johansson 19660129
-Christian Jansson 19750605
-Brita Sivertsson 19510804
-Anna Lysemark 19731219
-Miroslaw Jozef Bodio 19580102
-Nicholas Gleed 19761012
-Britta Marklund 19750312
-Simon Johanen 19750119
-Maria Drewitz 19790213
-Jimmy Åkerström 19741021
-John Rangström 19510226
-Gabriel Reinwalds 19860513
-Jennifer Novenius 19930417
-Malin Hållenius 19660413
-Nils Marcus Skotnes 19910710
-Kristian Johansson 19811127
-Selma Liesén 19740406
-Mahtab Karimi 19780127
-Josefin Nilsson 19971116
-Axel Prytz 19940226
-Salwa Abdul-Rahman 19931219
-Key Eliason 19550208
-Andreas Hallonkvist 19730210
-Cecilia Arvidsson 19780216
-John Mattsson 19850721
-Pernilla Nyblom 19691002
-Tomas Utterhall 19660427
-Eric Ericson 19790112
-Andreas Ganefjord 19780603
-Patrick Spik 19931126
-Mikael Antonsson 19830207
-Robert Nyqvist 19810321
-Johannes Darholm 19920827
-Lars Nilsson 19501217
-Farshad Safdari 19970215
-Monica Bengtström Floback 19670527
-Pernilla Lindén 19691031
-Lars Landahl 19590416
-Hampus Klint 19990425
-Jonna Hanzén 19980621
-Josef Oguz 19910120
-Vincent Simson 19970222
-Ola Attman 19760118
-Merja Karlsson 19620906
-Pontus Lindstrand 19941216
-Yvonne Berg 19580510
-Caroline Trygged 19850707
-Carolin Lidhed Freiholtz 19760216
-Arvid Nilsson 19981216
-Jesper Ramsberg 19990124
-Ahmed Daahir Abdiqani 19971120
-Yvonne Deciré Glans 19570713
-Ludwig Olsson 20000823
-Patrik Johansson 19791122
-Daniel Berntsson 20001226
-Thomas Olsen 19680903
-Emma Nilsson 19760415
-Zackarias Holtelius 19720104
-Göran Haeger 19591030
-Samira Chavoshi 19830713
-Albin Bergkvist 19980909
-Susanne Ottosson Rösmark 19660714
-Hans Bishop 19650317
-Anna Elfström 19860102
-Björn Westman 19760528
-Karolin Zander 19791102
-Robert Wiktorén 19750505
-Eric Larsson 19710226
-Carina Nilsson 19710314
-Jonas Ahnqvist 19790625
-Ulrika Andersson 19750812
-Mats Bjur 19750211
-Magnus Stensjö 19960217
-Joel Lesser Hermansson 20001228
-Ingrid Bergman 20000930
-Jonas Österberg 19700522
-Lina Ahlström 19870516
-Ali Faizi 19971128
-Sofia Sandahl 19840317
-Susanne Park 19740401
-Henrik Ruuth 19850907
-Peter Kvarefelt 19591230
-Linda Jacobsson 19680909
-Björn Fagerkrantz 19721004
-Peter James Wootten 19891229
-Weronica Marberg 19680604
-Peter Stenquist 19750823
-Emanuel Yevno 19800725
-Eva-Lotta Örn 19700313
-Jonathan Björklund 19981120
-Jan Tunälv 19560203
-Britt-Louise Klevendal Englund 19660114
-Maria Börtin 19650509
-Mats Karlsson 19670303
-Ann-Charlotte Dellgård 19711012
-Stefan Pauli 19681014
-Mattias Heneborn 19710319
-Elias Elias 19960906
-Susanne Ullberg 19700824
-Helena Lundgren Lind 19660107
-Christian White 19671019
-Henrik Kjellén 19560415
-Ingemar Reinholdt 19670513
-Geo Larsson 19530926
-Björn Annwall 19750425
-Thomas Nilsson 19620807
-Claes Larsson 19620607
-Charlotta Persson 19710320
-Cecilia Linnér 19681218
-Cecilia Karlsson 19680618
-Max Börling 19960513
-Teresia Svanvik 19740714
-Malin Pernilla Svantesson 19811221
-Johan Gren 19710728
-Klara Lager Sandberg 20001022
-Arne Jönsson 19540529
-Filip Aust 19790613
-Mikael Öström 19690125
-Marcus Oledal 19650309
-Paul Lindberg 19710523
-Stefan Leander 19740916
-Patrik Svennung 19950918
-Isabella Stapleton 19850101
-Anna Hibbs 19850501
-Linda Ivarsson 19740804
-Martin Burefors 19651104
-Jamileh Bakhoon 19600321
-Helena Backman 19680406
-Mohammad Dalal 19960806
-Céline Diana 19970818
-Per Thomas Ingvar Gradstedt 19481208
-Erik Persson 19931024
-Anna Kihlman 19681009
-Angela Kupresanin 19720808
-Jonas Hedeback 19781117
-Abolghasem Rakhshani Mehr 19500321
-Ghada Abou Hossa 19740126
-Sebastian Kjellblad Hedström 19960104
-Anna Larsson 19631006
-Agneta Sahlin Brunius 19490924
-Joakim Berndtsson 19750528
-Mikael Johansson 19580323
-Camilla Segertoft 19690306
-Eva Annmarie Kylenfelt 19470318
-Mikael Backlund 19700618
-Carl Nyman 19740819
-Eva Svendsen 19500308
-Eva Inger Carina Andersson 19470204
-Håkan Henry 19640812
-Per-Arne Svanberg 19490316
-Fredrik Lööf 19810208
-Mats Berg 19520930
-William Moretti 19570120
-Ann-Margreth Elisabeth Andersson 19490316
-Madeleine Engelin 19760915
-Rina Arfwidsson 19690923
-Maria Grönlund 19671017
-Chamoun Khano 19580505
-Nicklas Mårtensson 19670109
-Tord Anders Samuelsson 19490208
-Antonia Ahdrian 19950830
-Ingrid Elisabet Knutsson 19450926
-Kent Stefan Charliemo 19560521
-Lisa Gundel 19790207
-Gunnel Borgström 19660520
-Anette Maria Claesson Bäck 19500913
-Magnus Bergelin 19741115
-Sandra Jenny Kristoferson 19800610
-Kjell Håkan Allan Håkansson 19690227
-Anne Katarina Årenberg 19711104
-Kamil Niescieronek 19890927
-Ingvar Karlsson 19470409
-Martin Larsson 19880304
-Monica Hansen 19740515
-Evelina Sandström 19850509
-Caroline Nygren 19840630
-Zeki Celik 19710116
-Niclas Jarhäll 19671123
-Martin Bällgren 19620510
-Ghasem Bajdan 19620706
-Sara Toghanian 19790828
-Johan Marani 19910920
-Andrus Björn Lepik 19470918
-Geurg Lahdou 19561203
-Jonas Artursson 19740129
-Isa Urün 19780503
-Debashish Banerjee 19750921
-Aziz Aslan 19860512
-Agnes Sjöberg 19840404
-Frans Danho 19920830
-Musa Aydin 19650102
-Catarina Morén Styf 19850126
-Astrit Haziri 19880703
-Janthana Kaewsinkha 19711126
-Alexander Öberg 19820803
-Tomasz Brychcy 19660302
-Anna-Karin Sävemalm 19710311
-Ismuni Kahraman 19880115
-Vesna Dimitrievska 19801014
-Jarmo Närhi 19710707
-Andreas Wallander 19700324
-Linda Alfredsson 19810820
-Magnus Igel 19661216
-Rikard Persson 19800421
-Emina Hadzic 19530620
-Elisabeth Landsten 19680820
-Simon Haddo 19930825
-Susanne Rhodin 19630320
-Gunilla Olofsson 19600509
-Martin Petersson 19680311
-Peter Nyström 19760417
-Faris Kalasho 19521222
-Ronnie Tenggren 19700717
-Pedro Thersthol 19700811
-Roberth Bror Johansson 19560414
-Robert Ay 19870325
-Märit Malmberg Nord 19720803
-Per Skoog 19750720
-Maud Thorpö Dahlöf 19600310
-Katarina Abrahamsson 19570906
-Anna Karlsson 19800324
-Gunnar Axelsson 19580310
-Monica Birgitta Tannenberg 19570524
-Björn Carlzon 19750626
-Gunborg Polson 19500922
-Birgitta Anne-Christine Hård 19510510
-Mårten Westlund 19760919
-Yasar Aydin 19710101
-Anne Nilssen 19540205
-Pernilla Rör 19720303
-Klas Göran Fürst 19560511
-Marianne Lindris 19670501
-Mikael Nilsson 19780414
-Jonas Valentin 19580302
-Susanne Fox 19640601
-Linn Ekhed 19790123
-Helena Hjälmeby 19631224
-Lykke Barck 19740122
-Avraham Yoorkevich 19571112
-David Kinnear 19600922
-Martin Henningsson 19770803
-Mattias Granlund 19821117
-Anders Johansson 19520805
-Robin Niklasson 19650604
-Edvin Voxberg 19980203
-Eric Nils Pär Claesson 19830510
-Bo Bertilson 19550426
-Harald Angström 19580520
-Marie Öhrnberg Adeborn 19520505
-Lillemor Williamsson 19541104
-Erica Schweder 19770729
-John Hessel 19680704
-Anders Pålsson 19670224
-Kwon Cho 19600426
-Jenny Arro Suopanki 19821026
-Eiren Grace Tatoy Eriksson 19660314
-Maria Kristina Loustalot-Forest 19741202
-Pia Ljungström 19550116
-Anna-Karin Blomqvist 19720802
-Jonas Henriksson 19830105
-Amir Mashhadikarsalari 19780422
-Saliba Kurt 19970629
-Jan Fonselius 19560518
-Joacim Dahlberg 19660203
-Ulrika Löfgren 19670112
-Anders Göransson 19620416
-Chawanatt Leenam Christiansen 19700216
-Nanna Stranne 19860305
-Annika Helander 19741216
-Ingemar Widman 19541223
-Anders Håkansson 19670221
-Samuel Götestam 19860417
-Peter Envall 19780321
-Anders Ströby 19530702
-Annika Nilsson 19730728
-Maria Johansson 19870920
-Christian Nelin 19740716
-Birgitta Krafft 19650817
-Pernilla Larsson 19720717
-Helena Vretman 19630506
-Gudbjörg Hermannsdottir 19670204
-Peter Josefsson 19660509
-Anna Wiklund 19680410
-Karen From 19700303
-Sussan Samuel 19770128
-Emilia Kjellén 19821225
-Dikran Aydin 19700101
-Per-Ola Marius Törnqvist 19610626
-Måns Eeg-Olofsson 19670503
-Annelie Enochsson 19531029
-Anna Klara Andersson Fredell 19780426
-Jonas Melin 19870603
-Shayesteh Zahra Sedighzadeh 19540909
-Charlotte Lundqvist 19871120
-Monica Bengtsson 19650104
-Caroline Bankler 19831209
-Wang Chee Chui 19700628
-Kristina Jarnevall 19631009
-Anders Karl-Erik Granberg 19580213
-Cecilia Beckung Jurinic 19670210
-Annakarin Wolfsberg 19750512
-Jessica Larsson 19720801
-Göran Karlsson 19550805
-Anders Magnussen 19660318
-Johan Ros 19730218
-Ingrid Ahlström 19510403
-Marek Zdrojewski 19550829
-Carl Lindberg 19811006
-Rustan Pettersson 19511006
-Drilona Hani 19871130
-Eva Anette Karlsson 19510503
-Kerstin Bergström 19550428
-Susanne Lundgren 19680708
-Xiao Ping He 19680128
-Per Fjellstedt 19630703
-Marie-Louise Björk 19520602
-Kent Jörgensen 19610128
-Ebba Leksell 19751114
-Folke Seldén 19650806
-Jan Skoglund 19600303
-Rania Elkhoury 19770520
-Ulrika Sahlin Munkby 19681225
-Johannes Winroth 19731227
-Jacob Grenabo 19810316
-Magnus Holmström 19680414
-Pia Rudhede 19570817
-Sven Benediktusson 19530601
-Pernilla Hallin 19700628
-Inga Hybbinette Krook 19510904
-Mecide Aslan 19550501
-Jean-François Patrick Lambert 19680729
-Pål Faxén 19651227
-Brita Arvidsson 19510720
-Per Lundahl 19590125
-Per Robert Hedström 19551218
-Sofia Karlsson 19780925
-Patrik Boivie 19760301
-Annica Bothén Ghafouri 19640409
-Håkan Falkell 19650520
-Per Hermann 19750417
-Joakim Olsson 19721124
-Lena Svantesson 19560601
-Ulrika El-Aaraj 19730628
-Stian Ström 19700223
-Frida Skotnes 19880925
-Anne Maugesten 19560107
-Christina Ehrenborg Staffas 19541012
-Erik Gustafsson 19771008
-Sofia Månsson 19660804
-Thomas Ljungné 19660208
-Oscar Boldt-Christmas 19740107
-Maria Almberg 19660921
-Ottmar Cronie 19790911
-Maria Brattwall Holmquist 19740617
-Jens Lindblom Arvidsson 19680722
-Magnus Risell 19610422
-Jette Larsen 19490415
-Arne Larsson 19560713
-Muhammad Koshnao 19660603
-Daniel Wändemark 19750421
-Marcus Eriksson 19950422
-Charlotta Leer-Andersen 19720214
-Daniel Malmhäll 19840518
-Olof Jonsson 19570312
-Jim Ersson Blomqvist 19800201
-Ingvar Sahlin 19490826
-Mikael Edman 19610919
-Abil Zuta 19700720
-John Ingmar Freddy Spencer 19551013
-Urban Netsner 19800820
-Martin Hedman 19761109
-Kristina Johansson 19711101
-Robert Hasselblad Wass 19730410
-Ulf Åsevi 19730303
-Markus Jacobsson 19830927
-Agneta Rubensson 19690401
-Sofia Beckman 19800515
-Ulf Olofsson 19670707
-Liviu Popa 19480416
-Pontus Theander 19820821
-Jesper Strand 19830415
-Anders Gösta Granung 19720522
-Eva Hallén 19580505
-Annie Hedlund 19871104
-Cecilia Ekelin 19730225
-Christina Höglund 19570713
-Ida Bråthen 19840111
-Mathias Hultén 19841112
-Ulla Ellinor Bruhn 19511225
-Carolina Gäbel 19750814
-Jesper Cederholm 19660708
-Gabriel Halldin 19790224
-Inger Elisabeth Karlsson 19480126
-Carina Attesten 19600418
-Christian Hermansson 19780226
-Olof Thorsson 19691002
-Christina Ingela Börjesson 19631130
-Gabrail Younan 19560404
-Charlie Orlenius 19760619
-Kurt Björner 19530826
-Eshu Amanouel Zaro 19870905
-Sara Kristensson 19720414
-Jasmin Krohn 19661122
-Ingrid Cecilia Gunberg 19480313
-Johnny Oskarsson 19510521
-Bengt Frisk 19551004
-Anna Borg 19671125
-Per Ohlsson 19540917
-Janette Michaela Vejman Edelhajt 19691029
-Karl Gunnar Sahlin 19570527
-Anders Berndtsson 19560929
-Christoffer Samuelsson Kawmi 19980511
-Leif Åke Engelbrektsson 19551001
-Maja Lena Freiholtz 19471004
-Peter Sandsjö 19510725
-Carin Margareta Nyrud 19590115
-Liselotte Thonell 19630508
-Elias Ercin 19740220
-Joacim Öberg 19591103
-Maria Eriksson Jonefjäll 19821028
-Sami Celik 19801212
-Hans Wicklander 19630320
-Hanna Stenström 19811004
-Gunnar Blanke 19630211
-Marianne Magnusson 19500222
-Sara Veronika Hermansson 19821111
-Anna-Maria Breiter 19680608
-Marianne Paulsen-Medalen 19640216
-Olof Andreasson 19800907
-Eva Klingberg 19651102
-Eva Saxborn 19780530
-Lars Olsson 19630325
-Anne Fagerholm von Schedvin 19501107
-Jenny Andersson 19850822
-Mariann Hugon 19561018
-Åsa Hafvenstein 19740418
-Carina Eriksson 19700127
-Gun-Britt Marcusson 19560828
-Pia Löfgren 19700319
-Lars Gunnar Andersson 19540319
-Barbro Eriksson 19540707
-Jonas Kjellberg 19860730
-Ulrika Green 19561015
-Mats Andersson 19561122
-Petter Hajtowitz 19770707
-Erik Udesen 19640417
-Toomas Koit Tartu 19640303
-Iskender Demirel 19490101
-Pär Danielsson 19641107
-Johnny Nilsson 19851002
-Kjell Larsson 19640530
-Mikael Ellsinger 19841122
-Nayef Farah 19560912
-Lars Erik Larsson 19531109
-Michael Quaye 19520910
-Lars-Olof Gustafsson 19590320
-Carl Bergdahl 19790913
-Maria Carinae Norrström 19670718
-Angelica Jönsson Dindic 19810627
-Mohammad Kabir 19741216
-Malin Viberg 19850121
-Maria Helena Samuelsson O'Neill 19670818
-Thor Birger Ahlström 19521021
-Cecilie Hveding 19680307
-Annika Karlgren 19830815
-Anette Nancy Svensson 19591202
-Tobias Ednersson 19791105
-Musa Staifo 19500101
-Hanna Millberg 19741003
-Hormis Haji 19710927
-Karolina Inga Elisabet Zachrisson 19820809
-Thomas Hermansson 19560820
-Karl Maack 19780908
-Eva Margareta Larsson 19470924
-Charlotta Alsterstad Lindfors 19720817
-Katarina Evenseth 19631227
-Annelie Blom 19631014
-Zacharias Zahir 19930303
-Carina Persson 19751014
-Therese Leiner 19750807
-Karolina Colliander Chronholm 19690705
-Urban Wåhlander 19570325
-Irene Gunnarsson 19510217
-Ann-Christin Andreasson 19611106
-Larisa Modh 19760307
-Linus Jernby 19820322
-Björn Stigring 19530314
-Per Anders Hedegren 19570502
-Annika Lessmark 19710331
-Tina Törnqvist 19860320
-Jonas Göthberg 19670430
-Marie-Louise Andersson 19651103
-Joacim Duvqvist 19740524
-Ingemar Staberg 19560118
-Svante Andreasson 19560114
-Niclas Erlandson 19661221
-Anette Eriksson 19610903
-Anna Lindgren 19860403
-Maja Henriksson 19510912
-Anders Eriksson 19590602
-Elisabeth Seglem Wecke 19530606
-Marek Tadeusz Malek 19550322
-Gabriel Zhaco 19630101
-Peter Templin 19690328
-Barbro Ann-Britt Ström 19500223
-Margareta Christina Wood 19510526
-Jennie Jonsson 19751225
-Ellinor Clarke 19750113
-Per-Edward Gustaf Ljungqvist 19540227
-Lucy Can Aydin 19830203
-Peter Ström 19740530
-Monica Evelyn Hultgren 19520911
-Diana Börjesson 19820408
-Karin Reinholdsson 19710331
-Dan Hillén 19610927
-Karin Gabrielsson Fagerberg 19571113
-Christer Hyléen 19600227
-Anders Ternevi 19790304
-Lars Lorentzon 19580930
-Marcelo Flores Romero 19760218
-Nicme Staifo 19590101
-Carl Almgren 19790705
-Yumei Li 19700905
-Gilbert Mellin 19510522
-Maria Bergenholt 19640626
-Wen Pei Wu 19540403
-Agnes Andrén 19850306
-Carl Johan Alphonce 19700103
-Hans Österlund 19660301
-Stephan Larsson 19570616
-Eva Dalerstedt 19550810
-Lars Christensen 19620116
-Mikela Falk 19671212
-Gustav Grundén 19910710
-Anders Karlsson 19710716
-Karin Hederoth 19791125
-Cathrine Zetterström 19650702
-Eva Aldelind 19721124
-Sofia Persson 19930718
-Lars Erik Werner Klippsjö 19670327
-Martin Hasselberg 19700309
-Ulf Anders Magnus Brännberg 19791106
-Cajsa Kjellberg 19970703
-Karin Sjöholm 19600725
-Hanfried Brockmann 19710127
-Mats Svensson 19750823
-Håkan Svensson 19660118
-Vilhelm Gustavsson 19780921
-Jonathan Lindén 19910903
-Aram Bozkurt 19530310
-Mirna Hleihel El Karout 19780911
-Jamil Goria 19570303
-Pia Angervall 19650301
-Nadan Kahraman 19840113
-Linus Haddo 19960824
-Annette Westöö 19770708
-Björn Anderlund 19591005
-Margaret Torisho 19640803
-Siv Svensson 19570416
-Georgiana Sapera 19790510
-Malin Ottosson 19711020
-Maria Cicek 19780428
-Mitra Sari 19680720
-Noa Samuelsson 19981224
-Marianne Wedblad Ryding 19470317
-Emelie Seeliger 19790530
-Inger Kristina Hallén 19471120
-Jan-Olof Bäckström 19551229
-Natalia Piccinelli 19500103
-Ulla Gunilla Hjalmarsson 19490801
-Dino Alexander Johannes Wecke 19860717
-Barbro Agneta Blom 19470524
-Björn Malcolm Lindblad 19490824
-Clas Göran Sköld 19470311
-Kiersti Håkansson 19451030
-Bodil Gunilla Ripa 19460920
-Anders Bertil Abrahamsson 19710130
-Jim Larsson 19520928
-Karl Lennart Magnus Lagerkvist 19460803
-Alla Choifer 19601015
-Ritva Emms 19460506
-Katrine Breikss Söderholm 19580823
-Claes Göran Baur 19490423
-Hans-Olof Cederberg 19540531
-Eva Ann-Christin Pettersson 19460130
-Simon David 19560201
-Sven-Olof Olofsson 19490715
-Annika Janson 19670203
-Eric Bladbäck 19810110
-Olof Grundell 19460126
-Helle-Mai Vöörmann 19491118
-Carola Nordlund 19601117
-Linda Thörnblom 19730326
-Eva Marianne Jonasson 19470214
-Mattias Hjälmered 19720407
-Jonas Åvall 19760307
-Jan-Erik Dahlin 19490216
-Mona Aggfelt 19471017
-Eivor Ingegärd Johansson 19461225
-Beatrice Leyon 19740821
-Thomas Lundberg 19500422
-Margareta Flink 19470630
-Kenneth Andersson 19490903
-Per Wassén 19611019
-William Hagby 19760714
-Cecilia Hallenberg 19510213
-Anneli Waern 19750303
-Ann-Marlene Ingrid Johansson 19531126
-Ingvor Larsson 19461107
-Johanna Vollstedt 19770303
-Peter Wittrup 19731115
-Christer Johansson Landgren 19530325
-Sofia Lindbom 19811013
-Anne-Lise Hansen Theodorsson 19460816
-Gunnie Agneta Backman 19450923
-Ing-Britt Christina Wahlborg 19471216
-Marie-Louise Hansson Bernerheim 19530707
-Per Torgny Wilhelm Ohlsson 19500531
-Ingmar Holker Kristoferson 19450711
-Anders Lindh 19670312
-Karl Gunnar Nordanstad 19460508
-Bengt Rune Netsner 19491104
-Jessica Attman 19760817
-Marianna Benewiat 19450815
-Håkan Svedberg 19500204
-Anna Sofia Maria Sundqvist 19801103
-Christina Dacking 19671225
-Lars Åke Olofsson 19451128
-Ros-Marie Ahlström 19470505
-Hans Jacobsson 19610227
-Ulrika Arensberg 19650310
-Agneta Marie Andersson 19470324
-Anette Ahlström 19480326
-Sven-Erik Nyström 19460808
-Jan Magnus Smith 19500525
-Bengt Olof Lindgren 19470530
-Majdoline Aslan 19580517
-Mikael Lundin 19540221
-Jonas Nordquist 19810515
-Henny Inga-Maj Persson 19451201
-Susanne Johansson 19610703
-Per Magnus Dahlgren 19481111
-Håkan Hedenkvist 19491123
-Christina Johansson 19680926
-Martin Gottschalk 19650303
-Göran Gunnar Nilsson 19541030
-Anne-Marie Larsson 19480226
-Henrik Lovell 19840226
-Peter Skoglund 19580330
-Ros-Marie Ekelund 19500423
-Gun Sonja Marianne Erlandsson 19471102
-Jan Lennart Larsson 19500802
-Gun Elisabeth Haglind 19470531
-Jan Erik Persson 19470510
-Jan Bengtsson 19460305
-Leif Allan Donnermalm 19461023
-Silvia Mattsson 19540514
-Jan Christer Weibull 19530623
-Kerstin Elisabeth Nyström 19500119
-Arne Lars Anders Gustafsson 19460902
-Björn Thomas Birger Bernehed 19581124
-Ingbritt Yvonne Sjölin 19450916
-Philip Axe 19700611
-Helena Selborn 19460310
-Sigbrit Marita Kylhov 19530306
-Peter Koch 19510705
-Eva Book 19500106
-Cecilia Abbas 19700528
-Kenneth Larsson 19550225
-Bo Henrik Stenberg 19521128
-Judit Sonnenschein 19480218
-Lars Thomas Andersson 19600208
-Åse Marie Palmqvist Mattsson 19660520
-Britt-Inger Creutz Olsson 19510201
-Arvid Henrik Staffan Hellström 19461229
-Tomas Åsberg 19660322
-Carl Gunnar Axel Eng 19470714
-Oscar Roger Wallmark 19450726
-Torbjörn Sterner 19640209
-Frida Lindskog 19870714
-Mats Larsson 19490513
-Ann-Charlotte Falkheden Henning 19611020
-Agneta Holm 19490319
-Elisabeth Gödesch 19470716
-Håkan Holm 19460723
-Ingmarie King 19470530
-Britt-Marie Christina Tunbratt 19470721
-Franz Erik Schneider 19690906
-Danuta Jelinek 19540212
-Sture Göran Magnusson 19471118
-Gösta Ingemar Johansson 19451104
-Ingela Gulli Birgitta Jägsten Jonason 19470315
-Peter David Herbert Björnhage 19471126
-Anna Agnieszka Pronobis-Torstensson 19481101
-Barbro Dagmar Johansson 19461226
-Ylva Marie Insulander 19490325
-Lili Rosén 19771026
-Susanne Ahlqvist 19590816
-Christina Birgitta Tidholm 19460314
-Jan Herbert Ulemo 19450928
-Åsa Hellström Andersson 19711007
-Jan Olofsson 19451023
-Henrik Staberg 19790221
-Claes Ivarson 19481012
-Ingvar Henry Henriksson 19451031
-Lakke Wiholm 19470729
-Synnöve Strandö Eriksson 19470309
-Stefan Witte 19460525
-Eva Doris Karlsson 19460801
-Johan Nathorst-Westfelt 19460411
-Margareta Veronica Gunnarsson 19451114
-Margareta Rylander 19460211
-Ragnar Bengtsson 19580128
-Sofia Eklöv 19741026
-Alexander Markelov 19821212
-Matti Kaarlo Juhani Kontio 19460704
-Carl-Gunnar Fridh 19471127
-Jasmina Karlsson 19731203
-Maria Blume Normington 19760713
-Inger Monica Bergström 19500122
-Astrid Ing-Marie Lundin 19451024
-Ann Edström 19500808
-Bengt Andersson 19490603
-Muhammad Omerain 19451203
-Katarina Nestenborg 19720102
-Anders Movert 19720212
-Bo Carl-Gustaf Johansson 19481130
-Gun Berggren 19461223
-Svante Hjertén 19670914
-Taraneh Hogmalm 19650410
-Nina Wahlberg 19671103
-Eva Berglund 19470904
-Christina Rosenberg 19500209
-Claes-Göran Berg 19510816
-Leif Ronny Bergqvist 19470330
-Christina Nilsson 19621101
-Ingela Bauner 19580626
-Gunnar Andersson 19620320
-Lisbeth Magnusson 19580414
-Åsa Hagman 19730304
-Stig-Åke Ivan Bonde 19461211
-Lars Arvid Tegni 19460810
-Marina Pettersson 19720815
-Alishwa Samano Zoumaya 19510215
-Nelly Pragler 19460328
-Gunnel Maria Gustavsson 19460401
-Inger Margret Nyman 19451210
-Mona Inger Sjöström 19461007
-Azieb Zerie 19620808
-Lovisa Bjugård Fagerlund 19921011
-Torgny Thim 19491027
-Jan Hanson 19490917
-Magnus Jönsson 19800402
-Marcia Braman Smith 19680925
-Rihana Mohamedyasin 19721019
-Ulla Oskarsson 19550727
-Sofia Niklasson 19780812
-Ingrid Lundberg 19551114
-Barbro Elisabet Schröder 19471206
-Mikael Eriksson 19670623
-Farzaneh Hesami 19690706
-Anne Andersson 19630701
-Kashif Anwar Butt 19750831
-Carina Glaversjö 19620401
-Iris Marianne Wiksten Brinell 19470303
-AnnaMaria Lindström 19680207
-Lars-Olof Andersson 19480206
-William Florin 19990706
-Max Robert Johansson 19470616
-Gun Lindgren 19500424
-Anette Madeleine Katarina Hofström 19451030
-Birgitta Molander 19501223
-Petra Hanssen 19770322
-Ibrahim Murad 19720105
-Ljudmila Tangvald 19490106
-Klas Eriksson 19500520
-Arne Sundblad 19510115
-Mia Jonsson 19710824
-Orom Denhau 19760104
-Naim Marouky 19660114
-Mikael Taube 19510429
-Ralph Andreasson 19460611
-Sonny Olerius 19550926
-Sven Ivarsson 19480701
-John Baroi 19480910
-Britt-Marie Jonasson 19460209
-Ogin Stefo 19751012
-Eva Kristina Canbäck 19451211
-Rigmor Birgitta Elisabet Johansson 19490124
-Jorma Styf 19480930
-Magnus Alin 19681018
-Nils Ove Stahre 19480705
-Uno Petersson 19490107
-Barbro Hultman Oleborg 19450719
-Marianne Björndal 19520422
-Simone Johanen 20000525
-Thomas Ahlström 19480108
-Linda Jeppsson 19870328
-Janina Kurasch 19550216
-Martin Eklund 19830124
-Lisbeth Lyngvi 19540110
-Anna-Carin Zettergren 19650310
-Torbjörn Larsson 19630404
-Christian Kazemi 19860825
-Viktoria Tryggvadottir 19860715
-Reza Babahajian 19630917
-Nicklas Häggqvist 19980228
-Sven Åke Jensen 19650330
-Elvira Aliefendic 19790103
-Remzi Limanoski 19510830
-Gentiana Zuta 19700428
-Birgitta Henriksson 19461212
-Rachel Deby Algani 19740425
-Amir Rahi 19790607
-Urban Löfgren 19621213
-Marikka Wingårdh 19800916
-Joachim Nettinger 19660531
-Dorota Polanska Tamborek 19670521
-Sanna Kaastinen 19890614
-Culyet Shamoun 19650101
-Sara Elisabeth Christensson 19820711
-Sevan Zaiya 19820304
-Rose-Marie Katharina Lindström 19481222
-Martin Ljunggren 19810924
-Yvonne Svensson 19590522
-Karoly Fenesan Löwenhielm 19710608
-Nina Forslund 19740808
-Sören Johansson 19480805
-Arber Hani 19960223
-Eva Monica Olsson 19480830
-Roger Dennies Tilschner 19460531
-Samuel Lindgren 19970416
-Lena Hölscher 19610608
-Dorin Zaia 19920724
-Ingemar Vernersson 19530524
-Camilla Röjemo 19710803
-Arina Axelsson 19751228
-Erkan Cetinkaya 19830705
-Evline Mourad 19750309
-Bo Nordling 19570918
-Samuel Bergman 19870115
-Bassam Youssef 19950215
-Sonia Somi 19660810
-Susanne Rudholm Nyman 19760921
-Ali Fayad 19911104
-Sirlene Albonete 19720214
-Tommy Håkansson 19890423
-Ghassan Sadawi 19700623
-Ricard Johansson 19861110
-Tahir Yousaf 19800916
-Zeki Dinc 19750303
-Annika Jarestam 19690825
-Edvard Seffo 19771102
-Xiaoqin Wang 19841223
-Rikard Liljesand 19860404
-Madeleine Sandell 19710415
-Kristian Ahlström 19791115
-Kajsa Söderlund 19841109
-Pontus Lund 19871203
-Adam Lindqvist 19920521
-Olle Lindkvist 19740826
-Mehmet Solak 19770724
-Simon Zhaco 19850614
-Sven Johan Nimmermark 19810608
-Mohammed Jan Gholami 19940515
-Samuel Norling 19850224
-Christina Arnergård 19910911
-Anders Arnlinder 19701029
-Emma Lund 19890711
-Malou Augustin 19840820
-Luiza Isoska Karaj 19880302
-Ruth Wickelgren 19650123
-Petter Björklund 19910921
-Aydin Garis 19660717
-Christoff Edfeldt 19820324
-Jeremy Schön 19940425
-Beryvan Saleh 19860919
-Ann-Louise Andersson 19720420
-Nader Hana 19701120
-Arnaud Tiquet 19850608
-Tomas Kucukkaplan 19740921
-Sara Schalin 19790719
-Anna Skripkin 19650715
-Gay Harari 19670511
-Sofia Gustafsson 19760326
-Hans Wassén 19640225
-Andreas Berg 19920509
-Lars Erik Gustav Rehn 19490416
-Dennis Karlsfred 19590215
-Lars Jildén 19570203
-Fritjof Bergh 19730701
-Mikael Aksöz 19940712
-Pernilla Andersson 19711024
-Kamilla Pewik 19930612
-Tommy Kärnfalk 19810923
-Helene Lahdo 19730107
-Birger Kempi 19471227
-Paul Furufors 19570926
-Lis Tottie 19600603
-Veronica Vanhanen Timsbro 19931130
-Marcus Ståleby 19811011
-Per Ingemar Persson 19531211
-Adam Persson Abidi 19960803
-Bo Gösta Adamsson 19490413
-Lillemor Snow 19470907
-Gabriella Melgar Cicek 19900912
-Björn Rehnqvist 19860504
-Wandi Axel Lundgren 19740925
-Sanna Nirvander 19870917
-Monica Larsson 19730701
-Armin Gasanin 19900821
-Farid Zarrinbal 19690321
-Anna Nordström Berle 19770426
-Ralph Åke Källström 19571107
-Paulina Budak 19900927
-Thimmy Hjerpe 19930126
-Malin Engler 19740317
-Helena Lindqvist 19550419
-Ewa Snickert 19571115
-Peter Apelgrim 19760718
-Blandina Mihael 19740401
-Sofia Nordenmark 19710803
-Kawar Amedie 19890604
-Johan Elia 19710406
-Inger Sonja Elisabeth Johansson 19481012
-Susanne Göransson 19710916
-Elin Fagerberg 19880119
-Olivia Ruckman Särnblom 19950830
-Lena Tång 19840129
-Helene Adolfsson 19650130
-Jonas Lodin 19830306
-Lena Ranbring 19590409
-Samir Babayigit 19790207
-Christina Kindström 19570420
-Elisabet Mutlu 19841102
-Peter Borg 19710114
-Recep Sak 19680224
-Gustav Theander 19980920
-Tom Söderberg 19880824
-Anna Nyqvist 19720717
-Per-Olof Björsell 19671108
-Renata Reinaux Curi Petrin 19830902
-Göran Carlsson 19590511
-Rihani Mirza 19700501
-Thomas Gustafsson 19660331
-Peter Börjesson 19750620
-Martin Glittsjö 19850103
-Widad Oraham 19690328
-Per-Erik Robert Edvardsson 19600812
-Linda Leimo 19760407
-Per Palmqvist 19840414
-Stefan Lindberg 19600422
-Susanna Rydberg 19790212
-Helene Traung 19800430
-Gabriel Glänte 19920819
-Inga Ann-Christin Gren 19510617
-Lars Östman 19660816
-Gunilla Gudmunds 19671014
-Hans Åkesjö 19520210
-Mats Nyblom 19570430
-Ann-Charlotte Birgitta Hägglind 19540608
-Lirim Kurtisi 19710926
-Mats Landh 19740121
-Anders Langré 19611023
-Frank Oskarsson 19930719
-Christian Furuknap Peschardt 19930826
-Leif Jarvid 19501002
-Madelene Magnusson 19960107
-Jacqueline Sjöberg 19890811
-Elsa Lansing 19860309
-Sara Kjellberg Ahlström 19711115
-Jan-Erik Höglund 19640522
-Björn Eliasson 19591029
-Anders Olsson 19790628
-Jan Fredrik Hallberg 19600318
-Ibrahim Ertas 19741213
-Christoffer Koch 19850404
-Carina Brask 19531105
-Lars Tomas Waldemar Ekström 19660118
-Shahpar Ghahari 19600929
-Ola Thuresson 19761203
-Sten Anders Martin Hellström 19630724
-Bo Johannesson 19620816
-Elida Linda Berisha 19761215
-Gunnar Bertén 19520428
-Sabo Johanen 19540425
-Caroline Rasmussen 19850830
-Tomas Ekvall 19630831
-Mathias Hindgren 19960818
-Hanna Josefine Axelsson 19821101
-Mathias Natanaelsson 19821108
-Kamuela Olayvar 19910212
-Sture Johansson 19560211
-Martin Löfstedt 19740310
-Petra Andreasson 19740505
-Bo Pettersson 19511120
-Aram Bahmani 19640325
-Lennart Andreasson 19571231
-Jan Karlsson 19590706
-Peter Ekelund 19641005
-Feride Yousef 19650831
-Emil Jönsson 19890205
-Karin Rilby 19820922
-Alexander Büller 19800413
-Carl Johan Ruklantha Ström 19820412
-Lorelei Dapito Margate 19861031
-Marina Björk 19841219
-Henrik Olindersson 19821104
-Adam Johnsson 19880726
-Kerstin Janice Elsa Viktoria Sjöström 19701212
-Maria Atto 19830721
-Agneta Birgitta Charlotta Björklund 19530208
-Rikard Johansson 19910806
-Thomas Hallbäck 19680204
-Daniel Maglica 19920522
-Martin Hagström 19800811
-Jonas Kalander 19700110
-Simon Reckebo 19930705
-Burak Sahin Solmaz 19880205
-Jens Burö 19750922
-Jim Kontro 19820419
-Linda Johansson 19770310
-Kevin Pham 19780312
-Lena Ahnfeldt Friberg 19480128
-Christina Andersson 19480130
-Jonas Ucar 19871106
-Åke Karl-Gustaf Germundsson 19530730
-Lars Nyborg 19560805
-Victor Ryd 19891012
-Christina Elisabet Wahl 19491118
-Lamia Johnsson Khallafi 19790617
-Sara Arnstedt 19940425
-Thomas Seldemark 19591028
-Dan-Inge Asp 19530422
-Anders Ljusberg 19840924
-Erik Jonas Mujiarto Eriksson 19820117
-Thomas Erik Carlsson 19510503
-Andreas Berggren 19850514
-Jens Påhlson 19640423
-Kenneth Lange 19531028
-Birgit Elisabet Abrahamsson 19480330
-Ninoslav Luburic 19780107
-Hanna Strömblad 19890302
-Mike Seldemark 19850402
-Gevriye Isik 19561001
-Kinora Kristiansson 19910719
-Gerd Renée Glud 19550728
-Souleiman El Zein 19830102
-Ellinor Svensson Brandt 19910906
-Bhagyesh Ashtekar 19790518
-Suzanne Borgström 19550625
-Claes-Göran Berg 19480815
-Adam Lyckeborn 19940802
-Markus Junghard 19780525
-Inger Öhman 19550827
-Lennart Ingvar Eskengren 19531116
-Christofer Roger Larsson 19880127
-Lars Christer Björkvall 19660902
-Johan Mikael Jansson 19790414
-Martin Härenstam 19800505
-Eva Ann-Charlotte Andersson 19480525
-Johan Storåsen 19780104
-Martin Ferm 19830414
-Thomas Larsson 19540508
-Elisabeth Strandberg 19700426
-Ulrika Wollmersson 19701020
-Kristina Karlsson 19650505
-Jesper Pernefors 19730706
-Ulf Lennart Nordqvist 19490401
-Jacop Garis 19680429
-Philip Thomassen 19900405
-Peter Mattias Henricson 19730322
-Frida Rydén 19860329
-Therese Söderberg 19630720
-Linn Nordström 19930502
-Morgan Höglund 19710326
-Lotta Hellstrand 19721220
-Per Jadesjö 19690614
-Jens Rasmussen 19640322
-Tobias Wallén 19781017
-Ibrahim Aydin 19650401
-Bengt Jonas Dyrevik 19680608
-Kerstin Eklund Wennerström 19520508
-Philip Lu 19950718
-Elisabet Andersson 19870708
-Lisbeth Mariann Gillberg 19540908
-William Raneflod 19920121
-Charlotta Eidenskog 19760524
-Carl Ingemar Berglund 19560407
-Gabriella Malke 19830606
-Sanna Andersson 19870607
-Lena Ängsal 19730607
-Pär Ekelöf 19850823
-Angelica Oscarsson 19760329
-Jan Gustafsson 19710113
-Kristina Edvall 19750513
-Linda Forsberg 19770224
-Naeem Soltani 19790321
-Anjna Patel 19681009
-Diana Beiruti 19910104
-Maria Sofi Kristensson 19710306
-Jan Söderberg 19590317
-Ralf Lindqvist 19520928
-Hans Peter Pilups 19530113
-Eric Gustafsson 19850515
-Göran Blom 19600210
-Inger Marie Johansson 19540608
-Helen Östlund 19900919
-Björn Carlsson 19680112
-Ann-Britt Lidbert Karlsson 19510426
-Oscar Jakobsson 19850919
-Thomas Gunnar Alexandersson 19570319
-Venkatachal Seetharam Hegde 19700716
-Karin Ericson 19781119
-Lena Ehrnborg Grosshög 19620412
-Emil Arne Bernhard Nilsson 19811122
-Malin Moberg 19660409
-Åse Agneta Kopp Johansson 19680309
-Malin Sandedal 19800611
-Stefan Elm 19650805
-Linda Sylvén 19800813
-Emil Wigren 19960402
-Jerrye By 19560626
-Sven Holmblad 19650310
-Emil Hjälmeby 19851109
-Robert Tranberg 19690721
-Kerstin Birgitta Ytterdahl 19470918
-Kaleb Mocye 19901220
-Karin Albertsson 19630916
-Kent Jonsson 19600705
-Liselott Hedström 19671204
-Erik Bergkvist 19831210
-Magnus Lundvall 19810820
-Peter Jaktling 19620616
-Ulrika Moberg 19630326
-Petrus Brattström 19711125
-Elzbieta Sen 19510905
-Liv Elmgren 19761105
-Jenny Andersson 19830619
-Cecilia Kassmyr 19801120
-Marianne Ljung Gustafsson 19600717
-Madeleine Bjärnell 19590111
-Reza Karimi Damavandi 19881228
-Sliman Sherzad 19870716
-Kenny Blixt 19670523
-Ariane Karpenman 19731201
-Anders Börjesson 19530706
-Niclas Hansson Gustavsson 19850403
-Stefan Chamoun 19771123
-Jakob Nordén 19790724
-Samuel Marander 19810910
-Ulrika Frykman 19651109
-Jan Mikael Vadman 19580517
-Elias Seffo 19730601
-Jenny Kinnmark Lassbo 19800509
-Charlotte Sjöholm 19640317
-Jonas Sundvall 19710617
-Annika Lorensson 19740318
-Hans Ruben Brosten 19480412
-Ruben Nils Leonard Ström 19910617
-Eleonor Ekström Frisk 19560824
-Matilda Fagerberg 19920708
-Hilda Descombes 19860402
-Peter Kjellin 19610119
-Petter Sternevald 19901222
-Johanna Nordanger 19900916
-Angelika Thorell 19900628
-Pontus Raask 19811130
-Annika Andersson 19630623
-David Toresson 19910622
-Catarina Bruzelius 19680425
-Ann-Sophie von Sydow 19521120
-Anders Nordberg 19660904
-Claes Thomas Evenås 19490221
-Per Håkan Åberg 19620114
-Tomas Broberg 19710418
-Ibrahim Acar 19520630
-Isabel Hedqvist 19731027
-Ulf Svensson 19550924
-Kurt Tommy Hillberg 19911008
-Henrik Andersson 19810910
-Adéle Börjesson 19920617
-Eva Camilla Karlsson 19560608
-Susanna Regina Harrietta Ehrlin 19681215
-Anna Bergman 19790829
-Karin Grahn 19740923
-Evelyne Modig 19700710
-Per Andersson 19670622
-John Engmark 19831219
-Morgan Henriksson 19661219
-Sten Gedda 19591020
-Marcus Gentzel 19720419
-Yvonne Thomsen 19480121
-Iris Roghell Carnbring 19970603
-Richard Jern 19900527
-Jan Ahlqvist 19520609
-Yvonne Linea Monica Möllerstrand 19530319
-Sivamani Vengadasalam 19711217
-Marie Staberg Martinsson 19610624
-Philip Nordangård 19780903
-Urzula Arkborg 19700910
-Reza Niai Tizkar 19600706
-Hans Nyberg 19671128
-Mattias Petersen 19711129
-Emil Lundgren 19810917
-Bodil Jönsson 19590122
-Stefan Andersson 19581128
-Michel Aydin 19961020
-Helena Lawner 19841221
-Göran Peterson 19660318
-Kristina Dehlfors 19530425
-Tomas Afram 19650502
-Agneta Andreasson 19591229
-Karolin Cicek 19980919
-Märit Agneta Malmgren 19590922
-Lennart Pihlqvist 19511003
-Tobias Brettmark 19871012
-Kjell Sand 19550914
-Liselott Hogedal 19630328
-Jessica Lénberg 19750603
-Eric Van Gysel 19781115
-Stig-Olof Hall 19590929
-Ralph Petersson 19550424
-Martin Lindell 19830621
-Martina Nielsen Reinertsen 19911116
-Lukas Rokka 19941019
-Gerd Nilsson 19520114
-Josef Bäck 19901018
-Daniel Adler 19761113
-Jonas Ekman 19870619
-Karin Berntsson 19751004
-Anna Henriksson 19850602
-Max Sonneby 19710528
-Lars Håkan Bengtsson 19530606
-Anna Katarina Bogren 19630506
-Fatima Inci 19910530
-Bengt Hall 19610828
-Jenni Gustafsson 19760429
-Peter Hering 19690523
-Stina Gunilla Katrin Årenberg 19700206
-Monica Nilsson 19650730
-Anders Anderberg 19700519
-Camilla Scherdin 19721202
-Per Orshammar 19620715
-Magnus Östberg 19690811
-Mats Lakander 19530620
-Ida Jernström 19840327
-Evy Börjesson 19530401
-Ulf Andersson 19630313
-Anders Broman 19530310
-Mikael Hedlund 19580704
-Crister Lunde 19570901
-Bee Lian Karlsson 19570306
-Benny Hall 19640805
-Bengt Rolandsson 19520517
-Anders Hansson 19520429
-Stephanié Råsberg 19871225
-Anders Egerbo 19521208
-Stephan Ryrberg 19601020
-Simon Kovats 19670326
-Karin Schoultz Hedin 19700404
-Mats Cromdal 19810603
-Anna Larsson 19760506
-Annika Blomsterberg 19600922
-Karl Boström 19770327
-Christer Hemberg 19530128
-Hans Hallberg 19650712
-Gunilla Kenwood 19550423
-Björn Mattsson 19620608
-Petra Myhrman 19680315
-Axel Vikengren 19850704
-Richard Jakberg 19530729
-Annika Andreasson 19570205
-Annika Dahlgren 19620412
-Sigrid Maria Margareta Oom Berglund 19510625
-Jan Heed 19590604
-Annika Odell 19600516
-Carl-Axel Benholm 19480329
-Maud Uggla 19550202
-Magnus Ring 19641230
-Eva Tenfält Blomquist 19630416
-Anita Lund 19551214
-Jennie Hallonkvist 19761208
-Anette Zetterquist 19640522
-Ingrid Maria Broström 19580525
-Niklas Johnsson 19711213
-Britt-Marie Johansson 19510918
-Isak Lundblad 19860729
-Fatima Aliana Abbas Khudadad 19850617
-Carolin Nykvist 19670203
-Paul Mellqvist 19721003
-Nathalie Sandgren 19861112
-Patricia Asproth 19700523
-Jonny Ottosson 19690526
-Henrik Bäcklund 19791118
-Marie Bergrahm 19630203
-Christer Mattsson 19480222
-Mattias Benngård 19890529
-Niklas Cedman 19640822
-Henrik Ericson 19861023
-Åsa Hagsér 19720330
-Viktor Jönsson 19810626
-Ingrid Birgitta Källberg 19520810
-Björn Gunnar Johansson 19530405
-Lennart Nyström 19500426
-Peter Ahlstedt 19560721
-Hanna Iverström 19810619
-Mansoureh Nik Pei 19780321
-Mats Lindgren 19691104
-Fadi Rycha 19691021
-Ahmad Abdul Rahim 19730519
-Carl Graneland Höwing 19930515
-Cecilia Karlsson 19711124
-Gry Gunnarsdatter Sagebakken 19791130
-Emma Myhrborg 19820522
-Gösta Eriksson 19540908
-Beata Landelius 19760122
-Jane Inger Lena Jobson 19460119
-Nina Ivarsson 19721002
-Thomas Lennart Oskarsson 19540726
-Mats Svensson 19630122
-Rita Ingegerd Berlin 19460628
-Mohammad Hassan Ghaffarian Samavarchi 19450629
-Göran Karlsson 19461006
-Leif Torsten Johansson 19470217
-Ursula Margareta Elisabet Scotting 19451018
-Tony Lundqvist 19460411
-Eila Carlsson 19460320
-Yvonne Gottfridsson 19590925
-Charlotte Andrén Andås 19690625
-Aune Lia Edith Apelstrand 19470922
-Ammelie Istenes 19871109
-Lars Johannesson 19470306
-Eva Christina Arfwedson 19460113
-Lennart Valdemar Eriksson 19450702
-Viviann Bergström 19490918
-Anders Oscar Holm 19500225
-Veikko Ekner 19460507
-Ingemar Staberg-Sand 19650408
-Mats Anders Jorma Hörvallius 19640517
-Göran Widmark 19530201
-Cecilia Brandt 19770708
-Solveig Ester Elisabeth Johansson 19460405
-Birgitta Irstam 19461115
-Stefan Popovski 19680911
-Anette Gyllström 19490509
-Anna Sporrong 19750514
-Magnus Brattberg 19750802
-Henrik Ryhlander 19720223
-Marit Willemoth 19470214
-Irina Ktsoeva 19591109
-Malin Kjellgren 19680227
-Lena Olsson Åkervall 19461216
-Sten Thomas Wasmouth 19500119
-Bengt Göran Larsson 19570209
-Sirpa Samuelsson 19731111
-Agneta Malm 19481021
-Andréas Rydlinger 19850329
-Eric Muhl 19640921
-Karin Warholm 19670411
-Timothy Rydberg 19600607
-Sebastian Fredin 19970428
-Susanne Johansson 19660529
-Anna Palmdahl 19791011
-Maria Iversén 19621124
-Aziz Haddo 19690306
-Augusta Börjesson 19970708
-Aree Lawanporn 19810206
-Vartanosh Malkonyan 19680320
-Alex Serti 19750702
-Jonas Gustavsson 19760104
-Richard Sotkovszki 19730115
-Sonja Anna-Stina Johansson 19480113
-Christofer Colliander 19740626
-Patrik Hallengren Lasard 19690416
-Anders Gustavsson 19651123
-Marianne Erlandsson 19621011
-Bo Siwerz 19540411
-Julian Lundh 19950224
-Helena Karttunen 19750914
-Lennart Nilsson 19561111
-Maria Andersdotter 19640310
-Lotta Lord 19540418
-Ann Madeleine Sjöblom 19720216
-David Mahani Johnson 19800426
-Kristina Johansson 19840701
-Sofia Hassel 19770616
-Karin Sellhed 19660429
-Johan Liljesand 19530227
-Per Jonas Levin 19550403
-Max Fredrik Nilsson 19890320
-Antti Piippo 19700530
-Petronella Hagby 19780307
-Tobias Östling 19860302
-Lena Lindelöf 19590823
-Blerim Peci 19860215
-Malin Nordlund 19670225
-Ursula Strand 19660710
-Bertil Gustafsson 19620326
-John Simonsson 19770501
-Per-Anders Eggertsen 19810222
-Eva Eklund 19570418
-Gabriella Nilsson 19710603
-Janine Sjöö 19720622
-Charanya Thangaraj 19861023
-Ylva Amberntsson 19550803
-Anna Källström 19840809
-Luan Hani 19840621
-Nellie Hermansson 19930811
-Lisette Gunnarsson 19810827
-Stefano Bartesaghi 19751212
-Bo Hagström 19530421
-Filip Bjensjö Diener 19810808
-Bengt Karlsson 19630129
-Fredrik Johansson 19690123
-Katarina Wallander 19930507
-Johan Fredrik Peterson 19720106
-Stephan Öhrvall 19560705
-Philip Berggren 19970930
-Birgitta Vallström Berg 19610713
-Aho Yacoub 19940130
-Mattias Ek 19980531
-Martin Koch 19680606
-Marcus Svensson 19821022
-Anna Hägglind 19890829
-Martin Sjögren 19581101
-Lisbeth Wenzelberg 19550627
-Jonas Fermfelt 19800216
-Johannes Hasselström 19900303
-Love Rymo 20000719
-Charlotte Heiman 19710107
-Sture Ingemar Claesson 19550603
-Josefin Svensson 19840525
-Jakob Bergström 20001130
-Johanna Andersson Hagström 19860923
-Pontus Fernström 19711007
-Jacob Claeson 19870521
-Helena Belas Berntsson 19760318
-Sandeep Shetty 19780215
-Lars Robertson 19750819
-Omar Eiz Eddin 19570201
-Rolf Johansson 19760906
-Per-Anders Andersson 19600415
-Mats Johansson 19600109
-Ulf Torsten Leijon 19610924
-Mikael Bjärving 19860908
-Fredrik Merck 19731207
-Fredrik Hellström 19760914
-Jonathan Erik Albin Kristiansen 19910831
-Karl-Erik Forsmark 19520504
-Claerence Ralf Johan Viking Österlindh 19771202
-Fredrik Cahlin 19960331
-Bettina Graaf 19910303
-Dag Agård 19630710
-Maritta Idavain Konkell 19551014
-Ulrika Ringsberg 19710522
-Jerry Matsson Bärnsten 19710726
-Marianne Plate 19540704
-Therese Eriksson 19711011
-Mattias Näslund 19750317
-Victoria Vesterlund 19930827
-Annie Wallerius Dahlsten 19920603
-Karin Ingegerd Eriksson 19790504
-Lisa Boustedt 19850706
-Lars Börjesson 19600914
-Ingalill Remdahl 19650312
-Ivan Ahlström 19991203
-Marie Lod 19771114
-Heidi Anja Erika Lund 19721122
-Johan Estling 19760710
-Alice Trocheris Pettersson 19821113
-Isabelle Jansson 19900723
-Hanna Sofia Elisabet Persson 19691124
-Lars Henrik Gunnar Nilsson 19620202
-Johan Wahlstedt 19770718
-Martin Nowak 19870324
-Ulf Karlsson 19541201
-Therése Axelsson 19860111
-Pia Stjern 19650315
-Lise-lotte Harrysson 19660923
-Lena Hansson 19480304
-Jan Zackrisson 19571027
-Anna Kylner 19740617
-Gabriella Waern 19680909
-Jill Larsson 19541123
-Johann Bopp 19650819
-Peter Jonsson 19640314
-Linda Palmqvist 19790828
-Herman Hallberg Nordborg 20000817
-Caroline Karlsson 19961010
-Fredrik Bille 19740224
-Birgitta Wigren Westin 19611020
-Nichlas Strandberg 19721210
-Johan Fihn 19940527
-Alexander Hagerius 19780709
-Emanuel Haglund 19880225
-Malin Opperud 19750915
-Paulina Ramert Davies 19811004
-Matilda Sellgren 19880807
-Elin Keskitalo 19960111
-Mats Nilsson 19630425
-Sean Sanner 19730323
-Johan Löwendahl 19760922
-Fredrik Landelius 19721003
-Joel Vikengren 19840411
-Agnete Ödmark 19531013
-Per Mikael Ekstrand 19571009
-Staffan Herbert Ernsjöö 19720903
-Anna Zetterberg 19730115
-Henrik Friberg Fernros 19720404
-Thomas Crafoord 19520614
-Sari McGlinchey 19641213
-Christina Goldkuhl 19690906
-Linda Johansson 19740711
-Javad Mashayekhi 19680922
-Agneta Holmberg 19630403
-Håkan Hulander 19620507
-Dan Jonsson 19680416
-Sebastian Teberio 19990629
-Rouven Edgar Stulz 19910625
-Philip Ekberg 19990705
-William Baan 19940822
-Kristian Norhav 19700308
-Mikael Carlsson 19600218
-Jenny Maria Victoria Lindkvist 19801028
-Anna Synneby 19590422
-Peter Andersson 19540504
-Pia Teghult 19670530
-Martin Källhage 19670315
-Helena Taflin 19730109
-Lars Ove Höijer 19561016
-Sanja Basic 19871008
-Nils Jacobsson 20001014
-Klas Gustafsson 19710208
-Peter Claesson 19700510
-Jan Tern 19660328
-Hanna Augustsson Ekegren 19740103
-Magnus Carlsson 19620319
-Mattias Lafrenz 19690102
-Wilma Olsson 20000702
-Simon Ljungman 19790910
-Martin Karlsson 19670504
-Ingrid Zweers Franceschini 19661213
-Charlotte Kramer 19730829
-Henrik Ljungqvist 19731209
-Magdalena Gerlam 19740328
-Alexander Anders Rydberg 19780717
-Ulf Tycko Jonsson 19550522
-Daniele Baltimora 19780406
-Åsa Lövgren Jansson 19631017
-Johan Håkansson 19761025
-Rikard Backman 19760715
-Annie Andréen 19821123
-Johanna Amundsen 19731128
-Mikael Anzén 19610621
-Christoffer Douglas Wennergren 19780204
-Hans Åke Lennart Johansson 19560422
-Jakob Carl Fredrik Wood 19800628
-Thomas Jaremo 19690304
-Mikael Wikström 19630302
-Emil Wijk 19810331
-Phetra Hedlund 19780317
-Glenn Älveblad 19551017
-Charlotte Waidele 19580626
-Karl Chevalley 19751214
-Anders Hanson 19640416
-John O'Neill 19670219
-Martin Daniel Ledstam 19820411
-Tommy Johannesson 19510513
-Tomas Östling 19701117
-Magnus Andersson 19710314
-Hanna Johansson 19971211
-Charlotta Ljungman 19770407
-Christer Hoffenback 19650223
-Mattias Fredriksson 19700114
-Jannice Thomson Wahlström 19760929
-Roger Borggren 19710404
-Jan Seehuusen 19541218
-Glenn Milefors 19720330
-Håkan Schyllander 19791228
-Sara Viktoria Andersson 19690705
-Hanna Skånberg Christensson 19761001
-Jens Jansson 19670314
-Anna Nömme 19701213
-Harry Robertsson 19561119
-Håkan Envall 19620515
-Lovisa Albertsson 19780627
-Christoffer Petersson 19790513
-Therese Larsson 19750105
-Magnus Wilhelmsson 19690414
-Martin Ödlund 19890509
-Malin Ragnmark Ek 19650506
-Anna Allén 19710607
-Anna Hedin Ekström 19760525
-Jan-Peter Rissel 19641013
-Rudolf Erik Fritz Rigler 19630818
-Niklas Hultman 19730126
-Axel Sevedag 19690622
-Eva Assarsson 19561108
-Eva Christina Malin Persson 19681118
-Ulrika Andersson Hall 19730107
-Johanna Gullberg 19980528
-Jonathan Geijer 19830503
-Anders Ekeving 19551020
-Dan Forsmark 19781021
-Peter Adler 19800125
-Emil Theodorsson 20000912
-Henrik Weiefors 19750706
-Rita Schröder 19650928
-Johanna Bernvid 19750716
-Jonas Bernhardsson 19650424
-Tomas Konsa 19550904
-Ann-Sophie Jern Oresjö 19570224
-Margareta Ozolins Nordvall 19650831
-Oliver King 19690522
-Dick Larsson 19561003
-Simon Hemberg 19830619
-Björn Larsson 19670211
-Ann Sofie Margareta Kristensson 19561228
-Marko Strube 19751014
-Daniel Stigendal 19671014
-Ninwa Aksöz 19710509
-Britt Skymne 19540102
-Einar Hans Peter Samuelsson 19510628
-Wolfgang Maschinsky 19650524
-Eva Setterborg 19511226
-Christina Petersson 19660929
-Peter Storm 19691110
-Eva Bengtsson 19791005
-Jan Mikael Käck 19600107
-Jan Torbjörn Ahlqvist 19760309
-Marie Kjellberg 19730219
-Nasser Alijani 19860114
-Maria Lidman Börjesson 19580106
-Maurits Zander 19720925
-Erik Caidahl 19760727
-Jonas Dahlén 19580616
-Kennet Andersson 19671006
-Jonas Fredriksson 19720924
-Susanne Söderberg 19700326
-Filip Bladini 19581123
-Bo Tommy Lorén 19650613
-Christian Biörserud 19761007
-Johan Wilhelmsson 19730621
-Daniel Floberg 19711109
-Mikael Fischer 19720330
-Mona Anita Westerberg 19550828
-Mats Berglund 19590330
-Nils Eriksson 19940220
-Martin Rösman 19730501
-Ronny Selander 19600118
-Kerstin Larsson 19570601
-Robert Hedin 19690522
-Maria Jerneck Schaufelberger 19540702
-Morgan Dinesen 19670805
-Fredrik Wolfhagen Sand 19780718
-Johan Peter Blom 19790531
-Fredrik Jarkvist 19750531
-Michael Eriksson 19630827
-Claes Sandberg 19620327
-Bo Lennart Johansson 19620908
-Henrik Jönsson 19861103
-Anders Heintze 19650624
-Barbro Käll 19580516
-Åke Edvardsson 19530310
-Anna Wirdefeldt 19800130
-Malin Söderbäck 19760709
-Marta Sibrecht 19770804
-Emma Green Blomroos 20001120
-Anders Tysk 19720801
-Shahar Itzhak 19760620
-Alexander Buschewitz 19690211
-Ingemar Jonasson 19580930
-Matilda Lundblad 19820206
-Per Söderkvist 19580120
-Fredrik Hagby 19641019
-Dag Öjvind Sterner 19690619
-Jeanette Winberg 19610418
-Ulla Agneta Andersson 19710216
-Birger Öström 19560821
-Mats Pihlgren 19571115
-Andreas Westerhäll 19730503
-Ingrid Wadström 19560929
-Victoria Leffler 19681120
-Arben Rafuna 19800402
-Sofia Frändberg 19641012
-Anders Gustafsson 19580218
-Anna-Lena Robinson 19711218
-Juthika Sandra Josefine Andersson 19830913
-Monique Wannding 19720515
-August Holmström 19930506
-Fredrik Nerme 19721018
-Johan Hellström 19751225
-Henric Lundgren 19700426
-Emmy Alexandra Mikaela Johanna Kröhnert 19821223
-Johan Holmström 19701120
-Anna Olsson 19770104
-Magnus Bring 19870419
-Daniel Biberdzic 19821016
-Felix Hultén 19511223
-Sharon Sason 19801113
-Therese Dahl 19670403
-Ingvar Johansson 19531023
-Jessica Männistö Crona 19820307
-Dennis Töllborg 19531227
-Ulrika Påfvenfeldt 19670416
-Charlotta Alexén 19711118
-Susanna Magnusson Åberg 19861009
-Mats Lennart Niklasson 19520126
-Emelie Maugesten 19870423
-Malin Larsson 19750720
-Hongfeng Zhang 19730429
-Ulla Birgitta Carnbäck 19510710
-Annika Larsson 19660310
-Johanna Schröder Berling 19740509
-Mats Lennart Eriksson 19580731
-Christina Brügel 19520801
-Christopher Lundborg 19650911
-Miriam Thorell Nilsen 19780920
-Lars-Åke Sundblad 19551117
-Ingrid Marita Brandel 19510422
-Andréas Stålbäck 19761124
-Louisa Hultmark 19940106
-John-John Persson Jacobson 19900719
-Elisabeth Cid Daun 19710103
-Catherine Amnäs 19640324
-Ellen Karlsson Branegård 19860902
-Karin Hedén 19840524
-Matias Mosesson 19691216
-Mikael Räftegård 19620508
-Bernt Eskil Petter Ivarsson 19801103
-Tobias Axelsson 19770117
-Clara Sterner 19910209
-Catarina Magnusson 19630305
-Christina Lundqvist 19650810
-Peter Berglund 19810415
-Marie Carlsson 19570526
-Carin Kindbom 19680621
-Sara Maria Andreasen Tung 19720611
-Anna Linnersten 19881008
-Stefan Johansson 19561226
-Miklos Csanyi 19650618
-Sara Ros 19940909
-Karin Sundwall 19510718
-Malin Dyverfors 19890311
-Orfita Simonson 19690617
-Majid Nasser Ajbisheh 19550409
-Johan Larsson 19750212
-Patrick Andersson Whiteman 19710710
-Jan Sikström 19580418
-Anna Imstedt 19640902
-Maria Sjöström 19650412
-Anders Fritzén 19700708
-Jessica Eng Canova 19710601
-Kenneth Bo Andersson 19720316
-Kith Axelsson 19561008
-Joakim Andersson 19660521
-Vesna Gondi 19540315
-Thomas Ågren 19550311
-Håkan Johansson 19670613
-Nasrin Kavosi 19580725
-Carl Hansson 19760315
-Carl Hansson 19530917
-Martin Krauland 19690930
-Alfred Johansson 19950907
-Ann-Sofie Dellgård 19740429
-Jonas Benjaminsson 19680926
-Karin Bardh 19610126
-Johan Karmalm 19740424
-Ulrika Söder 19740724
-David Ekander 19710201
-Lena Kollén 19600615
-Ulf Müller 19630415
-Jerker Andersson 19600728
-Anna Nordlander 19741013
-Anders Lordemyr 19700725
-Thomas Westerlind 19630923
-Gunilla Rosengren 19660909
-Anders Rubin 19780630
-Anders Tykeson 19520401
-Magnus Gandemo 19620827
-Petter Bryngelsson 19750315
-Michael Andersson 19621113
-Marie Rutgersson 19580823
-Rickard Lago 19660806
-Alexander Persson Leander 19920812
-Maria Reis 19681005
-Alicja Älveblad 19680623
-Johan Mannbro 19750809
-Malena Olofsson 19850907
-Edward Sedelius 19860731
-Fredrik Blomqvist 19661104
-Margaret Louise Olsson 19520405
-Anna Storm 19750202
-Hans Hallung 19621218
-Helena Trampush 19680128
-Daniel Hållander 19791116
-Terje Johansson 19640803
-Björn Mellgren 19600610
-Mats Larsson 19600724
-Ola Nilsson 19561006
-Eva Susanna Philipson 19770609
-Martin Abrahamsson 19720310
-Caroline Karlsson 19850315
-Christian Lechtaler 19720210
-Florent Munier 19781017
-Mats Hultin 19670910
-Martin Dalberg 19680629
-Per-Olov Rex 19471106
-Karin Pereswetoff-Morath 19571127
-Erik Söderqvist 19920614
-Li Wikström 19541116
-Anders Gunnar Fritiof Hellström 19511122
-Claes Andrén 19600218
-Richard Wadlert 19651115
-Kristina Hultstein 19630919
-Andreas Hartman 19730729
-Jovan Trajkovski 19520205
-Mattias Nyhlén 19761130
-Nadejda Baltatcheva 19750314
-Rasmus Bergström 19870711
-Jakob Svensson 19800402
-Gerd Monica Kristensson 19490820
-Ulf Ericsson 19700107
-Linda Agebrand 19790423
-Johan Eriksson 19730326
-Per Rehnberg 19620417
-Marie Johansson 19551026
-Frank Kullman 19991128
-Helen Carlsson 19720130
-Yvonne Rittedal 19680208
-Jan Lund 19640125
-Jonas Eriksson 19740414
-Emil Axelsson 19780226
-Andreas Brink 19690216
-Maria Nordell 19730609
-Mattias Sund 19711109
-Daniel Persson 19780210
-Andreas Berndt 19820308
-Sofia Lenhagen 19770911
-Tomas Ernberg 19710314
-Jenny Nyström 19840925
-Lena Granhag 19740809
-Björn Hofström 19591213
-Robert Lundström 19650623
-Anneli Thuresson 19670702
-Josef Magnusson 19741013
-Lars Malmek 19601014
-Bodil Olsson 19600729
-Patrik Cleve 19651226
-Kristofer Bjerså 19780113
-Mattias Dahllöf 19780510
-Johannes Can 19640904
-Lars Gelander 19561115
-Hampus Nestenborg 19820114
-Henrik Rosencrantz 19660917
-Marianne Hurtig 19550320
-Torsten Olbers 19640628
-Martin Haugseth 19880404
-Carl Erik Anders Edholm 19480331
-Claes Stejre 19690730
-Anne Schneider 19641230
-Arne Bolin 19471129
-Åke Zetterström 19641114
-Yousef Safdari 19601218
-Erik Mattsson Wennerberg 19750429
-Mats Widing 19570607
-Sven Hugo Robert Gustafsson 19590404
-Henrik Nilsson 19730101
-Marcus Gusten Andersson 19820514
-Daniel Närenfors 19791227
-Sofia Gyllenstig 19900422
-Ida Hallner 19860713
-Kristina Bjelkstål 19760101
-Sükrü Demir 19671115
-Lena Nordström 19700211
-Maja Hörnsten 19801013
-Martina Fhager 19780501
-Benny Svensson 19640625
-Daniel Lagerstrand 19820815
-Robin Peterson 19910715
-Pablo Punal Pereira 19841023
-Per Ola Olsson 19790213
-Anne-Marie Johansson 19500903
-Fredrik Levin 19870903
-Branka Pavic 19761002
-Henrik Svensson 19770505
-Vladimir Demidov 19640119
-Helén Mattsson 19631019
-Rebecca Hedlund 19890104
-Anan Younan 19630216
-Annelie Skaugrud 19580124
-Ann-Kristin Elvhäger 19671021
-Frederic Björkman 19760114
-Jan-Erik Jacobsson 19610610
-Bert Valter Gustafsson 19490604
-Jonna Lindström Johannesson 19970821
-Krister Sutinen 19711006
-Mikael Karlsson 19650106
-Peter Johannesson 19660113
-Christian Sääf 19691201
-Fredrik Petrone 19891227
-Jonathan Johnsson 19960330
-Abir Fayez Awada 19740410
-Viktor Käck 19900401
-Zeynab Zuwa 19910604
-Adela Araneda Lobos 19580917
-Benafsha Sherzad 19820522
-Jonas Rydberg 19910620
-Nahrin Malki 19730912
-Izadora Barmalke 19860213
-Viktor Thomas Erik Hjertenstein 19910611
-Agneta Javette 19560530
-Jimmy Kjellberg 19780504
-Johanna Treffenberg 19860222
-Kent Ove Nilsson 19470918
-Lennart Michael Jonsson 19680718
-Malin Arvidsson 19800218
-Amil Gasanin 19920106
-Elvira Peci 19861125
-Hakan Teksen 19860126
-Jeremy Vyska 19790929
-Elisa Andersson 19671010
-Birgitta Christensen 19600813
-Maria Andersson 19720313
-Stefan Eriksson 19620505
-Eszter Kulcsár 19781223
-Glenn Börje Sören Mann 19540219
-Jonas Engström 19691228
-Åke Högberg 19501205
-Dat Loi Tran 19661111
-Annica Gripenby 19580917
-Peter Johansson 19600127
-Rose-Marie Brusletto 19501107
-Sebastian Jarfelt 19891002
-Eliyo Akçay 19871105
-Anton Cajander 19901102
-Uno Johansson 19500220
-Katarina Lillieroth 19580910
-Ahmad Abdul Rahim 19950725
-Isabella Kato 19940621
-Rafael Henrique da Silva Oliveira 19841130
-Atay Rahimov 19870423
-Emil Franzén 19910109
-Ramlo Ali 19940214
-Åsa Anna-Carin Andersson Antelme 19671220
-Halil Ulusoy 19510113
-Margareta Solveig Nilsson 19530426
-Andy Nguyen 19911001
-Gunilla Wikström 19670130
-Ivana Janjic-Simbovski 19811110
-Gunilla Andersson 19770415
-Robert Berg 19771029
-Krystyna Radziszewska 19510218
-Michelle Nazare Gustafsson 19930201
-Mattias Aalto 19831025
-Petra Stejre 19721201
-Ellen Kirkerud 19610515
-Anna-Karin Nordanstad Axelsson 19690726
-Katrin Persson 19690127
-Anna Alphonce 19701216
-Cara Stoltz 19870411
-Jörgen Kent Roger Antonsson 19770315
-Ailin Parmelund 19850619
-Eva Skoglund 19680229
-Yvette Wallenberg 19731024
-Ann Nordberg 19610824
-Linn Lindqvist 19770504
-Emma Wahll 19950919
-Heidi Ekelund 19700822
-Jesper Örtengren 19720507
-Jenny Palmberg 19780103
-Sara Höglund 19870123
-Pernilla Norberg 19720108
-Louise Ahlberg 19910507
-Johanna Lega 19800131
-Robert Hansen 19770521
-Anne Rysst Grip 19551020
-Kristian Medailleu 19660311
-Bengt Schepke 19761006
-Inger Marianne Hagby 19470406
-David Nyström 19750317
-Osman Alkan 19870715
-Sheena Reid Teiler 19830210
-Najibeh Sharifi 19650606
-Rose-Marie Sjölander 19470304
-Oskar Lennart Svensson 19480129
-Patric Wollmersson 19671218
-Katrin Strindevall 19791230
-Ulla-Britt Irene Samuelsson 19460827
-Birgitta Weijdegård 19500118
-Niclas Engström 19641006
-Åsa Jonsson 19600508
-Kjell Åke Bengtsson 19490321
-Maria Lennaard Berner 19560315
-Björn Aronzon 19620214
-Ola Knutsson 19660920
-Sinsia Gao 19660110
-Carina Bjerklind 19651018
-Louis Tavsan 19850702
-Bror Nils Tryggve Gustafsson 19500626
-Angela Kwakwa de Sousa e Brito 19820611
-Inga Elisabet Dankvardt 19450721
-Ulla Kristina Hammarklo 19460402
-Britt Solveig Lillemor Fohlin 19450915
-Yvonne Marion Falk Johnels 19500618
-Lisa Nilsson 19930725
-Marijan Kozjak 19760603
-Karen He 19630225
-Jan-Åke Andersson 19490516
-Marie-Louise Bäckdahl 19461018
-Henrik Staffansson 19750728
-Ragnar Harry Tera 19460708
-Lars Olof Hansson 19580119
-Bo Söderberg 19520523
-Christina Borg 19670729
-Helena Wiberg 19840322
-Sandra Argüello Stomberg 19660322
-Sven Bjerde 19660526
-Tony Johansson 19490116
-Siman Deniz 19620604
-Yvonne Olsson Lagerstedt 19480605
-Björn Flood 19540618
-Elisabeth Reuterskiöld Scherstén 19550520
-Karin Sjöbris 19580611
-Linda Johansson 19760411
-Per Olof Pålson 19650104
-Tommy Radniecki 19710903
-Anders Ivansson 19650308
-Anna-Karin Stolt 19731116
-Britt Mariann Praetorius 19450730
-Thomas Hanson 19550913
-Gerd Karlsson 19490607
-Lars Göran Åke Hagström 19451016
-Jan Ronnie Carlsson 19600709
-Lars Börje Gunnar Andersson 19490913
-Per-Olof Hillman 19580409
-Kristina Alsadius 19770222
-Monica Lundin 19591101
-Siv Gudrun Irene Olander 19460301
-Madeleine Johnsson 19711022
-Ingrid Birgitta Danielsson 19450801
-Jörgen Persson 19710926
-Lars Mürbeck 19461106
-Anders Rönnberg 19581228
-Graham Clarke 19770117
-Reine Petersson 19640105
-Tommy Jendeby 19700926
-Camilla Ackerfors 19700716
-Niklas Österlund 19750430
-Noel Adhanom 19980505
-Safaa Shakir 19861017
-Farhad Azizi 19820815
-Karl Axel Jonny Sjöberg 19460920
-Carina Midgren Thomsen 19670311
-Kerstin Gardtman 19570405
-Lars-Olof Magnus Cederfeldt 19561225
-Lotta Balogh 19670305
-Martin Sigvardsson 19710729
-Gullvi Britt-Marie Sahlback 19470910
-Gerda Svendsen 19510214
-Sven Anders Göran Granqvist 19490814
-Daniel Sjöholm 19870326
-Cecilia Odenstam 19650215
-Mikael Nielsen 19721216
-Gudrun Anna-Stina Orvelin Nilsson 19460930
-Gunnel Lindstedt Schwieler 19481110
-Jan Gustafsson 19510704
-Lars-Göran Bolin 19500407
-Annida Guldbrand 19630511
-Aron Ledstam 19810828
-Bengt Thorbjörn Wennerberg 19480613
-Gunilla Häll 19610228
-Gabriella Ortega Perdomo 19830807
-Michael Andersson 19601113
-Karin Hallin 19720104
-Ann-Christin Nyberg 19481230
-Kerstin Anita Agat 19461020
-Sara Margareta Larsson 19490723
-Jan Erik Tedsjö 19450818
-Eva Börgeson 19521231
-Håkan Joel Allheim 19820918
-Jonas Edholm 19791212
-Stig Arne Berggren 19460913
-Ulf Niclas Wollter 19640507
-Margareta Nordholm 19480609
-Bengt Persson 19490116
-Tine Jonasson Bishop 19720813
-Per Jacob Reinhold Nauclér 19721108
-Benny Bliman 19500123
-Lena Cederlund 19580306
-Mikael Sundbäck 19550422
-Pernilla Holmgren Larsson 19690514
-Krister Ingemar Andersson 19460828
-Helena Chamoun 19840626
-Håkan Magnusson 19550728
-Carin Modh 19470226
-Mattias Eriksson 19700107
-Christine Ahlström 19800304
-Emma Hartzén 19810131
-Eva Maria Viktoria Dellming 19460115
-Fredrik Norrman 19670911
-Hans Pär Ulrik Bartholdsson 19650629
-Jimmy Pervik 19741204
-Åsa Wallentin 19731221
-Jenny Pellnor 19880123
-Susanne Gillberg 19741231
-Marion Kraft Jörn 19470131
-Jan Andersson 19621211
-Marie Farah Fioriniello 19790621
-Henrik Nordlander 19980824
-Maxamed Asad Ali 19981121
-Gunilla Dahlstedt 19460822
-Monica Birgitta Fast 19520524
-Thomas Roland Eliasson 19460129
-Neil Croxton 19710513
-Åsa Björn 19650512
-Hans Ingemar Hallberg 19470401
-Ann Olsson 19700401
-Inge Per-Olof Larsson 19460830
-Britt Elisabet Johansson 19450922
-Christer Olsson 19510611
-Gisela Rose 19490704
-Jonas Selsvik 19711122
-Saifuddin Mohamedbhai Ghadiali 19471230
-Elsa Marie Rådbo 19460619
-Claes Hempel 19481222
-Nooshin Mehdikashi 19830604
-Lars-Erik Normén 19720320
-Anders Bergqvist Jurin 19721020
-Claes Erik Löfström 19620509
-Cristina Gustafsson 19680529
-Lars Almefelt 19680327
-Martin Olsson 19620308
-Petra Sennelöv 19681122
-Arne Lennart Rodin 19450927
-Aziz Celik 19590817
-Anna Lindstrand 19731008
-Astrid Eleonor Löfdahl 19470910
-Jan Ivar Karlsson 19591019
-Klas Anders Andreasson 19531122
-Per Richard Sigfridson 19691124
-Stephen Sundström 19710411
-Tomas Kullenberg 19461127
-Ingegerd Lindström 19470113
-Frank Andersson 19510114
-Lisbeth Gunn-Britt Lundgren 19470116
-Jessicka Tomic Magnusson 19660911
-Michaela Frisén 19660914
-Peter Fredriksson 19670422
-Roy Tärnberg 19610926
-Berit Kristiansson 19470411
-Lars Andreasson 19630212
-Jan Eriksson 19510222
-Inger Margareta Niklasson 19450816
-Barbro Bos 19490429
-Ragnar Erhard Alf-Georg Sandelius 19480613
-Karin Kruse 19640110
-Matilda Malm 19780509
-Rolf Abrahamsson 19501231
-Sven Junkers 19621019
-Lars Ingemar Bångstad 19450826
-Madeleine Norstedt Larsson 19711222
-Thorleif Schjetne 19500202
-Andreas Degerstedt 19760901
-Susanne Sixten 19671112
-Ann-Mari Svennerholm 19471213
-Bert Olsson 19580424
-Ola Gravenfors 19680127
-Britt Marianne Rebenius 19460731
-Karl Johan Bodestig 19730618
-Gunnel Ingmarie Berntsson 19470318
-Christina Erlén Gelin 19510207
-Kent Sjöberg Vu 20010110
-Karin Elisabeth Olsson 19471028
-Emma Sjöqvist 19770912
-Sven-Ove Wahlgren 19480729
-Maj Anette Lindau 19501116
-Birgitta Bidefors 19550318
-Leif Günther Palaschinski 19550325
-Valborgs Lars Erik Marcel Ericson 19460731
-Albert Lawenius 19910107
-Henrik Frisk 19610505
-Kristina Löfdahl 19490928
-Maria Hagvall 19681222
-Oscar Berndtsson 19980403
-Adrian Grainger-Smith 19471111
-Alf Andersson 19560530
-Annika Johansson 19690717
-Cecilia Alwin Mattsson 19700823
-Helen Johansson 19640115
-Raymond Gustafsson 19711129
-Jonas Rosenqvist 19760314
-Claes Figge Bergman 19500409
-Magnus Ekberg 19650426
-Mats Porsö 19480216
-Mats Svensson 19550826
-Kristina Marianne Ivarsson 19451225
-Steve Sääf 19890309
-Thomas Hansson 19680110
-Marie Lisethe Svanström 19680404
-Peter Karlsson 19700212
-Sture Lennart Rune Ahlebrand 19461014
-Annette Kolster 19470405
-Nils Johan Peter Swärd 19671116
-Barbro Wiksten 19460418
-Sture Bergström 19480209
-Anton Hedlund 19980825
-Maj-Lis Knutsson Grenabo 19460307
-Mats Jirebeck 19640429
-Peter Lennart Andersson 19540329
-Berit Eva-Christina Mattsson 19451220
-Siv Annika Elisabeth Sjögren 19481221
-Chatarina Rilemark 19631006
-Joakim Bråtemyr 19850125
-Jeanette Törnqvist 19620419
-Jan Rosenblad 19530121
-Miomir Vujisic 19490516
-Catrin Bengtsson 19630416
-Inger Johansson Hast 19490217
-Sofia Tönnäng 19731225
-Gun-Britt Johansson 19470603
-Ann Christin Undall-Behrend 19600612
-Karin Rosenkvist 19611120
-Lovisa Hector 19750809
-Ing-Britt Lind 19461020
-Karolina Westin 19850619
-Britta Elisabeth Wessberg 19480123
-Henric Glennsäter 19750110
-Margareta Martinsson 19460517
-Sahaya Lourdino Fernando 19791017
-Briitta Anneli Pettersson 19470121
-Monica Lindgren 19460509
-Per Ekbladh 19690801
-Caroline af Klint 19730924
-Evelyn Kluge Bolivar 19460505
-Martin Gunnar Arkhammar 19710620
-Ulrika Karmalm 19740908
-Olof Daniel Axelsson 19760309
-Henrik Brüsin 19610623
-Ingrid Svärd Holkert 19600406
-Lars Magnus Andersson 19681126
-Martin Wedel 19700723
-Zora Pavlovska 19540715
-Sofia Öhrling Dersén 19811221
-Kjell Bertil Karlsson 19450714
-Lene Stokke Oledal 19680617
-Ulf Jarfelt 19480716
-Johan Englund 19610914
-Lillvor Margareta Snow 19460601
-Eva Christina Clarita Stjernström Tommila 19490606
-Ernst Thomas Nystedt 19471118
-Sven Åke Eriksson 19490119
-Greger Mattsson 19480510
-Lana Läbom 19460912
-Lisbeth Margareta Svantesson 19480403
-Loredana Colque Giaina 19690629
-Neimy Irene Nilsson 19470428
-Eva Norén Bristulf 19510302
-Marcus Fransson 19760429
-Anders Landkvist 19620813
-Hans Magnusson 19460624
-Joakim Davidson 19650130
-Ing-Marie Hørsman 19670925
-Emma Petersson 19960412
-Lisbeth Rosenqvist Lundberg 19481003
-Birgitta Svensson 19490319
-Birgitta Jakosjin 19460801
-William Leeson 19731210
-Berit Baker 19520930
-Stefan Folke Svensson 19500531
-Anees Mohammed 19771022
-Gunilla Kristina Fagerkrantz 19450912
-David Olsson 19741017
-Susanne Pettersson 19630226
+Sarali Eder 19880320
+Johanna Eriksson 19920421
+Daniel Franzén 19790205
+Aida Gavljak 19781014
+Matilda Sandå 19930731
+Linn Alshammar 19820712
+Fredrik Båberg 19880312
+Anders Medin 19590227
+Emma Helander 19851017
+Ängla Mantel 19810101
+Lisa Trox Holmbom 19940213
+Alexander Unge 19860727
+Annarosa Valeria Solini 19650906
+Eva-Lotta Sallnäs Pysander 19700220
+Henning Österberg 19611105
+Johanna Björkhed 19800113
+Richard Lihammar 19841128
+Rodrigo Jose Monroy Parada 19840414
+Linda Waldén 19740812
+Åsa Stål 19710306
+Annica Stålblom 19661118
+Inga-Lill Hamrén 19661128
+Nina Christiansen 19890430
+Simon Schiller 19880620
+Elin Lantz 19871115
+Christopher Sigvard Alshammar 19901118
+Lucy Margaret Sharon Johnson 19860925
+Susanna Björklund 19740419
+Gunilla Charlotte Blomberg 19651027
+Kenneth Johnie Röstlund 19620926
+Emanuel Lagerberg 19890220
+Helena Stern 19800617
+Kim Joar Persson 19870305
+Maja Blixt 19930806
+Sofia Charlotta Elisabeth Carlberg 19810628
+Teresa Cornelius 19790615
+Gustav Oldén 19790118
+Maria Ageborg 19640122
+Ivan Ernudd 19841225
+Jenny Karlsson 19750219
+Kari Malmström 19640917
+Irene Bartha Johansson 19661021
+Niclas Forslund 19720519
+Dag Brodin 19530415
+Dan Sjöstrand 19801113
+Johan Gebo 19810504
+Silvia Malek 19760526
+Robin Viklund 19900403
+Henrik Franzon 19720912
+Walter Benavides Almeida 19851022
+Asim Kutlu 19850727
+Jerry Lindqvist 19891027
+Johanna Wahlberg 19921129
+Saber Daif 19790411
+Kjell Andreasson 19540711
+Julio Rodo Martinez 19550701
+Oscar Oddestad 19900524
+Lars Lindström 19570414
+Åsa-Lena Elisabeth Dackland 19501005
+Lena Jakobsson 19540425
+Margaretha Eriksson 19560117
+Hans Mikael Söderström 19781019
+Supachai Molander 19790405
+Fredrik Carlsson Wahlström 19860224
+Terry Luswata 19651107
+Ann-Christine Åhlander 19610613
+Harriet Anette Berntoft 19500415
+Natalie Norin 19910913
+Helen Elisabeth Österlund 19810311
+Christina Bergerheim 19620726
+Lina Cederlöf 19890511
+Lina Larsson 19810904
+Linda Jönsson 19850401
+Mikaela Dyhr 19840211
+Andrea Lundstedt 19911102
+Mikael Haapa-Aho 19780707
+Jan Andersson 19501219
+Anna Sofia Kristin Pettersson 19790426
+Andreas Fransson 19910508
+Emelie Forsberg 19961022
+Liza Julin 19910826
+Anna Manhag 19730526
+Lars Hylberg 19560104
+Annika Edström 19860220
+Magnus Ryderstedt 19820111
+Mikael Happa-Aho 19780707
+Safa Hanoka 19730102
+Juan Carlos Colarte Avendano 19620310
+Oskar Strömberg 19861015
+Anton Hiswani 19671024
+Emma Sunebäck 19900206
+Marko Heido 19850511
+Joachim Nygren Jonas 19860312
+Katarina Stening 19701114
+Mats Bergström 19661005
+Rose-Marie Jansson 19661024
+Tihomir Maksimovic 19670807
+Henrik Nylund 19840117
+Eleftherios Dimitriou 19750611
+Maria Hylberg 19800227
+Wasitra Maihom 19830311
+Joel Löfgren 19800222
+Per Konradsson 19740912
+Alexander Sellman 19791122
+Christina Hansson 19680318
+Hanna Berg 19800723
+Jimmy Eichwald 19770116
+Lotten Granholm Nilsson 19710905
+Maria Sandlund 19731211
+Anil Porob 19760816
+Mathias Åström 19670309
+Gabriel Salazar Medina 19900614
+Saga Berlin 19871231
+Nora Choque Olsson 19670428
+Ronie Larsson 19600730
+Peter Roland 19791230
+Linda Asplund Singh 19860116
+Marina Breideby Carlén 19741223
+Markus Landström 19790518
+Anette Berg 19610814
+Leif Tony Kordelius 19541103
+Reza Tehranipour 19530208
+Maria-Eliza Selander 19681115
+Therese Khan 19870328
+Daniel Björkman 19790530
+Minka Camdzic 19770206
+Eva Catrine Söderström 19720613
+Magnus Karl Oskar Dahlbom 19901003
+Therese Hansen 19910202
+Roger Rosbeck 19720921
+Marco Ahumada Juntunen 19881009
+Margie Gonzales Alvarez 19811008
+Robert Grahn 19690424
+Maja Gross 19720325
+Karin Ilveby 19760510
+Katarina Björkman 19651101
+Maria Elisabeth Bodén 19780103
+Henrik Hjelmgren 19840321
+Alf Fors 19650828
+Bengt-Erik Holmqvist 19600312
+Christoffer Welander 19790703
+Jan Olov Ågren 19640718
+Lhena Gezang Jangenrud 19630107
+Lotta Johannesson 19641208
+Mathias Möller 19740129
+Nils Roger Engblom 19710802
+Souresh Almgren 19680524
+Jonas Welander 19680825
+Malin Andersson 19720825
+Niklas Carron 19570205
+Thomas Hesselvall 19560103
+Lisbeth Olofsson 19540330
+Eva Sjöberg 19511104
+Kristoffer Ahlström 19800314
+Adam Grönvalls 19880126
+Elisabeth Kierstin Furberg 19790502
+Elena Aylott 19791101
+Andreas Jalmarsson 19840823
+Cindy Mahase 19781202
+Jamal Al-Baldawi 19840602
+Erik Martin Olsson 19811020
+Benny Blidsäter 19770820
+Ulrika Åhlund 19730507
+Pedro Morfa Parla 19600105
+Sara Isaksson 19950313
+Anna Elisabeth Längheim 19680808
+Sanne Eriksson 19891204
+Sofie Sandén Birgersson 19700610
+Rickard Nils Jonas Larsson 19740519
+Anders Heed 19710711
+Cecilia Kallerström 19760401
+Chitalka Kaushalya De Silva 19820730
+Emma Karlsson 19900805
+Hanna Agneta Jessica Iversen 19890615
+Jesper Karlsson 19890106
+Lars Johan Palm 19680613
+Martin Krook 19740929
+Michael Mikael Malke 19901117
+Rose-Marie Åleberg 19621202
+Sanela Muhovic 19830331
+Stefan Pasma 19640309
+Hans Tore Warping 19720528
+Ingela Maria Stenberg 19630307
+Sorin Danaila 19720601
+Anders Fällman 19740505
+Christian Robertsson 19860911
+Johanna Tesoro 19740607
+Maria Goundorina 19780427
+Mimmi Andersson 19880829
+Per Gustafsson 19670825
+Robert Young 19850419
+Stefan Olsson 19731009
+Aména Jocelyne Archer 19790802
+Joachim Emblad 19710209
+Marcus Frönmark 19870923
+Charlotte Aavik Warping 19711204
+Christine Huang 19760308
+Dennis Cicek 19900310
+Kirill Sleta 19850322
+Amira Elkady 19771022
+Erik Jörnlind 19761105
+Florian Benfer 19840218
+Fredrik Engström 19701210
+Jasmina Crnkic 19720209
+Jens Mikael Vidgren 19781130
+Jesper Bäckman 19950105
+Jonas Lyth 19840229
+Karl Robert Bergström 19760131
+Kristina Persson 19810406
+Kulsuma Khatun 19710415
+Lalita Kuchral 19830227
+Marcus Thuresson 19720411
+Marie Nilsson 19810525
+Nony Lappan 19660109
+Ramkumar Lakshminarayanan 19670622
+Tuochuan Toni Duong 19881112
+Veronica Vacker 19700923
+Viktor Hultqvist 19860320
+Yasin Cakmak 19900907
+Edison Yunadim 19830829
+Marie Sjödin 19600708
+Hailin Wu 19840705
+Camilla Margareta Hinderberger 19501209
+Martin Persson 19790505
+Sara Heim Högström 19840212
+Jonatan Adam Hailu 19881102
+Pernilla Westin-Kocsis 19821127
+Xuejun Lin 19780109
+Marlene Azar 19710129
+Mihailo Milonjic 19860717
+Leo Kellerman Hedman 19871020
+Awaz Murad Farzin 19840909
+Maciej Strama 19930904
+Sabina Beatrice Waginder 19910522
+Anette Brockman 19561002
+Camilla Börjes Kihlberg 19830301
+Mohaned Al-Alwany 19850721
+Sandesh Hansraj 19830823
+Vincent Lieu 19650110
+Fouzia Wallenhaf 19650427
+Hashmia Hadi 19630317
+Francesco Martelli 19850707
+Tobias Erik Dahlgren 19830323
+Cecilia Haglund 19740404
+Manuela Del Transito Romero Valencia 19530910
+Bosko Raicevic 19800802
+Nikola Barac 19821031
+Suad Kamber Mohammad 19520302
+Mellya Simon 19880610
+Elin Sara Tüksammel 19821219
+Antonio Borroto Vega 19640102
+Jidapa Srinak 19770327
+Andreas Sjödén 19920727
+Saida El Ameri Abbes 19590122
+Samuel Lopez Holmberg 19950815
+Sonny Aldenklint 19900829
+Pinar Yilmaz 19841214
+Mercedes Rivera Tenreiro 19580224
+Margareta Granberg 19550226
+Petar Obradovic 19680822
+Asia Khatun 19920306
+Jorge Galloso Jorge 19610507
+Cecilia Holm 19720920
+Per Holm 19640221
+Julio Correa Cerpa 19490516
+Wahida Khan 19580205
+Nils Andersson 19790708
+Eric Boss 19951209
+Marita Gunnman 19600906
+Olle Bjerkås 19830601
+Vladimir Ruzic 19860302
+Calle Krause 19941015
+Magdalena Hempel 19770909
+Juan Garcia Vives 19570406
+Tommy Hult 19681026
+Fabian Blomqvist 19910220
+Kay Garcia Guzman 19800718
+Hawa Ndao Fall 19720325
+Jan Forslund 19500730
+Jan Olov Wilsson 19581107
+Angela Bettina Arokianathan 19800629
+Renate Rosemarie Gabrielle Aronsson Fux 19550820
+Cecilia Kruse 19880602
+Krestin Malki 19650901
+Linn Saga Evelina Riddarhierta 19911124
+Hanan Al-Hamd 19761008
+Monica Bottaro Almstedt 19510104
+Luis Rene Golott Alamos 19691019
+Said Hussein Ali 19600530
+Ardo Elmi Mire 19790105
+Ahmed Mohammed Ali 19540126
+Benny Gustafsson 19840710
+Zheng-Wei Xia 19811003
+Nayarett Vicencio Silva 19921121
+Wafaa Chwikani 19631018
+Hans Carlsson 19650806
+Simon Filip Sjuls 19931219
+Filib Abd El Nour 19740314
+Johanna Sten 19840325
+Miguel Gomez Aguilera 19870510
+Kerstin Henningsson 19640929
+Malin Stocklassa 19870711
+Fredrik Hernborg 19821115
+Marie Andersson 19680802
+Helena Eknor Suarez 19640827
+Carl Erik Manuel Andersson 19850725
+Anne Magnusson 19500605
+Lars Ankarfjäll 19540117
+Theresé Larsen 19870625
+Najet Bent Mohamed Rached Neffati 19600804
+Nathaniel Couso Cadenas 19940114
+Göran Westman 19500427
+Pia Tenggren 19621205
+Lina Vendt Rasch 19710519
+Åsa Laestander 19590619
+Suwaree Phonprab 19901112
+Ghfran Jarida 19660106
+Lidia Tovås 19670530
+Mats Erik Bodin 19521015
+Hanna Jonsson 19840130
+Thomas Lindquist 19610619
+Eva Brandt 19500910
+Ingela Welén 19750609
+Jesper Strandberg 19620828
+Mats Erik Högfeldt 19560110
+Marcus Wensby 19600918
+Björn Thorén 19620205
+Arturo Alexander Rojas Cortegana 19780726
+Kulwinder Singh 19750221
+Rikard David Kassberg 19651226
+Lars-Erik Hugo Andersson 19530731
+Maria D'Agostino Olsson 19680113
+Stefan Bergqvist 19900821
+Hamid Alic 19490128
+Christina Herreryd 19781218
+Harzin Latif Aref 19890210
+Magnus Hübner 19750421
+Olayer Galaz Figueroa 19551107
+Mamadi Conta 19541215
+Arne  Johansson 
+Markus Börjes 19820927
+Ruaa Tabo 19890504
+Ali Ouattara 19850308
+Ann-Christine Eklöf 19660923
+Arvid Leppäkoski 19830223
+Dag Isacson 19611016
+Emine Öz 19620429
+Endale Woldesilassie 19680106
+Gabi Bahhe 19950110
+Hyeri Lim 19930403
+Jenny Lundblad 19821229
+Kenneth Tisell 19801009
+Leonard Ngaosuvan 19730817
+Mark Sebastian Martin 19840303
+Mikael Frid 19591230
+Nana Parsadanian Nilsson 19631206
+Prakash Chand Jat 19820730
+Rocio Nordqvist 19730323
+Saeid Shahparastan 19710422
+Sandra Ansheden 19890215
+Seija Lindgren 19620702
+Tarek Neffati 19860317
+Åse Strömqvist 19600227
+Josefina Staf 19721118
+Josefine Stenberg 19870622
+Kristina Dalström 19610515
+Lisa Westfelt 19750330
+Mohamed Hassan Mohamed 19650125
+Olga Tagner 19700616
+Anette Wennerskog 19660109
+Ariunbayar Tovuuchii 19850509
+Aynur Can 19611115
+Carita Lindqvist 19630415
+Christin Andersson 19700903
+Eli Sado 19830528
+Haizhi Deng 19710211
+Helena Sundman 19660425
+Henrik Holmström 19741227
+Jan Sandström 19630126
+Janjira Garcia 19741209
+Jenny von Hofsten 19740816
+Karolina Axelsson 19670610
+Kim Rundqvist 19690714
+Kim Silvrig 19880228
+Lubava Norberg 19630407
+Magnus Sandholm 19670323
+Mark William Brereton 19730928
+Mukta Razia 19740525
+Nadia Dunstan Rosencrantz 19840405
+Paulina Vanessa Diaz Tapia 19861105
+Rezan Garib 19660228
+Seth Nordström 19881218
+Ylva Ekdahl 19620725
+Arvid Sondén 19850121
+Björn Tengman 19751123
+Bourhan Eliassi Sarzali 19860624
+Clas Gustav Einar Jönsson 19860830
+Jenna Mäkelä 19880712
+Jonas Rask 19780313
+Martin Silfvast 19810812
+Anders Skoglund 19860211
+Björn Hallberg 19881117
+Elisaveta Sapan 19740107
+Emma Karlsson 19861121
+Leila Höjeberg 19660428
+Liliana Gonzalez Quijano 19710307
+Nayir Hansson 19650829
+Raheleh Rouhani 19840911
+Roger Schwermer 19620216
+Shunjiang Zhu 19721227
+Anette Jonsson 19590828
+Carolin Friberg 19841015
+Emma Karlsson 19860219
+Fredrik Rossland 19640916
+Kasper Blom 19690825
+Kaushikkumar Ranchhodbhai Patel 19790429
+Marcin Kwiatkowski 19861017
+Natalia Alvarez Martin 19880905
+Simone Hallberg 19940426
+Tommy Woltz 19540512
+Abraham Gebremedhin 19641005
+Anna Sofia Ljusberg 19820626
+Arash Ershad Sarabi 19890409
+Aysel Bugurcu 19750404
+Bjarki Arnarson 19801111
+Christer Rönnbäck 19660903
+Christian Öberg 19791213
+Christina Ekdahl 19830725
+Claes Hybbinette 19700226
+Donovan Dirceus Valencia Rojas 19890321
+Gustav Wallin 19800105
+Hanan Ismail 19811109
+Jan Carlsson 19681004
+Joakim Svensson 19830118
+Manchal Singh Dang 19771122
+Martin Mihailovic 19710624
+Max Cöster 19880919
+Mikael Kårsell 19900501
+Nanushka Yeaman 19760302
+Narin Demircioglu 19841024
+Niclas Friberg 19740110
+Rosmarie Öberg 19750329
+Sara Jenny Weidenhielm 19830323
+Simone Kathryn Pierick 19800905
+Taehoon Kim 19780906
+Val Echegaray Enciso 19801013
+Yasemin Öztürk 19750906
+Arifuzzaman Mohammed 19650720
+Gulli Celepli 19850511
+Johan Christensson 19850403
+Musaddek Khan 19940116
+Yvette Engström 19630927
+Arne Johansson 
+Nikola Milosevic 19810222
+Christina Gyllensvärd 19520923
+Daina Forsberg Fitins 19491228
+Robin Karlsson 19930314
+Izabella Jansson 19940509
+Lars Göran De Mander 19521216
+Nabeel Shamran 19790214
+Ronny Skoglund 19491030
+Katayun Residegan 19810916
+Zebun Nessa Alam 19501210
+Anna Kasagiannis 19851121
+Milovan Palikuca 19600213
+Carolina Berthlin 19890829
+Per-Inge Andersson 19831226
+Madelaine Boijsen 19670430
+Ann-Christin Danielsson 19640720
+Anders Blomé 19511214
+Maria Turstedt 19720107
+Sannamaria Berg 19870330
+Linda Spiik Holmbom 19700807
+Claes Lindberg 19580310
+Jonathan Flodin 19880415
+Marielle Karlsson 19760322
+Maja Hyltefors 19860807
+Karlin Youhanna 19620823
+Fabrizia Giannotta 19780224
+Lena Gardsäter 19610114
+Charlotta Nilsson 19690317
+Anna Andersson 19610615
+Arsalan Jami 19770531
+Carl Erik Engholm 19781121
+Cecilia Munoz Dominguez 19790716
+Chen Gong 19870710
+Danilo Tomaino 19761011
+Marie Söderkvist 19840614
+Roger Boijsen 19741003
+Joakim Wöntner 19821118
+Daniel Malvi 19850427
+Helene Campatelli 19640624
+Maria Danielsson 19660325
+Peter Olsbro 19910702
+Ulrika Borking 19740608
+Maria Lundin 19650112
+Elin Strandlund 19900628
+Erik Strömberg 19660301
+Helena Herlitz 19650514
+Kevork Emirkhanian 19681028
+Maja Slove 19850823
+Per Hallin 19720727
+Peter Pakkala 19890102
+Eva Margareta Pihlblad 19520922
+Irén Norström 19540619
+Kristina Palmbrink 19510524
+Alexander Tegerup 19870124
+Amra Maksumic 19810731
+Anders Danell 19750410
+Andréas Forsberg 19911031
+Anurag Keshan 19850227
+Ari Mattila 19651014
+Emma Grönroos 19940922
+Erik Möller 19820122
+Henrik Aldén 19830902
+Natalie Åkersten 19850925
+Per Roland Jansson 19731212
+Stefan Andersson 19640713
+Tom Bramler 19891005
+Tomislav-Marijan Madunic 19740425
+Hanwey Chang 19780115
+Joel Linngård 19811229
+Mia Skoog 19700531
+Ashish Sudamrao Deshmukh 19770302
+Patrik Ragnefors 19830626
+Jimmy Öster 19880112
+Knaz Ahlström 19630101
+Alexandra Apelman 19730627
+Laila Maria Holmberg 19550203
+Jessica Ramkloo 19690327
+Ninni Olsson 19660210
+Dalia Möller 19821210
+Gabriel Gunnarsson 19860111
+Helena Ahlin 19750917
+Lina Bjerneld 19790125
+Michael Malmqvist 19650521
+Patrick Hedlund 19710324
+Robert Graham 19820511
+Ingmarie Ahlberg 19610508
+Fredrik Synnermark 19761017
+Jenny Åkerlund Skoglund 19810602
+Linus Nielsen 19920530
+Robert Lawrence 19650221
+Ninni Olsson 19660210
+Anna Blomberg 19770416
+Åsa Blomgren 19691004
+Mathias Keding 19750618
+Catharina Nyman 19650515
+Carl Sporrong 19890302
+Åsa Kagerén Almström 19820110
+Sonja Anna Mathilde Marter-Walsh 19670211
+Magnus Broman 19760928
+Michell Liljedahl 19631012
+Hans Peter Johansson 19820223
+Kristina Pederson 19670411
+Per Bergman 19641011
+Björn Larsson 19590509
+Bo Holmberg 19551119
+Göran Lindblom 19570411
+Jens Österlund 19671001
+Johan Olsson 19771116
+Johan Söderqvist 19690629
+Karin Emmerdahl 19590508
+Roger Egron Vestberg 19511103
+Susanne Bergman 19740410
+Fredrik Blåvall 19650626
+Frida Thorselius 19841227
+Jessica Reinius 19720223
+Martin Söderberg 19730801
+Robert Malmberg 19750813
+Björn Bäckelin 19531007
+Hjalmar Nowak 19641122
+Irmi Persson 19740925
+Sanna Söderlind 19861221
+Petra Bragnell 19740720
+Tommy Gustafsson 19661121
+Annika Lindberg 19630829
+Florence Ersson Stenmark 19790426
+Ulrika Hellmark 19791213
+Anna Muregård Eriksson 19640928
+Dan Milestad 19651104
+Helén Åkerfeldt Pellbäck 19700926
+Malin Lavett Lagerström 19731010
+Fredrik Woxblom 19750508
+Johanna Lindva 19851126
+Christer Olsén 19541117
+David Bodén 19651202
+Karl Mikael Lindahl 19810810
+Christina Birgitta Ekblom 19690714
+Gunilla Wilin 19550807
+Mikaela Estréus 19900704
+Lars Andersson 19500822
+Eva Westerberg 19661226
+Elizabet Sandberg 19681116
+Patrik Lindberg 19850115
+Ann-Christin Rydh 19681129
+Yvonne Tjörnå 19680312
+Anna-Karin Margareta Lilja 19721212
+Helen Elvingdal 19731113
+Maria Hermansson 19650429
+Ulrika Söderman Wramsby 19760209
+Annika Reutersten 19730920
+Malin Mighetto 19760516
+Mikael Nygren 19800120
+Peter Sandberg 19621208
+Sarah Modigh Engström 19720602
+Anita Ström 19550513
+Cristina Isabel Rodriguez Ingvarsson 19570503
+Helena Emanuelsson 19661004
+Marie Gustafsson 19611227
+Sophia Uddén 19780124
+Yvonne Kirstine Almén 19540222
+Åsa Schneider 19741014
+Anna Alvring 19670117
+Fredrik Öberg 19730827
+Mikael Andreas Lindblad 19730406
+Linda Lindwall 19760214
+Said Oulad Younes 19730729
+Ulla Lena Reuterstrand 19920225
+Sverker Henriksson 19730110
+Elin Wallenborg 19781124
+Patricia Strandberg 19630305
+Ulf Magnus Dahlbäck 19801123
+Weronika Duvmo 19760617
+Veronika Meissner 19760328
+Mahrokh Jamshidi 19690518
+Thomas Wahlström 19790802
+Georg Holm 19700805
+Henrik Åsis 19780127
+Martin Swenne 19620303
+Moa Aourell 19770707
+Tomas Burelund 19810308
+Jimmy Hallensjö 19770717
+Lena Kristina Stolpe 19680618
+Mabelle Birondo Almén 19830131
+Francis Ndungu Mwangi 19860920
+Carl-Henrik Folstad 19561209
+Camilla Haglund 19761011
+Fredrik Igelström 19900629
+Malin Sundling 19690207
+Marie Hellströmer Bergqvist 19720604
+Patrik Karlsson 19770323
+Lars Christiansson 19660121
+Malin Hallström 19850713
+Sten Vilhelm Blomstrand 19810522
+Andreas De Mander 19780525
+Camilla Anna Hammarlind 19711016
+Carolina Hylberg 19850930
+Simon Sundling 19950315
+Fanny Alexe 19800604
+Erik Åkerberg 19790825
+Patrik Wester 19680809
+Erik Lönnbark 19821216
+Karin Charlotta Karlström 19750402
+Rolf Mattsson 19510802
+Nicklas Nilsson 19880718
+Pardis Nabavi Larijani 19860817
+Benita Olsson 19701003
+Lisa Eriksson 19770304
+Patrik Andersson 19770915
+Muhamed Hojlas 19710511
+Peter Landerholm 19640504
+Carl Lind 19800223
+Magnus Nauwelaerts de Agé 19820330
+Wictor Hammar 19900611
+Fanny Adin 19781129
+Tove Mistander 19841015
+Jonny Johansson 19681120
+Maria Nyberg 19781124
+Christer Körnbäck 19701013
+Christina Bergstrand 19690614
+Johanna Karin Margareta Tessell 19791019
+Jon Modén 19690704
+Stefan Edlund 19570909
+Per Wikner 19550606
+Bengt Rapp 19550907
+Paula Björkeson 19930901
+Lars Hagström 19670818
+Linda Hassle 19740529
+Hanna Windarp 19870829
+Sven Jansson 19690215
+Per Nogén 19620325
+Bo Anders Watz 19660217
+Per Svante Geiryd 19490731
+Anne-Li Viola Henriksson 19620620
+Kristina Nygårds 19660403
+Inga-Lill Margareta Nilsson Svahn 19560306
+Allan Sundberg 19700105
+Alison Margaret Klevnäs 19790402
+Katarina Wessman 19540307
+Lars-Gunnar Berglund 19660227
+Ola Christer Björemyr 19630516
+Charlotta Bürger Hyllienmark 19660602
+Marek Stanislawski 19840515
+Mats Andersson 19631019
+Mikael Zewede 19760630
+Kalle Navin 19761105
+Madeleine Wolke 19710720
+Tomas Arne Jakobsson 19700919
+Anna Maria Persén 19730411
+Agnetha Bonnevier 19540317
+Leif Ahlström 19690523
+Sofia Engström 19750729
+Anneli Lindqvist 19851102
+Ulla-Britt Nordström 19520418
+Björn Wallin 19581127
+Sara Kvarnängen 19740701
+Ann-Charlotte Jagefjord 19740509
+Anette Andersson 19790112
+Johnny Åberg 19690504
+Magnus Tobiasson 19740522
+Niclas Lundevall 19851110
+Carol Quiñones Parra 19750611
+Vincent Dol 19751128
+Jessica Skalman Skeppholm 19710531
+Kerstin Karell 19610619
+Eva Holmqvist 19620524
+Jonna Kronholm 19790915
+Sofia Wallerman 19740218
+Håkan Wickholm 19590711
+Linn Sivell 19910223
+Helen Keijser 19530903
+Gunnar Carlsson 19511116
+Erik Dernéus 19870603
+Karin Agneta Gavelius 19550912
+Anita Haglund 19690121
+Tommy Vilfred Sedell 19500211
+Ulla Andreason 19610531
+Carl-Erik Bergström 19940303
+Pia Winberg 19651015
+Paul Hind 19630216
+Marita Elisif Margareta Viklund 19510106
+Pia Teike 19531005
+Toni Matkovic 19670925
+Pierre Fagert 19520625
+Carl Axel Uno Stefan Axelsson 19540501
+Daniel Jädersten 19771201
+Sandra Billing 19830824
+Therése Atterhem 19871223
+Britt-Marie Asp 19490405
+Martin Andersson 19720822
+Johan Kristoffer Sandberg 19760513
+Joakim Christer Ek 19680212
+Annika Bergh 19710115
+Björn Thambert 19500719
+Cornelia Axén 19880418
+Mats Gustav Magnusson 19500825
+Bo Kragh 19500907
+Jonas Ahlander 19600627
+Fatima Johansson Bremmer 19770804
+Magnus Billgren 19640501
+Silvija Boijsen Sinka 19550522
+Maria Almerstedt 19841230
+Ylva Jonsson Runa 19710228
+Anna Lena Pettersson 19810505
+Ida Rennemark 19800123
+Per-Olof William Pettersson 19531205
+Carolina Eriksson 19790210
+Per Nygårds Kers 19651222
+Ulla Karin Le Vau 19590812
+Karin Sigrid Aase 19700430
+Daniel Granberg 19861204
+Susanne Larsson 19830711
+Sven-Åke Paul Holmberg 19590313
+Eva-Lena Hillborg 19671123
+Cecilia Öster 19690130
+Erik Tönnes 19941018
+Karin Wernberg 19580616
+Thomas Sibo 19750324
+Pontus Andersson 19780507
+Tommy Bo Elis Flodqvist 19590912
+Eva Seppänen 19861120
+Gustav Emil Månsson 19910910
+Hanna Karlsson 19790217
+Sven-Eric Norén 19530822
+Fredrik Nils Olov Reihs 19750318
+Björn Kenneth Arne Ledin 19720331
+Eric Jakobsen Rydstedt 19910112
+Hanna Gunnarsson 19770415
+Martina Flink 19820711
+Thomas Andersson 19800822
+Annelie Persson 19630308
+Annika Dahlback 19631107
+Beatrice Lundevall 19890331
+Cecilia Ramstedt 19791216
+Daniel Rozen Golan 19831106
+Elin Garcia 19790503
+Emma Spjut 19840915
+Gustav Fockstedt 19890905
+Hernan Romulo Munoz Loredo 19620207
+Joakim Ek 19680212
+Johanna Lindén 19700403
+John Lagerqvist 19720930
+Jonas Ilveby 19720426
+Kaj Mickelsson 19620115
+Lennart Andersson 19680606
+Liliana Camarillo Michelini 19720201
+Monica Johansson 19640726
+Nicole Dundakov 19750518
+Niklas Netje 19850404
+Pär Andreas Malm 19801224
+Ricardo Atienza Badel 19750226
+Susanne Bruhn 19640208
+Susanne Dahl 19850807
+Victoria Eva Alice Maria Rosenlind 19820808
+Lars Ljungberg 19831213
+Niklas Axling 19740428
+Pontus Öster 19700321
+Alexander Ottesen 19860225
+Anne Hind 19660427
+Anneli Bergman 19851102
+Ditte Axén 19641214
+Galit Andersson 19821107
+Hanna Fredén 19750721
+Hasan Sehic 19660404
+Håkan Jakobsson 19780407
+Jesper Karlsson 19711211
+Johan Barvemo 19760209
+Josephine Forsgren Lawrence 19750926
+Karen Leanne Wendleman 19670825
+Katarina Kasto 19821028
+Lina Jädersten 19790801
+Magnus Tobiasson 19740522
+Malin Thyselius Kalmari 19760830
+Ninad Ravi Bondre 19760511
+Patrik Schönberg 19881122
+Rachel Singer 19841124
+Sofie Thunberg 19830122
+Stina Granath 19881001
+Xiangqin Zi Wijkmark 19850109
+Yvette Irwinger 19690620
+Ailyn Tapia 19870706
+Christer Ericson 19670831
+Eva Susanne Peters 19610316
+Alberto Windarp 19851226
+Anna Dahlqvist Schiller 19780927
+Anna Wahlström Lewén 19701002
+Anneli Landström 19710822
+Erik Dernéus 19870603
+Gulzara Massimova 19720713
+Janet Heiskanen Lundell 19640827
+Jenny Lagerqvist 19711105
+Lukas Palo 19891017
+Mikael Zewede 19760630
+Nathalie Bartingl 19861227
+Sonya Trad 19760125
+Anna Christina Eriksson 19770425
+Anna Lena Möller 19510906
+Camilla Catharina Ahlin 19900714
+Cecilia Heikura Meyer 19800208
+Ferid Dino 19800208
+Georg Rönnqvist 19501031
+Helena Dorotea Larsson 19710115
+Kevin Wihlner 19960423
+Linda Asfour 19650731
+Susanne Axling 19730414
+Alf Robert Beltran Lindskog 19800504
+Anastasios Pennou 19700105
+Ane Solland Kvinge 19880703
+Anne Svensson 19740515
+Beatrice Gunhild Sjöberg 19740106
+Carl Martin Kusgård 19741017
+Carl Ove Hedlund 19730316
+Frederik Leksell 19760802
+Fredrik Rimbrant 19770930
+Gunnel Rebecca Huselius 19760327
+Harald Gamrell 19680511
+Helena Öberg 19790930
+Jenny Svanberg 19731020
+Jesper Cras 19891122
+Johan Schollin 19810427
+Johanna Axén 19850404
+Jonas Centergård 19640325
+Magnus Alfredsson 19661212
+Magnus Bremmer 19831212
+Magnus Jernström 19741027
+Marcos Valles Ferrer 19841119
+Mathias Billing 19850902
+Melissa Hedberg 19781123
+Monica Lönnström Billgren 19640104
+Niklas von Mentzer 19731015
+Patric Rosenberg 19700503
+Patrik Engström 19810924
+Susanna Brodd 19850208
+Susanne Jansson 19660805
+Tobias Reuterhagen 19831007
+Tor Stefan Emmertz 19780720
+Victoria Larsson 19770224
+Viktor Peter Sebastian Hage 19901124
+Zsolt Cselényi 19721203
+Gustav Målqvist 19721018
+Rickard Castillo 19731026
+Thomas Sibo 19750324
+Anna Maria Margareta Ytter 19680401
+Anna Sjögren Vozza 19740114
+Maria Engfors 19830623
+Anders Absér 19731120
+Thomas Larnhed 19610809
+Armend Gegaj 19861103
+Andreas Wallén 19830413
+Helena Jubran 19581202
+Per Engelbert Andersson 19730108
+Gunilla Kevdal Ekström 19561213
+Henrik Dahlsson 19710105
+Jan Engström 19591218
+Annette Fredriksson 19550625
+Anna-Lena Ask 19500508
+Mikael Erdefelt 19861018
+Andreas Hasselberg 19750411
+Anne-Marie Lundgren 19500424
+Jan Eric Österlund 19530223
+Karin Ernemar 19551111
+Anders Dahlgren 19831123
+Susanne Åhlberg 19630720
+Ingegärd Wretman 19510310
+Ulla Samuelsson 19531015
+Karin Bergefalk Krievins 19490119
+Jan Lennart Lind 19520818
+Sonny Jerry Max Karlsson 19800815
+Eva Maria Linnéa Norelius 19601214
+Anna Kahma 19630310
+Kerstin Vallenholm 19520824
+Stig Anders Åke Forslund 19510206
+Rickard Clarence Molin 19780207
+Anette Lundvall 19600729
+Kristina Holmertz 19830803
+Mikael Nordenskiöld Frid 19781101
+Lisabeth Marika Charlotta Engberg 19710523
+Nina Vakkila 19831021
+Gunilla Reuterhagen 19510128
+Tove Garte 19650208
+Alfred Dahl 19870326
+Karin Palmér 19660528
+Alf Zetterberg 19500415
+Christian Svärd 19540731
+Björn Sund 19510616
+Kristina Bryntse 19740917
+Emil Stålnacke 19930606
+Johan Nilsson Fagher 19730516
+Nina Rausku 19690408
+Anette Qvarforth 19800614
+Christer Erik Gustav Malmgren 19490521
+Ulrika Wahlström 19761222
+Christine Sterzenbach 19521002
+Per Erik Mattias Lardner 19721227
+Alexander Beck 19521007
+Ines Habibovic 19810904
+Lars Salheim 19500421
+Stig Mikael Stenelund 19680510
+Danny Gullin 19500722
+Björn Edebrand 19730530
+Christer Turesson 19710721
+Christina Molin 19890529
+Henry Laine 19790420
+Håkan Söderlund 19630321
+Louise Wahlström 19690601
+Maria Sivertsson 19690308
+Rolf Sundquist 19660617
+Yonas Habtit 19630103
+Anna Sofia Granberg 19800625
+Bushra Nasr Kretschmer 19740706
+Carin Blomkvist 19760926
+Irina Shadrina 19751127
+Karl Jon Esbjörn Ljunggren 19710122
+Maria Soldo 19831017
+Martin Erlandsson 19800225
+Matthijs Johan van Staalduine 19830516
+Vibeke Löfström 19661104
+Xiaohong Chen 19680514
+Åsa Bergqvist 19651109
+Alfred Granberg 19770102
+Anette Öberg 19650524
+Helena Viinikka 19850116
+Mari Forsman 19700823
+Marika Holmblad 19700909
+Mats Anders Erik Wirdbo 19760211
+Thomas Eriksson 19740219
+Åsa Ingrid Susanne Falk 19691003
+Ann-Christin Millberg Mörfelt 19540425
+Evelina Sandell 19850202
+Ingrid Röhne 19560306
+Marianne Lehne 19631216
+Tina Bergström 19601121
+Ulf Åke Kalenius 19520401
+Adrian Neville Bullock 19690320
+Anna Mourskaia 19820321
+Annika Boustedt 19650330
+Björn Jäderholm 19710806
+Charlotta Gustafsson 19700127
+Claes Stille 19800318
+Dina Christina Zeidan 19710117
+Fredric Bjerlov Ramström 19711011
+Hosein Aminy 19640905
+Jonni Pettersson 19700120
+Karin Sofia Elisabeth Tranaeus 19820421
+Lars Tommy Havsbris 19670802
+Maria Engström 19650825
+Maria Walker 19640521
+Matti Näslund 19791220
+Milan Filipovic 19910705
+Patrik Rotlid 19670628
+Robinson Zandin 19670225
+Sanna Hansson 19880510
+Sargon Kasto 19811125
+Stavroula Anastasopoulou 19790105
+Ulf Thomas Eriksson 19780127
+Ulrika Bergström 19720607
+Maria Björkman Emami 19791005
+Brendon Clark 19700506
+Ivo Ventzeslavov Chikov 19810107
+Malin Styffe 19830621
+Therese Engvall 19930824
+Eva Kjällström 19570429
+Galip Öcal 19700107
+Konstantin Kvirkvelia 19610123
+Basiru Manjang 19570415
+Tobias Ahmady 19920225
+Miladin Skundric 19600420
+Anita Jonsson 19531008
+Selma Caglar 19671007
+Sejad Saad Jaber 19880204
+Alexander Sunesson 19850225
+Maria Rättö 19871125
+Robert Sredojevic 19751220
+Pernilla Larsson 19890102
+Susan Claudia Donaire Munoz 19820711
+Harley Klerck 19881004
+Abu Rahman 19660629
+Kerstin Månsson 19571019
+Sophie Fransson 19881113
+Michael Zhang 19630421
+Gun Anita Sidefors 19540129
+Renata Helenson 19510206
+Adam Albiin 19910930
+Atifa Mazogy 19600529
+Anna Sturua 19810603
+Dennis Blom 19910711
+Meri Malchasjan 19821031
+Bo Danielsson 19571017
+Hector Madariaga Riquelme 19530807
+David Lönnmar 19880601
+Karin Kihlstenius 19551116
+Legase Abraha 19631001
+Zhong Yao Cha 19550405
+Nathalie Jansson Savci 19890211
+Marianne Tungisa Nakanda 19650702
+Nasra Mohamed 19910405
+Jannetta Mvoungui 19640730
+Piotr Dariusz Rejch 19751219
+Saleh Semir 19630908
+Kestutis Lipnius 19631012
+Rita Tsotskhalashvili 19780322
+David Ivarsson Rasteh 19940531
+Hilario Pagaduan Jr 19501021
+Jolet Prat Jaramillo 19490322
+Pirkko Marita Karvelas 19520910
+Alexandra Grenehed 19870625
+Minh Tri Trinh 19820728
+Fahad Gardawan Gardawan 19610309
+Diana El-Gaberi 19850424
+Patrik Hammarkvist 19821103
+Ahmad Abuhejab 19810529
+Vedad Mujkic 19880609
+Catalina Gonzalez Casado 19610125
+Xiaoxue Wang 19871117
+Jane Jessica Falkstranden 19790330
+Richard Nielsen 19670421
+Karina Sarkissova 19880616
+Jaime Alfonso Villarroel Rojas 19570819
+Patricia Mateluna Farias 19541009
+Balla Camara 19741208
+Anna Westin 19900531
+Emil Ramberg 19930406
+Amanuel Samuel 19650812
+Josephine Murielle Pelleu Tchetagni 19760926
+Engin Demirel 19831001
+Sophie Piuva 19520604
+Linda Muhsun 19790422
+Biborka Bereczky Veress 19560608
+Stefan Lawergren 19630729
+Hala Muhsin 19810303
+Alaa Feyli 19670101
+Henrik Stegeby 19790213
+Krister Larsson 19800804
+Annette Lindberg 19651026
+Patric Kenneth Söderberg 19930309
+Fady Elshamy 19930922
+Mohammad Sadeq Daftani 19700316
+Abdelaziz Marrakchi 19500404
+Batool Nazayer 19720322
+Dimitrios Karalis 19950402
+Panagiota Kouklari 19690515
+Anatolij Novakov 19730127
+Fatmir Krasniqi 19510625
+Maria Christina Zorondo Galvez 19890921
+Maria Zorondo Galvez 19890921
+Angelika Brink Benteryd 19930516
+Kevin Wayne Moore 19870912
+Golagha Habibolah 19750806
+Ivana Puskar 19770107
+Fatemeh Kord 19580223
+Reicell Pemfors 19891107
+Maria Lodenborg 19851011
+Jesper Marklund 19830730
+Jennifer Jönsson 19880920
+Ichinkhorloo Gurbazar 19750525
+Silvia Neumann 19570208
+Anna Hejdenberg 19610329
+Erik Nordin 19930501
+Mikael Hagert 19690424
+Ove Hagberg 19560505
+Bojan Opacic 19800114
+Hanna Axelsson 19900103
+Lisa Arodin Selenius 19831114
+Wail Baroudi 19690511
+Merlin Fagerlund Janjic 19831121
+Nicklas Erik Gustav Persson 19840624
+Tobias Westerström Jobring 19870309
+Aleksandar Stojanovic 19800904
+Anton Barwén Lundh 19910313
+Benyam Tsegaye 19640524
+Evtikhi Gabunia 19720403
+Karzan Kamil Hasan Hasan 19770701
+Ludmila Zulfalieva 19630214
+Malin Appelkvist 19760501
+Marius Ciprian Eremie 19840805
+Munaram Genakhunova 19740704
+Paschalis Karalis 19670106
+Rozeta Beqo 19680701
+Somboon Chitmung 19621012
+Aram Al-Nasar 19881022
+Faranak Jasemy Nejad 19750502
+Gita Keyur Mistry 19820710
+Igor Opic 19831123
+Ilakhun Nizamov 19770425
+Inga-Lill Holmgren 19710116
+Jenny Arbieto Almidon 19830510
+Johan Nilsson 19890504
+Lukasz Wirtelczyk 19800506
+Mrwa Muslem 19900908
+Sebastian Van De Meulebrouck 19920929
+Terje Svenkerud 19690416
+Tina Hosseini 19940824
+Adem Dogru 19890120
+Amalia Arrospide 19721119
+Anders Petersson 19660404
+Bereket Araya 19840410
+Cecilia Loreto Contreras Retamal 19631124
+Dmitri Tchernykh 19880107
+Eleri Chrifi Alaoui 19801023
+Emmanuel Assiehue 19691228
+Frozan Abdeghafour 19810806
+Gabriella Saliba 19931117
+Hind Naji 19891226
+Igor Andrejic 19860128
+Itgelt Tsevegmed 19750117
+Leif Radloff 19650902
+Mikael Wikman 19640616
+Mona Dagher 19751220
+Mussie Tesfazgi Andemeskel 19750820
+Naba Raj Regmi 19780717
+Nafipur Whaid 19850430
+Nurmukhamet Adkhamov 19660808
+Per Lundberg 19640407
+Rifat Yacoub Aga 19840518
+Samir Jarjis 19930405
+Sandra Valeria Donaire Munoz 19801213
+Shafiqur Rahman 19710310
+Soraj Jamaly 19850410
+Suvarna Dash Wagh 19801202
+Tatiana Yanez Atienza 19870119
+Thomas Blom 19700406
+Ulrika Lehmann 19721201
+Vikas Sharma 19750923
+Johan Boström 19840310
+Marina Yesica Martinez Hinostroza 19750922
+Asha Toppo 19860117
+Beka Tamazashvili 19901217
+Daniel Svärdh 19900424
+Emily Bergqvist Eriksson 19630624
+Francisco Jimenez Gonzalez 19880505
+Gaytri Takhtar 19790706
+Hector Moises Madariaga Aranis 19860108
+Jane Adhiambo Odada 19620215
+Johan Brown 19891022
+Marco Antonio Alarcon Rocha 19710618
+Marie Winberg 19830708
+Susanne Dahlström 19640817
+Svetlana Milutinovic 19630712
+Youseif Ghebregiorgis 19861210
+Aleksandar Cojkic 19870309
+Kasem Shekhe Hussien 19760410
+Marko Djinovic 19860321
+Olle Rickard David Abrahamsson 19790928
+Adnan Toma 19720501
+Anette Freimanis 19700722
+Anna Pettersson 19700612
+Christian Zoller 19780805
+Conny Pemfors 19760515
+Felix Zayas Penalver 19721007
+Hana Nassar 19691210
+Helene Olsson 19640625
+Ilwad Awale 19890908
+Ingrid Soto Flores 19790102
+Isa Ataee 19650610
+Jenny Bolin 19730221
+Jim Christiansson 19740519
+Kawe Khezri 19880701
+Lars Gustavsson 19670518
+Lina Sibella Demirel 19900114
+Malin Byström 19660501
+Maria Damgren 19850914
+Marie Sabir 19730902
+Mathias John 19850422
+Mats Sehlstedt 19691210
+Max Kiliam Granholm 19951028
+Max Lindgren 19831103
+Mevlida Hamzic 19651213
+Mikalai Budol 19680512
+Nahida Nekzada 19760106
+Niklas Lund Vesterberg 19920210
+Thomas Jennesjö 19820815
+Tobias Hållén 19871121
+Türkes Güclü 19660101
+Vanik Vahanyan 19910702
+Vladimir Vesselinov Boiadjiev 19871201
+Wisam Aiad Jalil 19750519
+Yupa Kaewwongsa 19780724
+André Adolfsson 19940929
+Jonas Lestander 19870620
+Rita Elisabeth Mattsson 19511127
+Birthe Mari Dahlberg 19610316
+Zbigniew Golba 19800813
+Samson Gebre Kassa 19751205
+Abdirizak Said Abdirahman 19700412
+Helena Lindenhäll 19610603
+Gerasimos Afendras 19680410
+Kamelia Khosraviani 19700920
+Frida Perving 19931009
+Andreas Svensson 19871117
+Celina Imaña de Cordova 19531006
+Diana Karlsson 19860607
+Christie Vanstrien 19841024
+Ann-Britt Marie Borg 19500219
+Krzysztof Grzegorz Golba 19910312
+Solav Muhammed Zangana 19590315
+Gustav Rangmar 19880322
+Ruzanna Sardaryan 19651204
+Esther Naluwu 19560411
+Hasti Riahiaghdam Sahzabi 19860816
+Per Henrik Brunge 19761202
+Jessica Hortevall 19850506
+Jacques Pallay 19521129
+Andrzej Janiszewski 19790327
+Zacharias Jaakko Koskinen 19540616
+Pontus Degsell 19700914
+Meddy Linond 19781011
+Farouk Smati 19501228
+Sylwia Anna Kosinska 19841023
+Sofia Widengren 19931112
+Åsa Breime 19490802
+Narmin Abdulrahman 19610319
+Joakim Bergström 19930904
+Mariella Gonzalez Arevalo 19801201
+Maria Mizhda Raz 19860107
+Ayad Jalil-Ali 19720820
+Ronny Hall 19870621
+Jorge Herrera Martinez 19821113
+Edmond Bacchus Gullan 19591025
+Jana Altin Morén 19510803
+Muhammed Danbus Shatool 19560625
+Sara-Magdalena Achek 19880913
+David Moberg Lindsay 19841103
+Sivan Karwan Seyed Ali 19900520
+Mahmud Adem 19610114
+Zelga Malke 19840705
+Ila Aho 19820205
+Linda Jackson 19930505
+John Cannerfelt 19840730
+Waled Almasri 19930829
+Bojan Konjicija 19801010
+Cecilia Eliaeson 19710107
+Ingvar Sjökvist 19500503
+Eva Marie Dozzi 19570320
+Azeb Askale 19791225
+Ghebrehiwet Woldemicael 19500715
+Jesper Petré 19881010
+Teresita Gustafsson 19571106
+Franck Sebastian Corbin 19900329
+Mahmut Yildirim 19780401
+Becir Camo 19930320
+Lena-Kajsa Olsson 19640806
+Marta Szulkin 19860317
+Alice Gatonga 19550915
+Adhanom Kidane 19830210
+Robert Johansson 19721211
+Tenia Amin 19670507
+Michael Horvath 19760311
+Assad Alsanawi 19550130
+Lena Eriksson 19670323
+Dragica Miletic 19520812
+Daryan Yassin 19800130
+Miomir Manojlovic 19940308
+Mohamed Zaher Mohamed Ali 19510809
+Ferdous Alam 19580725
+Ranjanii Darell 19840313
+Johan Rosén 19870119
+Rosalill Johansson 19511117
+Nabeel Khalil 19881013
+Marina Nuñez 19720925
+Bengt Jonas Schill 19780907
+Mariyana Goneva 19710409
+Britt-Marie Erixon 19490321
+Kitty Orleanski 19550224
+Sofie Nordlund 19941206
+Pia Örnell Svensson 19590715
+Lucian Lwampindy-Bofua 19940323
+Jan-Olof Persson 19570416
+Gert Forsberg 19510615
+Dikra Boudag 19580101
+Pekka Kupari 19550118
+Elie Younan Abboud 19640220
+Meral Onur 19801027
+Amanj Mala-Ali 19650701
+Elahe Sadeghi 19580913
+Valeria Hjertberg 19930805
+Susanne Liedman 19580129
+Miralem Dzevlan 19601123
+Ludvig Karlin 19950608
+Mats Gunnar Wigerdal 19600325
+Shiva Khallati Pour Kaveri 19770909
+Jamila Abdelhanan 19710817
+Mina Ahmadgul 19950821
+Elisabet Fredriksson 19600512
+Eva Lindeman 19641017
+Velimir Ranic 19680512
+Sabah Al-Radhwan 19500703
+Henryk Andrzej Borkowicz 19611124
+Jelena Radovanovic 19631211
+Sasa Jevtic 19730624
+Max Wilén 19890131
+Osama Asad 19830101
+Magdalena Elzbieta Polak Hergül 19820626
+Sofia Mohammed 19641014
+Migdalia Salomon Martinez 19650715
+Victor Karlsson 19940206
+Caroline Gustavsson 19870518
+Agnieszka Baran 19730801
+Mitra Allahyari 19580726
+Behdzet Sarajlic 19490420
+Adam Zbigniew Popis 19500216
+Ann-Christine Hedström 19621031
+Carina Elisabeth Lundström 19561116
+Martin Bartoli 19831016
+Tomas Pergel 19630627
+Norik Ebrahimi 19561228
+Piotr Karwacka 19770829
+Artur Barel 19881130
+Christina Lucy Brassett 19610821
+Hans Hult 19591027
+Stefan Radu 19640602
+Johanna Samuelsson 19920820
+Krister Nyholm 19491215
+Marianne Birgitta Elisabet Keskinen 19530521
+Evan Aziz 19920831
+Joakim Engström 19910105
+Adel Mukhtar Guara 19860728
+Aron Nabi 19810402
+Kefeye Tadesse 19790119
+Milos Randelovic 19860620
+Zaza Gugenishvili 19840821
+Asenat Kahsay Michael 19730512
+Said Khalifa 19640915
+Jonas Eklund 19910226
+Tighisti Teklay Weldemariam 19900308
+Anmar Ridha Mohammed Mohammed 19881210
+Majd Almatwalli 19941029
+Shiler Khadri 19700321
+Allen Aoudo 19791104
+Anders Dahlman 19630728
+Carlos Alfonso Salazar Rojas 19611217
+Ergin Munoglu 19690922
+Evalena Sander 19691213
+Farid Arwand 19730401
+Johan Isak Fredriksson 19740329
+Kenneth Jansson 19650217
+Kristian Söderlund 19860822
+Michal Chacinski 19790315
+Moayed Otraghchi 19680828
+Niklas Rogeman 19881210
+Patrick Holvander 19870726
+Peter Zander 19621220
+Qusai Hanna 19690822
+Sabahudin Mahovic 19790218
+Sofia Mohammed 19641014
+Sozan Amin 19700301
+Stefan John Olov Persson 19820713
+Toni Stankovski 19850918
+Alfonso Paucar Toalombo 19730830
+Allena Knezevic 19760717
+Aysha Gaatur 19920816
+Belinda Aquino Ghimessy 19771104
+Carina Tarazona Moreno 19820418
+Fadi Kurbatli 19770102
+Ganerdene Bud 19870331
+Kareem Abdullah 19950709
+Lisa Mjörne 19900131
+Malin Andersson Osobi 19720915
+Mark Ghimessy 19750514
+Sergei Denisenko 19780818
+Abdoulie Babucarr Njie 19670815
+Adyom Belay 19791115
+Agnieszka Jus 19830228
+Albin Granberg 19950116
+Anna-Karin Petursson 19640915
+Ann-Charlotte Holmgren 19720407
+Borbála Belec 19780330
+Charles Ezeh 19680827
+Charlotte Backevik 19770524
+Dimitar Savovski 19890224
+Elias Seyoum 19681009
+Henrik Eriksson 19760901
+Håkan Julander 19650802
+Jane Ann Madeleine Friberg 19680714
+Jayeshkumar Kaushikbhai Patel 19851214
+Jeffrey Leon Brewster 19620904
+Jelena Djömina 19840203
+Jesper Dahlbäck 19741014
+Jonas Liedman 19690709
+Katarzyna Janiszewska 19871221
+Kevin Warsén 19950622
+Linnéa Silfverling 19810315
+Luwam Mehari Gebremedhin 19770707
+Mari Ekenberg 19640405
+Michael Larsson 19610518
+Mihai Lucian Grigore 19840410
+Niklas Lundström 19821028
+Ove Niklas Petersson 19710521
+Rasit Karayel 19680219
+Salah Mahdi Hussein Hussein 19770104
+Sari Lisa Johanna Perving 19741109
+Srdan Klipic 19950623
+Suchat Chitroongsakorn 19620329
+Susanne Koinberg 19650414
+Tomas Petros 19950801
+Tomasz Bednarz 19791204
+Veronica Helena Maria Gleisner 19701202
+Vesna Mladenovic 19680622
+Zein Omer 19610408
+Abdullah Asad 19850506
+Ada Cristina Leon Bakal 19850702
+Ichrak Brunge 19820908
+Martin Mellberg 19860326
+Pawel Zadykowicz 19871121
+Saeid Mohammady 19900215
+Zoie Manojlovic 19750703
+Anna Maria Elizabet Bergström 19890405
+Atif Rana Bashir 19820223
+Aylen Gürsel Bertlin 19831020
+Bakhita Omer Adem 19650401
+Christoffer Thunberg Dahlin 19860521
+Danijel Baric 19750110
+Dargham Hussein 19890326
+Dusko Micic 19710519
+Eva Freiendahl 19610710
+Haidar Soliman Jamal Aldin 19770409
+Helen Woldu Kidane 19840603
+Ikram Ibrahim Mohammed 19660127
+Jelena Pilindavic 19830428
+Migdalia Ringelmann 19650715
+Mohammad Rajoub 19690730
+Musa Hergül 19831209
+Natalia Rakova 19650708
+Nazi Sanobari 19720328
+Novitsa Stankovski 19810511
+Pilar Anturi Bustos 19830330
+Rakesh Kumar 19800410
+Ronny Sten Bertil Keskinen 19820618
+Sean Charles Logan 19811126
+Seija Rytkönen 19640529
+Selamawit Hagos 19730708
+Thimpika Yucharoen 19880610
+Tumenjargal Davaasuren 19830425
+Veronica Karlebo 19850529
+Åsa Frosth 19640816
+Anna Elisabeth Carlsson 19700817
+Paul Andrei Galvan Arrascue 19821117
+Webeshet Yadete Dabi 19791121
+Åke Stefan Hansén 19770913
+Almaz Mehari 19650512
+Christoffer Bengtsson 19910209
+Dalmira Haydeé Sanchez 19670518
+Emad Al-Khafaji 19640318
+Erik Lindenhäll 19870804
+Gabriel Cronström 19851031
+Hjalmar Andersson 19921113
+Ivana Dostberg 19900403
+Jaezmine Linder Jacobsen 19920117
+Jaroslaw Marek Gemborowski 19890218
+Jeandark Afrand 19640709
+Jhon Henry Álvarez Ahlgren 19870912
+Jimmy Gerestav 19801008
+Jovica Nikolic 19680812
+Kirigo Nganga 19720305
+Laban Mbiri Kimani 19700209
+Lars Niklas Ridoff 19810505
+Leif Vihavainen 19700305
+Lina Amare 19830101
+Lukasz Mucha 19820506
+Maria Sjögren 19770813
+Mariella Gonzalez Arevalo 19801201
+Mariusz Burtan 19800612
+Marko Stoiljkovic 19860313
+Martin Holmén 19740207
+Mile Markovic 19650828
+Nejat Nurhissien 19651010
+Niclas Olsson 19760708
+Peter Stening 19800523
+Prasath Annamalai 19790516
+Rabar Ali 19840226
+Roya Kazimi 19670822
+Rut Medhanie 19780105
+Samuel Tesfay 19700729
+Shwan Diliwi 19650515
+Sophia Michailos 19710215
+Weifeng Zhan 19820210
+Andrey Kucheryavyy 19730530
+Henrik Jönsson 19911003
+Rafah Khoudary 19790920
+Wencheng Chen 19701217
+Tina Sjöblom 19710317
+Linda Thesén 19740801
+Inger Liddin 19680318
+Olgica Tadic 19491214
+Nejmeddine Ben Tahar Kobbi 19620406
+Ulrika Hanser 19710101
+Maria Udir 19490603
+Anneli Molund 19650820
+Johanna Björklund 19911115
+Astrid Wollberg 19590221
+Josefin Bergenwall 19900606
+Mikael Soldati 19720127
+Mohammad Omar Waizy 19950130
+Daphne Maria Denizeri Vargas 19880323
+Selcuk Yücel 19840612
+Sebastian Väisänen 19870522
+Linda Nymark 19850326
+Gisela Basaez 19880421
+Jennie Fridh Eriksson 19770106
+Cecilia Hedin 19790519
+Göta Marianne Andersson 19490227
+Johanna Nummi 19801026
+Mahrie Frisk Rezgui 19711019
+Susanne Aurell 19610406
+Kerstin Alersjö 19520512
+Pawel Marek Lisowski 19840321
+Håkan Björnmalm 19530527
+Elin Ek 19930308
+Fredric Heiroth 19840920
+Fredrik Överbring 19840722
+Joakim Lennström 19810128
+Johanna Riklund 19770721
+Joanna Eng 19950815
+David Björk 19920811
+Maja Fredin 19930825
+Suleeporn Banjongsin 19810203
+Fabio Lafabiana 19870218
+Anna Nylander 19910715
+Athina Lipas 19890630
+Cathrine Nathalie Vollbrecht 19910411
+Damian Andrzej Spasic 19781130
+Miroslav Urosevic 19870824
+Angelica Casado Tobosque 19840303
+Pär Medin 19711120
+Peter Larsson 19620401
+Hans Derestam 19560807
+Sven-Ivar Tryggve Berggren 19540108
+Zuhir Mikhail 19850508
+Gunnar Andersson 19580304
+Anders Pettersson 19491130
+Iman Shraa Aleslam 19560702
+Lars Thorbjörn Westin 19490513
+Fahriye Öksüz 19540613
+Klaus Krister Peterlin 19710503
+Anna Lappalainen 19781227
+Rolf Wåhlberg 19560216
+Yvonne Lindberg 19570110
+Pilar Flores Taquia 19760615
+Lars-Ola Löfqvist 19680531
+Sebastian Vikström 19881220
+Abdolah Al Bkour 19800929
+Mimosa Reinlund 19790227
+Maria Eriksson 19641025
+Mansour Mokhtari Jobahdar 19620405
+Olga Del Carmen Gomez Sanchez 19590129
+Lena Elisabet Gustavsson 19570913
+Alexander Ketonen 19891028
+My-Mariah Fagerström 19950617
+Astrid Barrera Villamizar 19700202
+Peter Rehak 19810714
+Mats Johansson 19580223
+Pernilla Björk 19730731
+Stine Lehn Höglund 19850108
+Bo Gustavsson 19530821
+Yvonne Gustavsson 19570924
+Siavash Asbaghi 19570321
+Davy Kwok 19850313
+Monica Molin 19740201
+Kenneth Roland Ahlborn 19520313
+Wilson Jesus Terrazas Felix 19590928
+Ali Aliev 19611018
+Frida Wahlström-Jonsson 19910829
+Torsten Käll 19520913
+Patrik Andersson 19901205
+Mattias Källgren 19721102
+Meheruna Akter 19701201
+Hans Svensson 19510518
+Cecilia Sjöholm 19711022
+Lars Sydolf 19501219
+Tim Gäverström 19920128
+Hans Christer Naeslund 19690427
+Robert Hellmark 19880906
+Anne-Marie Visell 19600730
+Thérese Gillberg 19771214
+Thomas Tolvanen 19700306
+Jan Ramon Aleite Escudero 19771122
+Balachandar Puram 19790418
+Malin Leksell 19940920
+Robin Lundgren 19910422
+Kjell Johansson 19551104
+Bereket Mebrahtu 19840514
+Anna Karin Bröms Storerkers 19660711
+Charan Hargsjö 19750808
+Britt-Marie Elisabeth Christina Gullberg 19550601
+Ruiqi Zhang 19940625
+Carl Anders Lindgren 19530624
+Eliana Eyzaguirre Ferander 19890329
+Ing-Marie Danielsson 19591217
+Hans Göran Stefan Hörnestam 19750816
+Mikael Höstman 19631112
+Richard Thunström 19851010
+El Hassan Zarmouh 19820910
+Anna Fästh 19500609
+Martin Larsson 19630617
+Christer Almgren-Lidman 19531005
+Ulla Elisabeth Helmfrid Nilsson 19500613
+Anne-Marie Lundborg 19560425
+Hans Stefan Sjöström 19621208
+Henrik Riby 19650728
+Davide Borghi 19810414
+Malik Arsllan Ahmed 19850119
+Duarte de Vasconcelos e Horta Caldeira Quaresma 19910309
+Eva Ståhl 19530831
+Irmeli Koski 19650218
+Jenny Ruth Richards 19850118
+Johanna Blomberg 19761219
+Andreas Jansson 19720926
+Henrik Hulting 19830411
+Soorshati Nyman 19590302
+Johan Nyqvist 19800506
+Monica Wadsworth 19670218
+Yilmaz Sensoy 19750302
+Sibel Bayram 19771005
+Karin Inga Margareta Lindqvist 19620614
+Tomas Käld 19641022
+Milenko Lasovan 19621202
+Izabella Rozenau 19490220
+Linda Skogsby 19930308
+Johan Boije Lindhe 19670207
+Tommy Wendel 19730815
+Bo-Johan Pettersson 19840901
+Lars Berglund 19630324
+Tony Kassarp 19660701
+Stefan Torestam 19900628
+Malidza Furumula Larsson 19900930
+Marcus Laurén 19890910
+Michael Himmlegaard 19850705
+Therése Kainu 19900706
+Alireza Mobini 19660425
+Joel Malmén 19910405
+Anders Martin Sandström 19630526
+Bengt Anders Gullberg 19500616
+Matilda Hagberg 19911014
+Carin Margareta Kristina Carlqvist 19560725
+Dante Acevedo Reveco 19490622
+Bo Karlsson 19530103
+Niklas Lund 19931103
+Marcia Godocito Valdes 19750625
+Bogdana Knezevic 19490404
+Ali Reza Iravani 19600714
+Jonas Nilsson 19700422
+Maria Plahn 19770413
+Iryna Zirukina 19860528
+Björn Håkan Löf 19700622
+Hanna Linder Månsson 19950408
+Roland Maurits Jansson 19570430
+Nisveta Karahodza 19520402
+Anna Sofia Carlsson 19750211
+Helena Bill 19650528
+Kenneth Sörenson 19530510
+Marcus Andreas Kallin 19800529
+Anne-Marie Danielsson 19550325
+Anni Gunilla Lundberg 19520618
+Mats Wilhelmsson 19600331
+Margaretha Larsson Fryklund 19510112
+Nina Hammarström 19790307
+Kjell Olof Hellström 19490106
+Robert Hagberg 19810917
+Margareta Eva Birgitta Öhlén 19600803
+Cristina Ejdeback 19600312
+Susanne Cecilia Törnfeldt 19551108
+Mia Jägrup 19830223
+Gun Ingrid Söderberg 19580611
+Carl-Johan Dahlman 19910425
+Emelie Hedvig Zetterblom 19870227
+Erik Flodstrand 19780518
+Rebecca Jonsson 19930913
+Cecilia Pettersson 19860515
+Lina Svensson 19880602
+Max Altez 19880319
+Ana Markovic 19820626
+Anna Szparaga 19881117
+Anne Monica Garcia Y Fernandes Palacios 19620623
+Carina Fredriksson Sellén 19650430
+Caroline Molin 19860416
+Christian Rosengren 19660628
+Christopher Feuk 19880316
+Eva Dahlén 19621217
+Farhan Ahmed Dar 19911016
+Fatmire Agolli 19631125
+Hanna Scherlund 19781103
+Isak Enström 19820306
+Ivana Atanaskovic 19690921
+Johan Erik Öhrling 19890625
+Johan Nygårds 19680320
+Julia Viktoria Frederici 19870309
+Karin Hägg 19670628
+Lisa Forsmark 19620916
+Maria Elise Haataja 19700915
+Marika Troili 19840716
+Michael Svensson 19890612
+Mimi Ilioska 19740430
+Niklas Stenberg 19611213
+Nils Lindström 19831028
+Pamela Andrea Nilheim Sabalaga 19831208
+Peter Carl Lindgren 19821009
+Peter Domlin 19741122
+Philip Basmaci 19880809
+Pär Jacobsson 19760328
+Sineenart Boonrak 19780224
+Suphanee Furio 19750304
+Victor Augusto de Campos 19880927
+Åsa Moberg 19701113
+Ali Kamaliha 19760313
+Helen Jonsson 19771116
+Henrik Adolfsson 19790220
+Micael Johansson 19900823
+Alexander Gidlund 19920408
+Ali Bamatitousi 19950921
+Anna Soltesova 19610423
+Anneli Jansson 19660310
+Annika Jacobsson 19650513
+Björn Svensson 19650530
+Branimir Jokanovic 19720920
+Brita Karin Marianne Andersson 19650502
+Camilla Karlsson 19661221
+Camilla Lejon 19690515
+Carola Björkén 19670116
+Cecilia Andersson Snell 19780424
+Chris Lundell 19900406
+David Nummi 19800918
+David Zevallos Coronado 19800611
+Erik Baidori 19870127
+Fanny Rebecka Irene Ulfsdotter 19941101
+Jani Karhula 19870414
+Janina Vincenti 19890618
+Jerry Bergström 19740312
+Jessica Eriksson 19741003
+Joachim Mikael Johansson 19700128
+Joakim Andersson 19810414
+Jörgen Sjöberg 19720406
+Karl Johan Söderberg 19640709
+Kennet Mikael Danielsson 19820628
+Kim Bernheden 19830106
+Kjell Tommie Johan From 19730203
+Lars Magnus Sjöholm 19720830
+Lejla Saljunovic 19940712
+Lennart Markus Eriksson 19780309
+Malin Erika Lindegren 19780925
+Maria Ljungmark 19780613
+Mattias Edholm 19700325
+Miladin Racic 19801004
+Nadia Casado 19890628
+Paula Andrea Donaire Gonzalez Raske 19801211
+Peter Mineur 19630818
+Peter Tobias Blomquist 19820105
+Pia Pettersson 19640820
+Pär Fogelström 19861219
+Robert Danielsson 19731213
+Robert Kustura 19700212
+Rodjon Zani 19900807
+Sara Lundström 19681105
+Staffan Sandell 19800814
+Svetlana Mechouki 19740323
+Tommy Höglund 19801126
+Wahab Akman 19840801
+Anna Adolfsson 19710423
+Anneli Ekengren Dage 19620128
+Emilija Margit Ernström Madunic 19820819
+Eva Ellnemyr 19660816
+Husam Mikhail 19860910
+Kim Ottosson 19940827
+Lars Gunnar Storerkers 19660928
+Maria Bäckström 19760421
+Satyendra Shirish Shrotri 19751030
+Susanne Niederer 19711206
+Virpal Singh 19880930
+Anna Carvajal Lappalainen 19781227
+Anna Sommer 19900702
+Anna Westerman 19640909
+Annika Maria Franzén 19810918
+Camilla Stjernström Forsell 19640616
+Carlos Alberto Canas 19800530
+Christian Enetoft 19790507
+Claudia Ruzbarsky 19900903
+Claudio Diaz Espinoza 19710116
+Erika Kasumi Allinger 19750125
+Goharik Tozliyan 19740702
+Jenny Morin 19830709
+Jenny Sydolf 19831108
+Johan Olsson 19730205
+Khaled Abdelhakim Elsayed Eldib 19730710
+Leif Stefan Lövgren 19690317
+Lena Olsson 19660228
+Margareta Wiqvist 19620208
+Marinela Tusic 19740821
+Martin Thesén 19760805
+Merushe Doleqi 19790211
+Michael Rozenau 19900730
+Mikael Jacobsson 19610407
+Nelson Eduardo Urra Silva 19611022
+Nina Åhman 19850301
+Olof Silfors 19720401
+Peter Christensen 19700312
+Safar Aliyev 19630711
+Sara Grändegård Nilsson 19901226
+Susanne Jenny Madelein Björn 19680930
+Cecilia Nilsson 19650406
+Kjell Persson 19620519
+Luis Alberto Sabalaga Pinochet 19610530
+Mikael Eklund 19670613
+Tony Holm 19640614
+Abdul Azim Rahimi 19731201
+Adel Rezgui 19660527
+Agnes Johanna Lernestål 19910126
+Alexander Karasar 19641206
+Anass Farhi 19880510
+Anders Bäck 19671226
+Anna Erlandsson 19930921
+Anna Gornecka 19671210
+August Johansson 19950512
+Bojan Konjicija 19801010
+Charlotta Svensson 19730403
+Christian Börjesson Vestlund 19921020
+Christoffer Eriksson 19931212
+Daniel Josefsson 19770624
+David Wadsworth 19640426
+Diana Al-Sabti 19831003
+Didric Adholm 19950612
+Dragos George Oproiu 19800424
+Eddie Broberg 19900213
+Elin Skaring 19870410
+Ellinor Phornebrandt 19750118
+Eric Christian Jobrant 19710518
+Erik Andreas Svensson 19770509
+Filipos Ghidey 19680501
+Fredric Eriksson 19740423
+Ghennet Aregay 19640926
+Giorgi Chkhikvishvili 19840507
+Glen Barud 19721025
+Hadiya Yaka 19781214
+Haris Mevic 19790803
+Hilma Lidholm 19930823
+Ismail Arslan 19670101
+Janos Lars Robertino Demetri 19660531
+Jeannette Johansson 19770712
+Jenny Eidenvall 19880420
+Jens Iivonen 19870107
+Jessica Blixt 19730526
+Jim Johansson 19940630
+Johan Baardsen 19700817
+Johan Strindlund 19770805
+Jonas Wettergrund 19920718
+Jonathan Nilsson 19861014
+Kanyarat Caroline Enmark 19780213
+Khalid Majeed 19800301
+Lars Jansson 19651107
+Lars Mikael Norén 19771031
+Lars-Erik Johansson 19660429
+Lii Heléne Hylander 19880313
+Linn Keife 19800525
+Linnéa Jonsson 19910823
+Magnus Brömster 19740719
+Magnus Pukk 19730919
+Marcus Ersson 19891205
+Maria Carlsson 19720128
+Markus Björkman 19770425
+Mats Eriksson 19800329
+Mei Yee Magdalena Lam 19820205
+Michael Christer Comstedt 19791104
+Michael Johansson 19880804
+Milos Barjaktarovic 19840223
+Muhamed Haljeta 19761011
+Munkhtur Enkhjargal 19830601
+My Yen Chau 19870205
+Måns Soldan Lidén 19791026
+Nathalie Asklund 19921017
+Ola Brinktell 19811120
+Ramez Mohammad Omar 19891223
+Reza Toran Zadeh 19790809
+Robert Björklund 19750817
+Rustam Baymatov 19800728
+Sara Siegwan 19800220
+Sebastian Skowronski 19920610
+Sigrid Zirukin 19860808
+Sirwan Rabky 19840409
+Stefan Vernersson 19830514
+Sumavalee Johansson 19640426
+Torne Nylander 19650616
+Yaprak Bilgin 19710205
+Yvette Vignuolo 19770907
+Zdenko Madzar 19780513
+Ronja Karlsson 19870921
+Anton Canestedt 19880603
+Barez Raz 19930509
+Christer Rendert 19731106
+Hassan Al-Saaid 19850601
+Jimmie Lind 19900324
+Krister Edgren 19730119
+Mohammad Hajebnali 19630710
+Silvija Madunic 19830724
+Zheer Nadham Hiywa 19760520
+Elin Johnsson 19840414
+Reza Hanifi 19710723
+Danish Oria 19690225
+Khaled Al-Hammadi 19830612
+An Nguyen 19700610
+Fikade Kidanemariam 19741115
+Maria Victoria Tjäder 19660112
+Mohammad Shakhawet Hossain 19830110
+Aleksandar Masic 19901230
+Yardanos Nemariam Ghebremicael 19881121
+Liza Duong 19840827
+Niclas Tersaeus 19640707
+Kewu Huang 19710727
+Linda Säinas 19740204
+Stina Amnebjer 19900729
+Marco Antonio Benitez Burbano 19700619
+Sebastian Contreras 19850911
+Bang-On Kampatan 19781009
+Louise Korpar 19930331
+Sofia Larsson 19871222
+Johanna Malmgren 19950519
+Weiwei Chen 19690619
+Xiang Liu 19621216
+Tomasz Weglarz 19960820
+Jesper Collovin 19890519
+Hanna Maria Wahlberg 19850910
+Jimmy Petersson 19760703
+Valentina Klouras 19950330
+Gustav Eli 19890309
+Adrian Fahlén 19910503
+Jakub Dedic 19511107
+Dolgor Bor 19710228
+Khulan Otgondalai 19910928
+Herman Gardarfve 19910731
+Julia Ivarsson 19941117
+Josefin Borgström 19910403
+Neil Ramnarine 19761112
+Rolf Lennart Peschinoff 19490220
+Hatun Abdulkarim 19741013
+Nikolina Dukic 19941222
+Niclas Tersaeus 19640707
+Pairin Sakong 19781007
+Zlatko Hadzic 19701106
+Luis Onat Miranda Jara 19600808
+Annie Lomnäs 19781117
+Mark Lomnäs 19650421
+Michelle Sanchez Fuentes 19910519
+Thuy Chi Vu 19891216
+Maria Grünholz 19590106
+Vian Al Hadad 19911208
+Hemmo Levonen 19571107
+Calle Nilsson 19850915
+Gustaf Öhman 19841003
+Hugo Fernandez Toledo 19550802
+Tomasz Dyrcz 19740922
+Veronica Eriksson 19781011
+Aisha Jama 19771225
+Claude Labihountan 19680910
+Kerstin Irene Roth 19560531
+Daniel Cifuentes Escobar 19791101
+Rosalba Salguero Guasca 19660628
+Valare Snowe 19740711
+Dunia Adel Sarhan 19950316
+Nathalie Karlsson 19870427
+Ismail Merjdouf 19660630
+Mobarak Alsuhaili 19881220
+Jacek Romanowicz 19550613
+Michal Serwatko 19850119
+Aina Grönvoll 19720506
+Robert Yhonny Reyes Salvatierra 19740214
+Bayarsaikhan Tumenbayar 19740503
+Bilguun Bayanbat 19900219
+Gantsetseg Damdinsuren 19740619
+Mandakhbayar Chimed 19650308
+Maria Tjäder 19660112
+Aquila Florencia Rodriguez Apumayta 19641110
+Aida Kanbolatova 19810511
+Rufat Dadashzade 19760404
+Aleksandar Colak 19740118
+Tao Yu 19730629
+Decontee Jarlee 19831012
+Anna Proskura 19910422
+Miryam Mussie 19871014
+Karolina Andersson 19801021
+Oleksandr Blinov 19670618
+Michael Mccarthy Kellerman 19790324
+Jan Hopfinger 19581004
+Therese Söderling 19800322
+Anneli Green 19901220
+Abrham Yehualashet 19840621
+Dejin Abdullah 19911025
+Amanda Borgenhede 19920119
+Anastasios Dimparis 19890813
+Anna Sjövall 19930801
+Eduardo Antonio Vilches Baeza 19561029
+Jan Innanfors 19840601
+Marianne Karnehammar 19600913
+Tina Heed 19620511
+Anna Green 19680212
+Betelhem Hagos 19621001
+Bogdan Krawczyk 19661028
+Chris-Lee Molander Pettersson 19920831
+Claes Eriksson 19511020
+Dennis Landstedt 19981213
+Hadi Amini Nejad 19840902
+Heleri Holm 19810610
+Jeanette Bergström 19660904
+Johan Derblom 19810425
+Jonas Westberg 19910826
+Klara Lindal 19840607
+Maksim Belov 19750528
+Merry Geremew Demesie 19870427
+Mikaela Strandfeldt 19970117
+Minh Dao 19850112
+Omed Lalli 19800505
+Ronny Sahlberg 19790613
+Sara Jansson 19920711
+Shantal Eriksson 19701013
+Tugs Bayanbat 19920508
+Vladimir Mircea Vlad 19500119
+Daniela Neli Hering 19691113
+Nawarat Yotsanga 19961021
+Ronja Viljevac 19790622
+Rostyslav Andrusyshyn 19700513
+Martin Färnström 19790111
+Agneta Friäng 19560630
+Alexandra Maramis 19920721
+Ali Faris Jawad 19841214
+Angel Roson Roncero 19691022
+Annie Lomnäs 19781117
+Björn Weidinger 19930127
+Carl Brandt 19640206
+Casey Bayle Del Mundo 19730407
+Daniel Linder Krauklis 19700808
+Edwin Cervantes Felix 19640524
+Emina Curic 19740815
+Ganzorig Ereendee 19750709
+Georgios Serdaris 19650313
+Jacek Romanowicz 19550613
+Johan Eriksson 19630918
+Josefin Lindqvist 19870317
+Linnea Jensen Lumley 19840324
+Natalie Karjalainen 19870423
+Nelson Ricardo Reyes Salvatierra 19900721
+Rima Abdalla 19870927
+Robert Grünholz 19951023
+Rouwaida Bechlaoui 19721201
+Sandra Sundvall 19950819
+Sarah Smith 19790215
+Selma Besic 19811123
+Senija Dedic 19550924
+Thi Lap Nguyen 19701008
+Tina Baudou 19641017
+Tony Garte 19540119
+Zlatko Hadzic 19701106
+Anna Maria Persson 19391101
+Tosca Haiman 19390927
+Mehmed Besic 19521129
+Vincent André René Lecoanet 19900214
+Jens Andersson 19871020
+Shuxia Hu 19690718
+Van Tu Le 19680802
+Alex Manzizila 19881218
+Mia Äng 19801019
+Fredrick Avén 19830101
+Emil Lindpalm 19950212
+José Carlos Soleto Perez 19910319
+Sofi Damm 19680924
+Mungunzaya Sukhbat 19830113
+Addisu Abebaw Getahun 19810803
+Bozena Rönström 19761022
+Robin Larsson 19900420
+Leonardo Da Silva 19820814
+Per Mårtenson 19460109
+Amie Sey 19700615
+Qi Huang 19871008
+Ulla Johansson 19510711
+Ricard Hernan Angulo Lavin 19780115
+Jackie Wigh 19890803
+Mathias Du Rées 19661215
+Ulrika Mattsson 19750308
+Mohamad Salih 19770401
+Sam Eklund 19800101
+Cham Anh Nguyen 19950417
+Ayesa Alam 19700831
+Mariama Manneh 19910927
+Jan Zenon Wozniak 19570328
+Magnus Berglund 19891017
+Carlos Rivera Silva 19740326
+Michelle Siwers Berg 19951230
+Emil Lindgren 19950301
+Lisa Rehnström 19810330
+Amina-Rukia Yusuf 19731021
+Mariam Singh Sangwan 19810902
+Anna Doudnik 19801213
+Sol Klang 19930827
+Wesam Kadhum 19621107
+Enver Hasanbasic 19650205
+Zina Amoori Habeeb 19850121
+Mohammed Yidnekachew Seleshi 19741010
+Samson Haile 19721212
+Jerome Bustamante 19880122
+Maja Salatic 19690429
+Lotten Attlin 19900617
+Feben Basazenew 19921214
+Lars Bladh 19590116
+Charlott Qvick 19870627
+Michaela Johansson 19910128
+Bayarmaa Nergui 19700530
+Munkhtur Tuvdendorj 19840421
+Biljana Ismaili 19630713
+Lars Johan Lindau 19630926
+Veronica Tellberg 19891201
+Tatjana Nenadov 19680526
+Julia von Hellens 19781106
+Michaela Kratz 19740719
+Anna Mikulak 19580704
+Andreas Helm 19840131
+Andrzej Mazurek 19841130
+Gunnel Elisabeth Brolin 19571121
+Mats Samnerud 19610602
+Perola Axelsson 19630326
+Alicja Tykocka Ström 19560724
+Carl Fredrik Brodin 19801003
+Indira Cathia Haddasah Wilson 19751127
+Inna Melchyokhina 19980327
+Jan-Erik Pålsson 
+Kevin Holm 20000711
+Khaled Alabbadi 19770414
+Marius Daniel Iosif Neculai 19790526
+Mebrahtom Andemriam Berhe 19841010
+Niklas Bergvall von Hellens 19801220
+Peter Paul Posadas Parcon 19870721
+Rajko Salatic 19930831
+Sarajuddin Khalid 19760102
+Stena Catherine Reyes Parcon 19891123
+Tesfamichael Hagos Gebreyohannes 19731121
+Tobias Engdahl 19790716
+Åsa Mosell 19721215
+Dan Artur Konstantin Börjesson 19630524
+Daniel Andreas Lydemar Björkman 19910803
+Dmytro Demydiuk 19870128
+Helene Stolpe 19610728
+Lena Persson 19581108
+Thi Tri Nguyen 19780420
+Ulla Ahlström Lööf 19510711
+Ulrica Maxe 19670914
+Hong Sheng Lu 19570530
+Jenny Manjang 19730131
+Josefin Björk 19970617
+Leon Berg 19830227
+Ale Klang 19920614
+Ayed Al-Helli 19720701
+Bo Arnesson 19630217
+Elisabeth Ishizaki 19500521
+Elizabeth Permansson 19640702
+Erik Eastop 19920109
+Fredrik Liljegren 19711113
+Fredrik Prell 19721022
+Ingrid Eriksson 19630506
+Jelena Mirkov Mladenovic 19980812
+Jing Yuan Ekström 19710922
+Lena Eriksson 19620517
+Lena Lindgren 19591219
+Leszek Krupa 19690224
+Maria Pilesjö 19780826
+Payam Fazilat 19690421
+Rebecka Tjäder 19900604
+Thuan Thanh Tran 19701026
+Tove Lindholm 19671008
+Vilmos Lazar 19580609
+Yang Lu 19910628
+Zanna Lintsevskaja 19700408
+Marius Iosif-Neculai 19840813
+Elizabeth Salmonsson 19600615
+Amel Farraji 19651130
+Abdullahi Mahamed 19720415
+Borivoje Bicanin 19871002
+Kenny Johansson 19840515
+Robert Kinski 19720225
+Yukun Han 19700119
+Elle Frankenberg 19850103
+Eric Murguia Vilela 19790301
+Håkan Nilsson 19740707
+Uchral Tumendelger 19860406
+Adalyat Mamedtokhtiyeva 19840901
+Saeid Hanirad 19840617
+Ulrika Norlander 19750510
+Carl-Henrik Mörner 19841212
+Magnus Ziegler 19901030
+Sofie Eliasson 19900129
+Sanna Marklund 19911019
+Alfriedia Melton Tidbeck 19601124
+Alan Berry 19490114
+Christa Sana 19871230
+Fouzia Neddam 19730506
+Josefin Rehn 19920313
+Renars Vilcmeiers 19841221
+Elsa Andersson 19940106
+Roland von Wachenfeldt 19651128
+Laleska Borges Ferreira 19941209
+Anita Sadowska 19950407
+Mirsada Berberovic 
+Soraya Hamza 19830524
+Gustav Innala 19910705
+Thi Kim Thoa Huynh 19721207
+Anna Bozena Krzetowska 19790916
+Melissa Sahlin 19951109
+Alina Dudek 19470714
+Ann-Christin Borg 19570217
+Britt-Marie Gustafsson 19500206
+Guangying Han 19851022
+Habel Betiyo 19910511
+Jainaba Bojang Swartz 19970419
+Johan Nilsson 19920826
+Magdalena Wenner Piuva 19900816
+Nisrin Shiek Khalil 19821109
+Pawel Biernacki 19740115
+Reza Mousawi 19950330
+Tord Andersson 19391103
+Kerstin Lindström 19410919
+Kent Rune Gustav Rydholm 19440820
+Robert Javier Amido 19800520
+Amela Alisic 19750904
+Tiebebe Degefa 19791212
+Aristeidis Kritikos 19800402
+Elena Reznichenko 19800111
+Bahri Tabak 19680306
+Nour Zatara 19820911
+Hanan Mhirsi 19780902
+Paulina Caroline Bade Ruiz 19910628
+Hannes Berglund 19940626
+Nathalie Håkansson 19941223
+Battuya Batjargal 19791126
+Jadwiga Michaj 19570806
+Johannes Arnborg 19870530
+Khaled Khalifa 19651115
+Mona Ouertani 19700101
+Mounir Errahbi 19800220
+Tefera Wakjira 19640623
+Muminzhon Mubarakov 19850415
+Anna Ekelund 19711112
+Ariel Alonso Bravo Diaz 19820214
+Helen Abraham 19800508
+Helena Björnberg 19790702
+Jacqueline Malki 19940829
+Jonathan Beskow 19900528
+Kristina Wallström 19860307
+Maggie Lund 19591203
+Olof Ekelund 19680318
+Petter Strid Möller 19921115
+Rebecka Nguyen 19901220
+Sara Golam Hussein 19880730
+Soad El Masoudi 19800516
+Therese Lindström 19890329
+Yohannes Afework 19700614
+Zemra Tabak 19661217
+Goran Milenovic 19690825
+Andreas Widerlöv 941206
+Matilda Gneipelt 19900227
+Pål Brandemo 19710315
+Stefan Broström 19860505
+Faysol Rahman 19630928
+Shahana Parvin 19690425
+Tazedul Karim 19670901
+Lkhagva Boldbaatar 19840905
+Rita Mkhitaryan 19641201
+Marta Tekle 19630505
+Mary Wanjiru Mwaura 19780502
+Miguel Cotera Miranda 19651211
+Andreas Herbert Larsén 19610730
+Petrut Ailenei 19670711
+Tomasz Graczyk 19751113
+Torbjörn Johansson Falk 19630118
+Helén Olsson 19630601
+Jadwiga Michaj 19570806
+Khuyagaa Lkhaasuren 19771225
+Christoffer Nilsson 19891004
+Monika Ilnitchi 19751019
+Yonas Tesfazghi Ukbagabr 19750105
+Nattavat Serttian 19990329
+Pouneh Mikailizadeh 19910617
+Anton Julian Kairon Ramstedt 19901102
+Alexandra Lundmark 19841103
+Erina Stenholm 19850526
+Metin Altinisik 19461015
+Madeleine Michel 19611126
+John Kardevall 19650901
+Mussie Kidane Debretsion 19820626
+Grazyna Gasienica-Ladzi 19901214
+Tomasz Kuczynski 19850909
+Ibtesam El Kallaf 19721010
+Meizi Wang 19881201
+Qingyun Liu 19600717
+Elena Ivona Ailenei 19940629
+Nariman Mohammad Saed 19630916
+Aster Kibrom 19710810
+Boel Brandemo 19800714
+Desirée Larsson 19930102
+Frida Karolina Elisabeth Svensson 19840607
+Victor Westergren 19861016
+Frida Johannesson 19880427
+Catharina Ellsäter 19871126
+Hamzah Majid Mshari Mshari 19860105
+Marcela Mathiasson 19950130
+Åsa Bjurling 19670315
+Ernesto Ferrey Silva 19800627
+Agnieszka Sudnik 19740505
+Hüseyin Tükenmez 19720320
+Maria Åsberg 19861120
+Ayla Sari 19621010
+Johannes Ojanperä 19920528
+Maud Andersson 19650324
+Per Martin Iliou 19780527
+Jenni Mäkelä 19920304
+Kent Uno Karlsson 19480616
+Nancy Beckford 19920313
+Kristina Nilsson 19650601
+Marianne Jönsson 19530630
+Tomas Jonsson 19760802
+Monica Sjöholm 19441009
+Sherzod Yarmukhamedov 19831013
+Tomas Berg 19590725
+Marianne Gjeldnes 19851007
+Mertsi Nyman 19570910
+Kent Karlsson 19561215
+Rita Begat 19500424
+Amalia Hallerby 19970906
+Adéle Henriksson 19960120
+Martin Thalström 19840429
+Alena Lagumdzija 19750910
+Ulla Tönnerfors 19471203
+Niklas Falk 19770412
+Anna-Maria Arvemyr 19841208
+Annika Berg Arvemyr 19520606
+Jenielyn Canlas 19830701
+Marie Björkander 19650930
+Viktor Björklund 19940202
+Malva Akermo 19960105
+Sebastian Jansson 19880402
+Frida Karolina Spångberg Waller 19850218
+Cornelia Alexandersson Nilsson 19840411
+Alejandra Vera Escobar 19711011
+Daniel Anundi 19840717
+Elisabet Andersson 19560212
+Gitana Cekutyte-Timofejeviene 19760714
+Karin Gevorkian Hellman 19550411
+Mariusz Glinka 19690124
+Ylva Marita Linnéa Nilsson 19560909
+Ali Mohammed Ahmed Ahmed 19951012
+Anya Katerina Prevallet-Kinstle 19950208
+Bernt Philip Berner 19570816
+Catharina Hellerstedt 19871126
+Chainarong Prompa 19940707
+Denice Karlsson 19950322
+Emelie Pellby 19851011
+Jyrki Huotari 19691222
+Leif Sortti 19831218
+Lena Vardanyan 19920505
+Linda Englund 19921025
+Lkhagvadorj Davaakhuu 19950927
+Markus Sundberg 19950808
+Per Erik Gunnar Nordin 19500331
+Raaed Ibrahim 19901026
+Stanislaw Swiniuch 19580404
+Vanessa Jane Mc Intosh 19561110
+Åsa-My Bjurling 19670315
+Danuta Raczkiewicz 19501211
+Dharshini Krishnaraj 19890102
+Emilia Wumba Luzayikusu 19640818
+Huynh Thuy Dam Luong 19760902
+Maria Turska 19610412
+Milinko Perovic 19761126
+Monika Elisabet Sköld Logren 19450912
+Senol Özdemir 19540101
+Simon Emmeran Marschall 19870206
+Stella Stjernström 19970415
+Tom Eriksson 19940322
+Yanderli Gregorio Mora Gonzalez 19950918
+Zewdi Kasay Berhe 19880705
+Hamzah Majid Mshari Mshari 19860105
+Irena Stonciuviene 19600809
+Bo Andersson 19450426
+Bo Åslund 19540427
+Buyanjargal Tsedevdoo 19710725
+Cuong Huynh 19750621
+Dennis Häll 19740422
+Diego Fernando Torres Villafane 19820513
+Elenita Cancino Cuaresma 19750718
+Gustav Ängeby 19861222
+Hans Karlsson 19520906
+Ing-Marie Seger 19601118
+Ingrid Norling 19630719
+Jakob Hellsén 19940514
+Johanna Alkland 19891029
+Kjell Christer Carlson 19691001
+Kjell Ove Mattisson 19450819
+Lars Wahlman 19890124
+Leif Daniel Eriksson 19741205
+Linda Kajandi 19841102
+Magnus Furuholm 19681208
+Mari Guvander 19650410
+Mari Susanne Stodeus 19611003
+Marie Torstensson 19620911
+Marie-Helene Bernadet 19710321
+Marika Hag 19890914
+Medhane Ahmed Geme 19521027
+Märta König 19690312
+Niclas Ahlström 19900413
+Per Joffsvik 19571121
+Rahel Taufic 19940130
+Rebecka Lindqvist 19870703
+Salimatou Diallo 19860902
+Sofia Svegmo 19870814
+Stefan Lind 19520726
+Suzanne Cassel 19650304
+Tommy Sundborg 19920708
+Venkata Krishnan Natarajan 19880812
+Yeny Jara Canario 19661111
+Desmond Lax 19490710
+Hans Håkansson 19831020
+Hans Sjöholm 19421121
+Kanlayani Changchalat Kardevall 19630908
+Lucy Cueva Chamba 19701026
+Giorgi Tevzadze 19791111
+Belinda Sörman 19920115
+Ida Hermansson Vinka 19910204
+Dennis Tängman 19910921
+Karim Harki 19910519
+Lorena Carvajal Ramirez 19871127
+Calle Sjöström 19790304
+Gary Engström 19670304
+Pontus Nilsson 19900716
+Damian Kuzmicki 19891129
+Mujinga Philomen 19730730
+Lena Carlstedt 19680413
+Tomasz Platek 19751031
+Erdenebayar Davaadorj 19880713
+Roland Wassfelt 19650310
+Sandra Grosse 19900925
+Mattin Yasin 19890215
+Patrik Borg 19810611
+Abeba Adhanom Habte 19860203
+Adaebel Magomedova 19830811
+Arnau Vidal Huix 19840503
+Malin Fredriksson 19861103
+Maria Landgren 19631217
+Mia Kling 19860616
+Nazar Mohammad Mahmodi 19730228
+Senka Hasic 19710104
+Tulga Baatar 19820422
+Charlott Lihnell 19840615
+David Karlsson 19781204
+Erol Akdag 19720101
+Jilali Elmaghouss 19900828
+John Brian Kirabo 19770222
+Kadir Taysir 19751002
+Monica Elisabeth Eklund 19730503
+Peter Nilsson 19750408
+Tomas Efrem 19891217
+Ann-Marie Storkson 19670810
+Christian Croona 19890724
+Emma Johansson 19860710
+Roberto Pelligra 19711127
+Rebecka Dahlén 19660217
+Saha Cehic 19730615
+Lars Erik Wikström 19550307
+Sitora Sharipova 19980403
+Björn Spejare 19880716
+Shahana Parvin 19690425
+Fredrik Rundqvist 19800608
+Somphit Laorit 19740418
+Stefan Kling 19810814
+Endalamaw Awoke Dinkayehu 19810120
+Bengt Christer Norrman 19480824
+Ann-Charlotte Hultberg 19660331
+Ismo Hukkanen 19690123
+Stina Karlgren 19860319
+Per Kjellholm 19530119
+Ida Josephine Jakobsson 19910816
+Filip Koskivuori 19940330
+Pavlos Alexandros Altanis 19851020
+Annet Walakira 19680223
+Lisa Rosén 19831103
+Zheng Zhang 19650308
+Drazen Crnoja 19861105
+Iurii Andrushko 19870629
+Svetlana 19870629
+Svetlana Szlovak 19701011
+Jafar Mukri 19840911
+Anastasiya Zapletina 19870415
+Siarhei Murashkevich 19820425
+Mina Unkic 19550306
+Rebecca Zamparutti 19920616
+Kinga Bring 19780219
+Delila Imamovic 19970926
+Sonia Shtembari 19781201
+Dahab Michael 19660612
+Oskar Stuguby 19920410
+Touraj Saffar 19510825
+Jaroslaw Jan Iliminowicz 19780403
+Jolanta Genowefa Iliminowicz 19741229
+Peter Reuterhagen 19851217
+Pierre Bengt-Eric Nilsson 19731006
+Senad Redzic 19700820
+Philip Dufva 19930818
+Zara Caroline Sahlström 19980712
+Monika Mercik 19790721
+Göran Westling 19561029
+Helena Sandahl 19891106
+Adis Redzic 19940223
+Yashoda Dasappa 19720114
+Kristofer Vikström 19841221
+Lovisa Grenfeldt 19820802
+Christian Najjar 19670703
+Miroslaw Szymanski 19600501
+Mariola Bozena Platek 19790214
+Jonas Dahlbom 19690622
+Pia Dahlbom 19870625
+Christoffer Bergqvist 19890424
+Fotios Dosis 19750101
+Viktor Jendeby 19890814
+Marinka Liljegren 19620907
+Elias Fogelberg 19900910
+John Westlin 19880229
+Johan Lööf 19750117
+Serkar Özalp 19881010
+Lubna Jonasson 19850808
+Solveig Birgitta Larsson 19450123
+Camilla Alexandra Becerra Donaire 19980615
+César Manuel Pinto Castillo 19851206
+Linn Brikell 19940825
+Sergio Gonzalez Bermudez 19620826
+Johan Nilsson 19750325
+Kjell Andersson 19461206
+Klaodia Gergi 19840803
+Rigmor Mogren Magnusson 19530403
+Nadja Saltell 19830103
+Britt Inger Gunnarsdotter Ziesemer 19460130
+Athanasios Giannimaras 19710426
+Britt Carola Cederqvist 19740210
+Eroll Berisha 19851204
+Christoffer Glännerud 19900627
+Ulziibayar Nergui 19860321
+Karl Lorentzén 19620317
+Inger Fem 19601104
+Abdi Osman 19840102
+Amina Abdirahman Ahmad 19940318
+Jimmy Håkansson 19810203
+Kristina Eckert 19910718
+Erik Kenneth Bäckström 19511022
+Maneewan Thongkaew 19611204
+Jenni Klemetti 19860704
+Jonatan Skoogh 19910504
+Ana Daniella Farfan Guerrero 19911202
+Daniella Farfan Guerrero 19911202
+Marie Eriksson Bruns 19540214
+Myagmarsuren Jargal 19800622
+Ganerdene Bud 19870331
+Nyambaatar Sarantuya 19890122
+Caroline Marie Margaretha Lucie Nielsen 19580301
+Idriz Redzic 19620222
+Claudia-Mirela Viscarra 19920609
+Daniel Forslycke Garbergs 19930204
+David Danial 19830106
+Ida Jakobsson 19910816
+Majbritt Elisabet Friberg 19500516
+Muhamet Sahiti 19871203
+Raivis Krievans Karlsson 19900506
+Sharif Javid 19910707
+Siv Monica Johansson 19520426
+Camilla Johansson 19891212
+Christer Björnberg 19700218
+Edin Mrackic 19900313
+Evelyne Iheanacho 19710908
+Hanae Ibrahim Sied 19930522
+Holida Sharipova 19640117
+Ida Jidåker 19960513
+Ivan Lyubomirov Arsov 19821105
+Kevin Sjöholm 19940404
+Magdalena Barbara Smolna 19671229
+Marcelo Vicente Ortuño Cortez 19630121
+Meryem Abduselam Abdelnur 19960221
+Mousa Sawires 19831201
+Nicklas Söderlund 19961104
+Nina Hallberg 19840717
+Osman Kilinc 19470310
+Peter Szlovak 19701011
+Phuong Hieu Hong 19770829
+Slawomir Smolny 19680102
+Slawomir Wychowalek 19770617
+Sophie Björklund 19910222
+Stjepan Mijatovic 19961124
+Thi Anh Tuyet Nguyen 19910726
+Aliyeh Paknia 19600623
+Ariela Bautista Ortuño 19800123
+Drazen Crnoja 19861105
+Erik Klingström 19890921
+Georgios Mokos 19651216
+Inger Andersson 19520928
+Kam Fuk Pang 19560708
+Maitsetseg Sainbayar 19860428
+Mats Sandahl 19930118
+Mattias Schenning 19870220
+Nuria Zinnurova 19610306
+Raili Anneli Saarikoski 19510730
+Alf Robert Hansson 19630621
+Bartlomiej Rusinek 19821105
+Fredrik William Björnsby 19941127
+Ioannis Lukas 19560929
+Magnus Lundgren 19910506
+Predrag Vuckovic 19690126
+Sebastian Eriksson Berggren 19870625
+Abenezer Zeleke Aklilu 19870827
+Agnieszka Irena Stefanek 19820505
+Agnieszka Plominska 19800530
+Anna Karlsson 19571201
+Björn Erixon 19511112
+Bold Dugersuren 19720224
+Camila Cordero Zurita 19900718
+Camilla Kristina Bengtsson 19730207
+Carl Ronström 19931107
+Carla Garlaschi von Der Lancken 19810604
+Caroline Lysaker 19651124
+Cecilia Brinck 19620416
+Christer Bengtsson 19620727
+Chuluuntsetseg Tseveendorj 19791205
+Dalibor Vranic 19741009
+Daniel Levén 19870408
+Daniel Poland 19770613
+Dejan Svetozarevic 19690805
+Dzevad Unkic 19531011
+Eivor Onerva Barud 19450407
+Elenie Kristina Sundberg Anagnostou 19831001
+Erik Rosander 19610129
+Hazem Henin 19970512
+Helena Edeskog 19880403
+Ina Calmanovici 19580911
+Insa Wemheuer 19840515
+Ivan Podgrajsek 19540916
+Jan Sandin 19511209
+Jaqueline Anna-Maria Hindersson 19921127
+Johan Fellenius 19621203
+Jonathan Morell 19870629
+Jouko Tapio Saarikoski 19500604
+Juan Maiz Lulkin Flores 19821224
+Juan-Manuel Rydholm 19921016
+Kanstantsin Krukau 19740127
+Karin Nordheden 19871223
+Karin Stålklinga 19470326
+Kerstin Marie Gustafsson 19640624
+Kristina Norrman 19870120
+Kristina Westman 19880627
+Leif Sjöquist 19470825
+Magnus Engvall 19691202
+Maria Fernanda Franfie Bendito 19920302
+Maria Liselott Odham 19661007
+Maria Mayer 19540828
+Marie Jeanette Westberg 19790303
+Marina Fagerström 19590621
+Master Teerawat Prasertkun 19970204
+Mirsada Hasanovic 19641012
+Nils David Teodor Larsson Holmgren 19910601
+Nils Jacob Anjou 19521212
+Peter Holub 19710906
+Pilar Del Rosario Diaz Orellana 19571231
+Raafat Talaat Shehata Henin 19941018
+Sarah Haukka 19920924
+Simon Jansson 19911001
+Slavica Karadzic 19620928
+Svitlana Kosteniuk 19800514
+Svjetlana Pilja 19780203
+Tomasz Grzegorz Burtan 19870402
+Åsa Fellenius 19640108
+Nina Brantros 19881120
+Thananjayan Chinnaswamy 19730617
+Jan Bertil Risberg 19440122
+Karl Arne Roland Nilsson 19420613
+Brita Helena Brandt 19411002
+Nils Roland Olsson 19421015
+Käthe Cogne 19410305
+Lennart Almén 19431014
+Maud Tillman 19401031
+Jan Åke Almlöf 19420704
+Harriet Lillemor Gille 19420820
+Maj-Gun Kvist 19410902
+Oyunchimeg Amarjargal 19780809
+Patrycja Jablonska 19860625
+Carlos Alberto Carvajal Orozco 19740714
+Peter Kjellvås 19731218
+Ganbat Donid 19770620
+Britt Wikudd 19660821
+Robinson Payano Lujan 19631120
+Sara Alzén 19890315
+Snezana Buncic Åström 19680324
+Poyan Livari 19710831
+Sofia Gonzalez 19760605
+Annie Hossain 19820205
+Francess Fatou Frank 19830618
+Johan Lindholm 19840629
+Lihua Wang-Humphrey 19821126
+Malin Kemi 19900807
+Noor Nezar Dawood Dawood 19890601
+Piotr Michal Perzanowski 19750109
+Asmerom Berhane 19700212
+Pierpaolo Russo 19700609
+Agneta Alm 19620308
+Cong Mui Andersson 19771207
+Aleria Cicek 19830531
+CONSTRUCTAB I MÄLARDALEN AB 
+Sandra Isabel Alfaro Camacho 19820403
+Giancarlo Daniel Monteverde Soto 19940323
+Nofal Jamhour 19761128
+Freddie Medvall 19560720
+Per Musella 19770504
+Ingela Stjärnström 19680730
+Ahmadreza Reyhanian Pour Esfahani 19540803
+Mats Tordell 19630914
+Anders Åström 19550424
+Agnieszka Kraskiewicz 19751130
+Anna Maria Aronsson 19500814
+Marianne Reivant Nordström 19561112
+Lina Norberg Samuelsson 19870314
+Rasmus Karlsson 19870622
+Fredrik Andersson 19770404
+Pekka Kosonen 19570517
+Eva Becker Rosengren 19530421
+Adam Paul Freeman 19700502
+Jenny Jonsson 19700502
+Yu Fung Cecilia Chan So 19510801
+Tina Ivarsson 19860915
+Annett Ilstedt 19630226
+Pedro Guaje Sepulveda 19820123
+Md Sadequr Rahaman Jewel 19820101
+Ann Margareta Rudebrand 19630727
+Carina Jonsson Asplund 19631214
+Håkan Norgren 19470822
+Kanyarat Woraket 19790905
+Lovisa Bornold 19890609
+Bror Torgny Malmgren 19460708
+Anna Lundberg 19911028
+Monika Perunicic Joksic 19900326
+Kristian Nordlist 19880901
+Madeleine Fagerdin 19800306
+Khishigsuren Tumurbaatar 19741124
+Jimmy Jia Li 19720306
+Sonny Borg 19551119
+Victor Vollbrecht 19941124
+Sylvester Jarlee 19800531
+Silvia Mutto 19790106
+Batbayar Zesem 19790101
+Mario Javier Jaraquemada Hernandez 19621216
+Zakaria El Azzouzi 19880504
+Samir Jomaa 19570917
+Florian Werner Oertel 19550908
+Sezai Celepli 19790425
+Hanne Rönnback 19580117
+Anna Grass Houichi 19780925
+Jacqueline Bomander 19901119
+Caroline Brantsberg 19900907
+Virginiya Ivanova 19730618
+Jim Johnsson 19920117
+Anders Fägerblad 19761024
+Fardin Ares 19630924
+Karin Ingela Christina Edström 19700718
+Kjell Edström 19580917
+Bo Håkan Tiainen 19490625
+Christer Daweu 19540330
+Mimmi Boman 19900303
+Jiratha Faiklang 19690314
+Birgit Christina Mejergren 19511002
+Catharina Jaraquemada 19640609
+Edwin Percy Villegas Tello 19821125
+Helena Faust 19810826
+Mostafa Mahmoudi 19930720
+Suvd-Erdene Dashnyam 19741010
+Amal Abbas Mortada 19620223
+Bat-Erdene Boldbaatar 19940723
+Bogdan Sidor 19711003
+Carina Lund 19800325
+Christin Sandström Flood 19480218
+Erik Spahic 19980717
+Felix Edström 19990305
+Igor Milic 19850314
+Jamyla Amin Muradkhan 19670701
+Jan Karl Henning Aberén 19540417
+Magnus Jansson 19760501
+Anna Grass 19780925
+Anthony John Hughes 19530411
+Elena Faoustova 19630521
+Lars-Ove Kenneth Norr 19640602
+Mihai Daniel Duduiala 19790211
+Mohammed Abdalla Mahmmod Alzghoul 19710301
+Nevriz Gümüs 19720710
+Patrik Löfdahl 19690423
+Porkodi Mani 19750213
+Rolf Gunnar Ljungwe 19630308
+Sara Cecilia Fägerblad 19770318
+Suparna Hossain 19921122
+Tommy Aronsson 19520529
+Yvonne Inger Christina Pretorius 19520630
+Orvokki Åkerlund 19660425
+Piret Pulma 19740527
+Robert Lindberg 19540514
+Yevgeniya Kalayanova 19620113
+Adam Karlsson 19860211
+Amer Zulic 19650702
+Angelica Lindholm 19870518
+Anna Nelson 19720319
+Annette Wickander 19641214
+Aroon Kaeprakhon 19760308
+Britt Erixon 19520124
+Ezzahra Kridisse 19620404
+Gerald Heng 19710501
+Giulia Ragonese 19690810
+Ingela Stuxberg Stjärnström 19680730
+Ion Gabriel Duduiala 19760628
+Jenny Wang 19760518
+Johanna Elfride Öberg 19910330
+Jonas Holmberg 19840320
+Jorge Edgar Cruz Gonzalez 19720514
+Joyce Nyamusi Lindberg 19741111
+Lena Persson Hebert 19550901
+Lina Lundberg 19870924
+Magnus Fransson 19870831
+Mandie Söderström 19810915
+Maria Vasquez Guerrero 19690721
+Marika Andersson 19850123
+Nora Al Dewany 19940420
+Noxy Midonzi 19801001
+Raul Felipe Coello Bustios 19660227
+Richard Siljebäck 19980111
+Rita Palmqvist Lundberg 19521128
+Safaa Elaide 19830324
+Therese Catrin Lundberg 19780724
+Thomas Karlsson 19621225
+Veronica Stille 19791003
+Wilfredo Moncayo Torres 19581223
+Bunlert Phianoo 19660523
+Monica Johansson 19450222
+Peter Wilbois 19430217
+Curt Lundström 19440503
+Hanibal Hailemichael 19740330
+Mirela Samoila 19840122
+Annika Wellmar 19600330
+Malin Margareta Melbéus 19761004
+Magnus Roxö 19730911
+Balen Maolod 19900102
+Håkan Dackéus 19730608
+Pawel Zelichowski 19690323
+Pernilla Lodin 19890724
+Edyta Lukaszuk 19831029
+Erik Petter Meyerson 19700815
+Michael Alavesa 19890609
+Mikaela Haglund 19700410
+Nils Erik Johan Fredrik Persson 19611008
+Tsigereda Gebremicael Weldeyohans 19671004
+Ellinor Appelquist Lundborg 19851123
+Eric Larsson 19850714
+Micael Lundmark 19860927
+Mustapha El Abdouni 19641024
+Ronny André Pearce 19720723
+Timmie Fugelstad 19901007
+Viktor Grönberg 19910516
+Carl Johan Owe Svensson 19741013
+Andreas Kajlinger 19881223
+Simona Tesfaye 19830929
+Stefan Fröjd 19570904
+Anders Boström 19620822
+Johan Pettersson 19890317
+Patrik Nylén 19731010
+Liudmyla Viniavska 19801215
+Vadym Nikitenko 19700707
+Tobias Hildeland 19851011
+Hans Anders Erik Hedenstedt 19810926
+Kristine Långs 19820716
+Mona Frisk 19620603
+William Wolgast 19930430
+Jeanette Sjögren 19600420
+Mohamed Ali Chahrour 19731015
+Wei Cui 19810909
+Dragana Trifunovic 19630415
+Elvedin Jaganjac 19680408
+Sara Ludvigsson 19720530
+Peter Larsson 19660402
+Nathalie Basurto Barriel 19690116
+Louise Aksoy 19910522
+Magnus Höglund 19820321
+Hans Fernros 19530929
+Salee Wirotsakun 19720502
+Nellie Moberg 19941129
+Oskar Kjällström 19921113
+George Kharoubeh 19830929
+Antoni Chilinski 19580707
+Artur Jackowski 19850904
+Magnus Karlsson 19920415
+Kerstin Ahlberg 19610113
+Larissa Nininahazwe 19800115
+Marita Blomqvist 19620220
+Huihui Chen 19840709
+Lovisa Jenerberg Fält 19660626
+Daniel Nilsson 19800425
+Pablo Torres Vargas 19770221
+Johan Östlund 19860807
+Hans Jordestam 19561117
+Kamilka Beckroth 19920110
+Celine Borgström 19790227
+Cecilia Ahlstrand 19640916
+Annie Ngo 19800417
+Sebastian Mårts 19880804
+Susanne Taleryd 19601214
+Lovisa Strandberg 19930420
+Algansh Ressom 19670520
+Robert Javier Amido 19800520
+Olav Arne Nordfjäll 19450425
+Agneta Hedvall 19810118
+Cüneyd Akbulutlar 19770401
+Linus Persson Ferm 19851230
+Jelena Mårtensson 19710630
+Maria Skilje 19641130
+Munther Mahdi Chilab 19611130
+Pia-Lena Pettersson 19580714
+Nina Reisler 19520209
+Konstantinos Chatzimichail 19870418
+Christian Gnosspelius 19611118
+Ulrika Ögren 19720913
+Taina Rahko 19661223
+Håkan Wulff 19740420
+Anders Vallin 19841030
+Anders Wallin 19841030
+Pia Anette Elisabeth Eriksson 19581215
+Catarina Strand 19800914
+Maja Bogdanovic 19810201
+Lina Linnander 19860113
+Julia Hanna Maria Josephson 19820507
+Per Magnus Josephson 19780111
+Jorge Gleizer 19560328
+Lena Christina Elisabeth Thurn 19560930
+Tommy Augustsson 19470202
+Trevor Patrick Manuel Fortes 19590811
+Christina Guligs 19650930
+Karin Birgitta Ringström 19450131
+Fredrik Lindberg 19760309
+Andreas Södling 19801106
+Susanne Carlsson 19640314
+Linda Ojala 19770510
+Bror Stefan Viklund 19531121
+Thomas Henriksson 19731011
+Katarina Elisabet Decker 19731217
+Peter Erik Emanuel Samuelsson 19501103
+Robert Palm 19890608
+Andres Diago Acosta 19741019
+Cajsa Zetterlund 19870228
+Sherri Ullgren Short 19710320
+Johan Oinonen 19761118
+Olaf Christophersen 19660712
+Elsa Araya Forsell 19581021
+Stewen Forsell 19911129
+Jimmy Wänfelt 19910128
+Golam Furkani Quraishy 19851013
+Anette Eklöf 19731220
+Lina Simoncelli 19851214
+Jan Sandkvist 19561214
+Semat Askari 19910911
+Alexander Eriksson 19920507
+Carina Björndahl 19690508
+Ana Quispe Ojeda 19630110
+Christina Godhe 19580513
+Tommy Clayton Kylänpää 19700604
+Darko Pracic 19860705
+Susanne Linder 19660812
+Roger Jansson 19550510
+Elias Wahlberg 19910813
+Emil Wahlberg 19891215
+Christoffer Bjurenborg 19920609
+Joakim Svensson 19880603
+Felicia Östlin 19880607
+Martin Blomqvist 19730201
+Chalee Andersson 19610731
+Bo Bigert 19460422
+Cecilia Nilsson 19660907
+Conny Ahlberg 19660301
+Sandra Mehle 19910628
+Thi Thanh Canh Pham 19580130
+Kjell Lutborg 19660528
+Jessica Roxö 19840523
+Oskar Filip Andersson 19800824
+Aikelamu Ainiwaer 19850905
+Leis Dawut 19870217
+Johan Viksten Martinetti 19880323
+Sally Karlsson Bondesson 19950208
+Denise Lyckeskog 19881115
+Per Viktor Paldin 19470316
+Leif Erik Köldal 19681112
+Mona Lundberg 19520506
+Per Olof Ågren 19530817
+Camilla Eriksson 19890706
+Elie Brax 19810306
+Guliyaer Maihesuti 19630908
+Kristina Larsson 19630611
+Lizz Genborn 19571227
+Nils Henrik Ljungkvist 19711023
+Ruth Gunilla Berzelius Tallinder 19490304
+Ruzdija Saljunovic 19650429
+Salar Valikhani 19930928
+Sophia Kirgiopoulos Carrhage 19960113
+Wael Khalil 
+Angelica Famulak 19970822
+Bayaraa Sodnomtseren 19690110
+Christoffer Forsell 19940219
+Emma Elisabeth Lindahl 19750723
+Erik Samuelsson 19860526
+Fredrik Åhs 19880223
+Henrik Appelfeldt 19731107
+Javad Jami 19830206
+Jikar Karim Sarihan 19860609
+Jolanta Jaconelli 19590518
+Klas Olof Johansson 19630822
+Krister Wilhelm Zetterlund 19780828
+Lena Zamora Staikidis 19830223
+Lennart Sedin 19530917
+Magnus Engström 19661115
+Md Yousuf 19850102
+Mona Veronica Espig 19741128
+Reuben Trevor Fortes 19830604
+Thomas Sjöstrand 19720419
+Tracy Temfo 19960616
+Veska Yulyanova Atanasova 19581226
+Wenfeng Xu 19700531
+Andreas Edvard Kulesza 19690329
+Anneli Hall 19511107
+Azad Heyder 19631010
+Bengt Gustaf Wallman 19771216
+Berit Deboneras 19500320
+Birgitta Säll 19600605
+Björn Enegård 19810205
+Björn Fredrik Wolgast 19650119
+Eva Kristina Ankargård 19540112
+Gunnar Skoglund 19530608
+Jan Birath 19450714
+Manfred Löfström 19940429
+Martin Johansson 19881110
+Mattias Gränsman 19910826
+Mia Maria Güettler 19780612
+Mikael Bredberg 19571216
+Monica Baldea 19650918
+Monika Hedlund 19850707
+Parvana Asadullayeva 19930707
+Pär Schoultz 19590522
+Ritva Olofsson 
+Sanda Jaganjac 19720517
+Simon Bredberg Schönning 19950717
+Ulf Gunnar Kronqvist 
+Anchana Smidare 19761205
+Anders Valentin Biro 19760519
+Hannu Kupari 19551112
+Henri Primetta 19681126
+Håkan Wulff 19740420
+Lotta Larsson 19520331
+Petra Lundback 19851009
+Tatjana Hilmblom 19840517
+Alexandr Helmkvist 19760724
+Anna Iman Öberg 19850720
+Anna Lena Rolf Kulesza 19710111
+Annelie Nyström 19640707
+Ann-Sofie Nylund 19600926
+Berth Erlandsson 19570704
+Bilel Dhawafi 19910214
+Birsena Saljunovic 19880722
+Britta Margareta Widholm 19450122
+Bruce Virtala 19950621
+Christer Thomsson 19720103
+Daniel Andersson 19730106
+Daorsa Hoxha 19900422
+David Karlsson 19920412
+David Rickard Lichter 19820615
+Elin Hedenstedt 19840121
+Elin Wrene 19911102
+Elzbieta Kozlowski 19820604
+Emil Sjöberg 19930622
+Eric Wersäll Lucas 19800419
+Eva Svoboda 19610114
+Georg Fischer 19630112
+Gideon Vaala 19580424
+Gunnar Thid 19581112
+Hans Lennart Wikzén 19580122
+Henrik Erlandsson 19710603
+Håkan Gerrbrand 19560311
+Håkan Johansson 19700702
+Ida Arvidsson 19920805
+Ida-Maria Ahlfors 19911009
+Inga Anette Fröberg 19630904
+Jacob Zetterman 19740110
+Jan Andersson 19631111
+Jens Christian Roos 19720505
+Jessica Maria Isabella Rooth 19810914
+Joachim Lundberg 19930430
+Johan Fälldin 19811015
+Johanna Czarnecki Jonsson 19850320
+Kenneth Teng 19681024
+Kristina Ester Cecilia Kiviniemi 20000421
+Kristina Lundström 19950221
+Kristina Margareta Silfvenius 19560325
+Kristine Jonsson 19700427
+Kunchalee Rinnan 19611223
+Leif Rundgren 19690114
+Malin Eriksson 19740203
+Maria Bohe 19780613
+Markus Nilsson 19851114
+Mathias Öhman 19910301
+Matti Långs 19850427
+Michael Larsson 19630727
+Miriam Bruchfeld 19601121
+My Persson Olsson 19931204
+Nader Ali Ahmadi 19770616
+Neville Holroyd 19580902
+Ove Lundqvist 19590204
+Patrik Lodin 19861006
+Per Lavinder 19561016
+Peter Söderholm 19630526
+Peter Ullén 19550331
+Petri Antero Laahanen 19561006
+Pia Lodin 19590813
+Rebecca Enegård 19820330
+Richelle Fall 19881027
+Rickard Almkvist 19740912
+Robin Castlin 19901213
+Rosario Roberto Fred Ali 19840810
+Sam Askari 19861114
+Sandra Zetterman 19770331
+Sara Gustafsson 19870504
+Sara Rickman 19910727
+Senor Abdulkarim Nouri 19850811
+Susanne Stålbrand 19650413
+Tanja Veintie 19790510
+Tomas Karl Einar Thorn 19570423
+Tonny Matzén 19631019
+Ulf Skoglund 19670713
+Yajaida Mata Soto 19780708
+Youssef Ibarbachane 19901231
+Yvonne Note 19600214
+Polyxeni Petraki 19751004
+Sara Åberg 19910420
+Irena Jadwiga Kaliszczak-Helland 19440416
+Carl Buster Glassel 19391025
+Ulla Maria Andreadis 19421128
+Ann-Margrete Karin Kristin Palm 19420304
+Ragnhild Helena von Sydow 19440307
+Hans Erik Nyberg 19440331
+Tuula Sandström 19420303
+Ansa Irmeli Hälleström 19410524
+Barbro Lundahl 19430913
+Mona Margareta Aldén 19440131
+Kerstin Almer 19401127
+Ulla Annell 19390713
+Agneta Birgitta Paulsson 19410224
+Leif Temnert 19420216
+Karl Erik Nilsson 19490402
+Talal Shehdah Shareef Hussein 19910618
+Kadir Osmanov 19801208
+Carita Gunvor Alice Gustavsson 19520429
+Tomas Elof Nilzén 19821121
+Hans Strigér 19790909
+Marie Sundqvist 19850401
+Lars Ellert Sandberg 19470412
+Nashwan Mirza 19910829
+Jens Bergqvist Bromaeus 19900301
+Kenneth Sandelin 19670211
+Thi Nhi Em Tran 19871020
+Amal Kanatri 19670625
+Felipe Arturo González Elgueta 19831202
+Musa Khadjiyev 19771113
+Iréne Viola Berit Nilsson 19541128
+Bengt Larsson 19521126
+Indira Giovanna Gotthardsson 19720827
+Gunilla Marianne Björkander 19661218
+Minh Tien Nguyen 19961105
+Thanh Hung Hong 19890226
+Miguel Navacerrada 19850707
+John Gösta Henry Engström 19691103
+Ashenafi Tedlla Gebreyohannes 19720625
+Patric Simmerud 19631013
+Mina Mouftakir 19640122
+Marisa Costa 19640721
+Atte Inkiläinen 19910226
+Shaalan Ahmed Youssef 19591009
+Camilla Lindelöf 19910526
+Per Benny Magnusson 19530909
+Anita Margareta Liutu 19501024
+Bengt Gunnar Ingialdsson Lassenius 19440920
+Tedd Pettersson 19600817
+Gerd Martinsson 19630324
+Paolo Leva 19660111
+Peter Eriksson 19760816
+Liselotte Dahlén 19581007
+Hanna Edqvist 19900603
+Michel Demir 19860112
+Qunying Xu 19760123
+Jonas Gotthardsson 19710712
+Mia Engström 19690516
+Tora Saga Linnéa Lindberg 19990305
+Carina Lindberg 19570508
+Gert-Åke Sonny Karlsson 19580210
+Petra Norström 19901007
+Marie Louise Amatiello 19740911
+Satar Al-Sammarai 19711012
+Bao Anh Hoáng 19931106
+Duc Hong 19911115
+Elin Sundberg 19870622
+Ihab Al-Khishali 19950307
+Lars Göran Hedström 19550802
+Pia Holasek 19650107
+Razak Al-Khishali 19600711
+Sami Chatara 19821214
+Thi Thanh Thuy Nguyen 19820604
+Thomas Söderlind 19560522
+Tommy Spångberg 19600709
+Tsion Ekubay 19730521
+Tu Dat Vu 19940419
+Bengt Ingialdsson Lassenius 19440920
+Bernt Ahlborn 19440529
+Camilla Karlsson 19851215
+Justina Karlsson Arvidsson 19730606
+Krystian Daniel Krszyna 19780827
+Pär Ljungström 19810504
+Sairan Mustafa Muhammed 19710304
+Angel Emilio Valencia Martinez 19850222
+Anna-Karin Pettersson 19740529
+Dennis Kullberg 19890128
+Pehr Olofsson 19871011
+Veronica Sunesson 19860212
+Bhanuja Pramoda Bonam 19860110
+Carina Fredriksson 19641229
+Cecilia Maria Wetzelmayr 19760118
+Daniel Sjögren 19730629
+Johny Sharro 19820423
+Mohammed Arifuzzaman 19761211
+Mongkol Chaisarn 19700720
+Henrik Björkman 19930202
+Ingrid Viola Nordlund 19570629
+Rebeca Ines Munoz Castro 19580616
+Sebastian Piotr Sedlak 19790710
+Susanne Agartz 19620321
+Åsa Eva Margareta Jonasson 19770916
+Yngve Rönnskog 19510819
+Arash Dehvari 19870103
+Hanna Jansson 19890301
+Annika Herrmann 19860318
+Ninja Hernodh 19850108
+Anna Millevik 19870527
+Diego Bolis 19710809
+Lilly Marten 19490601
+Jin Mustafa 19880918
+Rolf Svensson 19460720
+Ann-Chalott Malmgren 19690807
+Urve Mattsson 19520704
+Ebrahim Isaacs 19680123
+Marianne Pavlidis Andersson 19590625
+Ladan Fouladi Saghavaz 19690615
+Mari Schmidt 19651110
+Battuya Batjargal 19791126
+Munkh-Ulzii Batjargal 19841130
+Tseveenravdan Tumurbaatar 19841114
+Kristoffer Kulon Smolenski 19950325
+Rolf Stefan Schmalholz 19460312
+Matti Kupiainen 19470308
+Mervi Männikkö 19551121
+Daniel Forsström 19951224
+Patrik Alexandersson 19900624
+Eva Planhem 19641102
+Sonja Prideaux 19920323
+Jenefrieda Fandialan Isberg 19690503
+Katarzyna Beata Baldycka 19720412
+Mateusz Adam Baldycki 19961219
+Axel Lotsander 19880424
+Vahid Jasarevic 19781229
+Richard Ekstrand 19910731
+Li Andersson 19861210
+Gabriella Lindberg 19950202
+Alexandra Forsgren 19921205
+Wararat Sasom Gisseldahl 19810402
+Sangar Baez 19750818
+Anethe From Björk 19580811
+Erika Rodriguez 19790817
+Larry Strid 19610308
+Maud Elisabeth Söderman 19541126
+Per Örneblad 19490621
+Bjørnar Kristoffersen 19771229
+Karin Elisabeth Klerhammar 19540707
+Anna Zielinski 19580714
+Christoffer Juul 19970302
+Sussy Moscoso Serrano 19780314
+Gary André Avila Ortiz 19990425
+Marian Cicu 19750509
+Maria Martinsson 19930920
+Lena Kontu 19530208
+Morticia Elisabeth Spjutek 19760526
+Matilda Magnusson 19860410
+Magdalena Stulgis 19751006
+Alevtina Häger 19640706
+Camilla Ingela Marina Grön 19610328
+Lila Zohal Guara 19890817
+Murada Golic 19630401
+Birgitta Jansson 19560801
+Ivana Vidakovic 19811103
+Michel Ruz 19871205
+Thea Bayly 19880927
+Hang Nguyen 19910127
+Johan Larsson 19750611
+Esmeralda Ortiz Lara 19900325
+Johan Östman 19781116
+Mats Alexandersson 19601108
+Erik Öman 19901022
+Rasmus Westlund 19931028
+Helena Sjögren 19650908
+Cristian Vega Maraboli 19711111
+Ivan Henriksson 19870323
+Theresa Hesselbom 19791103
+Winta Araya 19900518
+Olars Birgitta Eriksson 19560602
+Teif Hilo Mhawi 19780819
+Pär Ljungström 19810504
+Michalina Ludzik 19661008
+Liudmila Miranchuk 19780704
+Marianne Ottosson Sjöberg 19491218
+Tibor Dani 19750113
+Erik Westholm 19870713
+Wojciech Ciecierski 19730412
+Marianne Leonore Bial 19470113
+Abdulnasser Elbuishi 19680408
+Adam Bialobrzeski 19841217
+Ahmad Turkman 19870810
+Ann-Charlott Malmgren 19970705
+Ardita Morina Rama 
+Christina Li 19620626
+Eprem Kahsai 19860609
+Kim Lantz 19930426
+Lars Larsson 19540719
+Magnus Sjöstrand 19871021
+Maria Ernstsson 19660808
+Worku Mengesha 19581010
+Ahmad Alhelwani 19840110
+Aila Martikainen 19470305
+Amanda Alfredsson 19961113
+Anette Cecilia Kässlin 19741009
+Ankhbayar Ganbaatar 19890312
+Barbro Lundgren 19541028
+Birgitta Viola Melin 19480308
+Björn Westerberg 19530402
+Daniel Koryluk 19780317
+Emelie Nordin 19970719
+Ewa Popowicz 19580927
+Hakob Khachatryan 19761204
+Haolin Guo 19961014
+Joar Back 19921125
+Jose Arancibia Yucra 19690409
+Lamrot Mamo 19890911
+Lkhagvabayar Davaadorj 19890809
+Lorgio Zeballos Arauz 19770919
+Milan Graovac 19760504
+Mohammad Rasheed 19560627
+Ola Näslund 19810921
+Parwez Fazli 19991103
+Paulina Bilic 19990127
+Per Håkan Jonsson 19541022
+Peter Myhrberg 19750402
+Pia Hallqvist 19670831
+Pirkko Kristina Taipale 19450521
+Rahmat Yousefi 20000111
+Sanna Larsson 19950613
+Sanna Lockner 19940507
+Sofia Dinh 19991205
+Stelian Toma 19460918
+Wincent Sandelius Meenisai 19980812
+Agnieszka Georgiou 19770320
+Ana Sinadinov 19760921
+Andrzej Staron 19751109
+Andrzej Staron 19751109
+Anette Nilsson 19571007
+Ban Jabbar Jawad Al-Samarrei 19721219
+Benamin Topalovic 19711220
+Finkreta Hasic 
+Gabriel Emerson Mercado Lopez 19751105
+Julia Kayser Lindeman 19960512
+Khulan Otgondalai 19910928
+Lars Magnusson 19510411
+Mattias Blomberg 19890921
+Mikael Fagerström 19940616
+Sergey Zelenin 
+Anna Ingman 19721228
+Antonia Johnson 19910927
+Fatima Waizy 19960229
+Ove Pettersson 19500120
+Per Lennart Olof Forsberg 19530507
+Tesfamichael Msgina Embaye 19780101
+Abigail Morris 19900923
+Agnes Sundberg 19960625
+Anita Margit Eliina Alexandersson 19580924
+Anna Hoas 19961208
+Bakhadyr Artykbayev 19711126
+Benny Bülow 19550109
+Cristina Flores 19650317
+Curt Åke Karlsson 19480125
+Daniel Petersson 19920810
+Dita Inacia Da Silva 19830810
+Elena Malioutina 19790320
+Elisabeth Bengtsson 19590623
+Endre Rona 19480425
+Erik Ovebring 19820123
+Fanni Salmela 19880806
+Frida Grymmare 19810603
+Gert Ingman 19680118
+Inga-Maj Brogell 19590428
+Ioannis Anastasiadis 19640305
+Jaime Osvaldo Donaire Alvarez 19580214
+Jan Thomas Peter Bengtsson 19541221
+Jasminka Dizdarevic 19520202
+Jenni Asplund 19810101
+Jessika Lindsjö 19930708
+Jonny Rodriguez 19760309
+Kakhaber Sologhashvili 19810430
+Katarina Alexandersson 19610813
+Kerttu Kaarina Metsola 19500227
+Kjell Almeblad 19520523
+Kjell Persson 19730422
+Kristina Sundberg 19580924
+Linda Brogell 19850118
+Linda Östman 19790217
+Margret Ljung 19450308
+Mikael Rehnmark Andersson 19890827
+Parivash Paknia 19630823
+Patrik Ludzik 19920923
+Raija Ros-Mari Niittylä 19630729
+Rania Abdelatif 19830203
+Robin Bergenvass 19900205
+Robin Fredriksson 19930824
+Robin Smeds Mattila 19850808
+Sofia Larsson 19930501
+Sofie Elvekjaer 19920416
+Staffan Nyström 19550712
+Stella del Carmen Spång Narvaez 19610408
+Stig Ekman 19480210
+Taha Debdoubi 19840214
+Tommy Eriksson 19810512
+Urban Wahlberg 19600125
+Vasilis Markus Sjögren Tzanetopoulos 19890628
+Walter Zeballos Arauz 19830716
+Åsa Carin Susanne Hedman 19741103
+Fanny Lindroos 19950514
+Oksana Trotsko 19720107
+Siwen Li 19850615
+Henry Bo Gösta Ossmyr 19430417
+Mona Riften 19440416
+Göran Sallstedt 19420421
+Ingvar Lidsell 19400108
+Hans Ljunggren 19430408
+Eirik Enholm 19430416
+Soul Fagerqvist 19840606
+Paula Dragomir 19680111
+Nerina Jasarevic 19861101
+Sapna Chaubey 19830715
+Jekaterina Roumiantseva 19770830
+Altantovch Ganbaatar 19920113
+Lijana Mattsson 19641122
+Oscar Lindblad 19900914
+Anton Nilsson 19951025
+Evangelos Kapolas 19850306
+Stefan Hans Erik Widén 19620907
+Osam Abdul Rasool 19661014
+Sajjadur Rahman 19640105
+Sheuli Ahmed 19670327
+Bashir Yassin Abdu 19980410
+Markus Ola Selin 19910422
+Kajsa Grav 19820321
+Per Erik Rosendahl 
+Altantuya Ganbold 19780502
+Lasha Chanadiri 19890221
+Mats Fransson 19690520
+Zara Hammarberg 19850113
+Gia Kvaratskheliya 19800630
+Jaime Hoffmann Millan 19711001
+Alexander Jegendal 19790820
+James Samuel Marchant 19890428
+Thomas Forsberg 19850312
+Andreas Olsson Ohlander 19890302
+Elin Korssell 19810803
+Frances Tobe Davis 19631009
+Gisela Klaesson 19730502
+Jesper Ölmebring 19691128
+Katerina Peçi 19840518
+Marcus Saarikoski 19890616
+Martin Luther King Ashitey Ollennu 19701115
+Mikaela Tobysdotter 19880701
+Ulf Sune Sagerborg 19670516
+Giovanni Roca Helbingen 19760814
+Jari Nikula 19650913
+Lizelotte Maria Constans Sandström Ersson 19601218
+Sverker Gösta Wiberg 19700718
+Anton Odh 19840701
+Svetlana Kazem 19740101
+Alessandro Giuseppe Costa 19860309
+Jan Tomtin 19610613
+Kristoffer Tomtin 19900123
+Pernilla Lange 19670302
+Anders Crowther 19921202
+Magnus Klang 19790711
+Ann-Charlotte Olofsson 19671206
+Kaarina Norén 19530601
+Senka Hasanovic 19920116
+Linda Berg 19900512
+Bo Rune Georg Löfblom 19481017
+Mickael Hallin 19770521
+Magnus Zeisig 19640719
+Jan Hedin 19451109
+Andreas Hansson 19710501
+Sara Enderborg 19890521
+Thomas Olofsson 19851010
+Johan Törnroth 19711016
+Mats Karlsson Lundborg 19650113
+Sasa Radisavljevic 19790319
+Eva Margareta Arnqvist 19730912
+Frasse Norberg 19770331
+Sam Najafian Razavi 19921222
+Shukrullah Haji Mahsal 19860109
+Kerstin Margareta Stefansson 19400115
+Anna Jonsson 19790503
+Monika Zukowska 19760311
+Eva Holmberg 19601110
+Suraia Galili 19760716
+Dragana Aleksendric 19820504
+Gunnel Maria Christina Forsberg 19501026
+My Larsson 19910812
+Ivan Ivanovic 19910707
+Charles Davis 19751030
+Lars Svelin 19580629
+Jimmy Skipsna 19680415
+Carl Magnus Dellow 19511025
+Evelina Lövgren 19960125
+Krisztian Toth 19720611
+Maryam Narani 19600130
+Magnus Sundberg 19620806
+Zvonimir Azinovic 19651107
+Jalal Mia 19720219
+Eva Bystedt 19500126
+Maria Jaszcz-Freij 19500817
+Mafuz Ahamed 19890207
+Marc Armgren 19920528
+Magnus Wahlsten 19741013
+Ann-Christine Elisabeth Eriksson 19500728
+Mattias Karlsson 19850914
+Roger Jansson 19561231
+Richard Jonsson 19670120
+Jonas Fahlman 19640205
+Alexander Mathiesen 19940722
+Izlem Serter 19771203
+Simon Jonasson 19891219
+Julia Spett 19920823
+Jennie Johansson 19891009
+Ylva Katarina Nilsson 19630401
+Björn Magnus Yngve Andersson 19820813
+Matilda Brodin 19920119
+Thomas Berg 19780924
+Mikael Pihl 19920707
+Robin Kajlinger 19910223
+Robert Fontaine 19861222
+Camilla Möller 19840715
+Hilkka Mattinen 19600108
+Ramona Listowski 19870630
+David Persson 19901118
+Anna Löfgren 19740130
+Ida-Maria Risfelt 19960307
+Martina Silfvenius 19920219
+Kristin Pettersson 19770619
+Robert Olsson 19881015
+Anne Pärtma 19491128
+Annelie Tindre 19750822
+Eiad Alasha 19790319
+Louise Leong 19880821
+Anders Carl-Axel Lundgren 19490818
+Catarina Ericson 19680226
+Gudrun Edvardsson 19451001
+Kevin Björkman 19911227
+Kristina Margareta Rooth Svendsen 19580626
+Leticia Ollennu 19760101
+Louise Hindrikes 19911230
+Mathias Bergendahl 19700621
+Mats Peter Wedell 19541212
+Myagmartsetseg Batbold 19810908
+Nazakmir Nasiri 20000202
+Nazmul Tauhid 19931010
+Peter Björklöf 
+Rolf Bergsén 19520802
+Thuy Ninh Vu 19870501
+Tina Duffy 19740108
+Anna Kraft 19750304
+Annelie Eriksson 19670426
+Carl Johan Hall 19750219
+Elisabeth Ekholm 19580430
+Josefin Sandgren 19930112
+Kabita Rai Pakhrin 19860427
+Karl Gunnar Davidsson 19480608
+Klaudia Carp Klang 19760320
+Markus Nilsson 19880718
+Mats Erik Adler 19721226
+Pontus Klockar 19930429
+Tony Karl Hällström 19560502
+Victoria Silfverling 19690423
+Zubaida Nathim 19820724
+Joakim Karlström 19920523
+Karolina Englund 19790119
+Lisa Barthon 19760609
+Natalie Birgestam 19950508
+Robin Björkholm 19940206
+Rolf Norén 19590123
+Veronica Bengtsson 19900515
+Aleksandra Ivanovic 19930426
+Ali Reza Karimi 19860105
+Amélie Gilot 19841022
+Andreas Mario Kraft 19711012
+Anette Mitman 19540204
+Bitte Brask 19510520
+Camilla Bajohr 19910326
+Carin Linderborn 19810609
+Carina Eriksson 19660520
+Cecilie Calero Jacobsen 19801016
+Christian Lindblom Bouvin 19770929
+Danijel Vlaisavljevic 19900511
+David Paulsson 19840710
+Dorina Molla 19910411
+Ebba Holmberg 19851229
+Emelie Lind 19891204
+Emma Irving 19810211
+Fredilyn Villarin 19940427
+Fredrik Kulesza 19950304
+Fredrik Persson 19740509
+Freja Östman 19921210
+Hannele Kristiina Saarman 19551024
+Helga Holmgren 19910317
+Henning Vingmyr 19840708
+Henry Gustafsson 19471012
+Ida Anna Emilia Åström 19930418
+Inger Elisabeth Gamrell 19520919
+Inger Henriksson 19470915
+Jason Lawrence Benskin 19761017
+Jim Eriksson 19470807
+Joe Skoglund 19640825
+Karin Catrin Mellbin 19801216
+Khadija Zaidane 19630702
+Kim Nilsson 19881031
+Kristine Colliander-Nelson 19550706
+Le Ren 19790820
+Leif Söderberg 19530610
+Lena Gillhamre 19570830
+Lina Apsheva 19941218
+Louise Ridderstolpe 19900129
+Majvor Kristina Lindqvist 19530601
+Marcus Blomberg 19911031
+Maria Simma 19890330
+Marianne Brun 19631203
+Martha Esthela Jumbo Sandoval 19870119
+Mats Edström Larsson 19501118
+Max Brun 19850121
+Mehdi Ahmad Lo 19750321
+Michéle Hynynen 19990721
+Miroslav Devetak 19891115
+Nesrin Tuncay 19921031
+Nina Karlsson 19670803
+Orinta Stonciute 19850713
+Per Axel Gunnar Erdeman 19580109
+Petra Martina Schutz 19680612
+Predrag Kocic 19801017
+Randi Helene Qvist 19520917
+Robert Sebastian Fryc 19830120
+Rolando Ramirez Duarte 19770704
+Roya Hassanzadeh Nahr 19610427
+Shilan Mohammad Mamand 19840303
+Sven-Erik Pettersson 19661225
+Ulrika Grektorp 19640419
+Wilhelm Korssell 19820109
+Yaty Karim Paulsson 19870116
+Åsa Hass 19680526
+Oscar Vega 19720419
+Ann-Marie Margareta Louise Ryk 19781219
+Mikael Strand 19620725
+Mimmi Rönnqvist 19920527
+Patrik Liljegren 19890811
+Irene Villarin 19970712
+Elen Marie Maagaard 19410803
+Lena Margareta Andersson 19400324
+Marianne Börlin 19420304
+Sven Erik Rolf Bergman 19400328
+Göran Abrahamsson 19391030
+Kerstin Eleonor Maria Mattsson 19570803
+Gerd Sundberg 19540204
