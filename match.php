@@ -50,16 +50,16 @@ error_reporting(1);
             // die();
 
         if(trim($value) == trim($datafile[$key])){
+            
             storeData(trim($actual_file[$key]) . "\t". $value);
+            
             continue;
         }
         else{
-            if($key == 50){
-                echo trim($actual_file[$key]) . "\t". $datafile[$key];
-                die();
-            }
+            
             $changes++;
-            storeData(trim($actual_file[$key]) . "\t". $datafile[$key]);
+            
+            storeData(trim($actual_file[$key]) . "\t" . $datafile[$key]);
         }
     }
 
