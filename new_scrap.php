@@ -40,10 +40,10 @@ use HeadlessChromium\BrowserFactory;
             CURLOPT_CONNECTTIMEOUT => 120,      // timeout on connect
             CURLOPT_TIMEOUT        => 120,      // timeout on response
             CURLOPT_MAXREDIRS      => 10,       // stop after 10 redirects
-            CURLOPT_PROXY          => 'zproxy.lum-superproxy.io',
-            CURLOPT_PROXYPORT      => '22225',
-            CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone:0xwx5ytxlfcc',
-            CURLOPT_HTTPPROXYTUNNEL=> 1,
+            // CURLOPT_PROXY          => 'zproxy.lum-superproxy.io',
+            // CURLOPT_PROXYPORT      => '22225',
+            // CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone:0xwx5ytxlfcc',
+            // CURLOPT_HTTPPROXYTUNNEL=> 1,
         );
         
         $ch      = curl_init( $url );
@@ -103,6 +103,7 @@ use HeadlessChromium\BrowserFactory;
         $original_address = $address = trim(preg_replace('/\s\s+/', ' ', $address));
 
         $original_input = $original_name . ' | ' . $original_address;
+        $original_input = trim($original_input);
 
         $name = str_replace(' ', '+', urlencode($name));
         $address = str_replace(' ', '+', urlencode($address));
