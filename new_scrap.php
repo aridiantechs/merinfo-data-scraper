@@ -42,7 +42,7 @@ use HeadlessChromium\BrowserFactory;
             CURLOPT_MAXREDIRS      => 10,       // stop after 10 redirects
             CURLOPT_PROXY          => 'zproxy.lum-superproxy.io',
             CURLOPT_PROXYPORT      => '22225',
-            CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone-country-se:0xwx5ytxlfcc',
+            CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone:0xwx5ytxlfcc',
             CURLOPT_HTTPPROXYTUNNEL=> 1,
         );
         
