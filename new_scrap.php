@@ -96,13 +96,13 @@ use HeadlessChromium\BrowserFactory;
     function getData($name = '', $address = '', $file_name, $key, $postal, $city)
     {
 
-        if($key > 1 && ($key % 20) == 0)
-            sleep(2);
+        if($key > 1 && ($key % 100) == 0)
+            sleep(10);
 
         $original_name = $name = trim(preg_replace('/\s\s+/', ' ', $name));
         $original_address = $address = trim(preg_replace('/\s\s+/', ' ', $address));
 
-        $original_input = $original_name . ' | ' . $original_address;
+        $original_input = $original_name . ' , ' . $original_address . ' , ' . $postal . ' , ' . $city;
         $original_input = trim($original_input);
 
         $name = str_replace(' ', '+', urlencode($name));
@@ -162,18 +162,28 @@ use HeadlessChromium\BrowserFactory;
 
             else if(!$found){
                 
-                handleFailedAddresses($dom, $html, $key, $original_input);
+                if(!handleFailedAddresses($dom, $html, $key, $original_input)){
 
-                $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
-                
-                $txt =  trim($original_name)     . "\t" .
-                        trim($original_address)   . "\t".
-                        trim($postal)   . "\t". 
-                        trim($city);
+                    $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
+                    
+                    $txt =  trim($original_name)     . "\t" .
+                            trim($original_address)   . "\t".
+                            trim($postal)   . "\t". 
+                            trim($city);
 
-                fwrite($myfile, $txt);
-                fwrite($myfile, "\n");
-                fclose($myfile);
+                    fwrite($myfile, $txt);
+                    fwrite($myfile, "\n");
+                    fclose($myfile);
+                }
+                else{
+
+                    // $myfile = fopen('./logs/sample_html.txt', "a") or die("Unable to open file!");
+                    // $txt = $html;
+                    // fwrite($myfile, $txt);
+                    // fwrite($myfile, "\n");
+                    // fclose($myfile);
+                    
+                }
 
                 return;
 
@@ -250,8 +260,8 @@ use HeadlessChromium\BrowserFactory;
         foreach($dom->find('.h2') as $element){
             
             if($element == '<h2 class="h2"> Ingen träff </h2>'){
-                createLog($key,$address,'Address not found');
-                return;
+                createLog($key,$address,'Address not found', true);
+                return false;
             }
 
         }
@@ -260,18 +270,20 @@ use HeadlessChromium\BrowserFactory;
         if($dom->find('h1') == '<h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1><h1><span data-translate="checking_browser">Checking your browser before accessing</span> merinfo.se.</h1>'){
             
             createLog($key,$address,'Javascript error');
-            return;
+            return true;
 
         }
         else if($dom->find('a') == '<a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a>'){
 
             createLog($key,$address,'Cloudflare error');
-            return;
+            return true;
             
         }
         else{
 
             createLog($key,$address,'Unknown Error');
+            sleep(60);
+            return true;
 
         }
 
@@ -320,7 +332,7 @@ use HeadlessChromium\BrowserFactory;
         while (($line = fgets($file_addresses)) !== false) {
             $input = explode(',', $line);
             getData($input[0], $input[1], $file_name, $i, $input[2], $input[3]);
-            // echo $i++;
+            $i++;
         }
 
 
