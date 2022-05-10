@@ -1,6 +1,6 @@
 <?php
 
-error_reporting(0);
+error_reporting(E_ALL);
 
 include_once('simple_html_dom.php');
 require_once (__DIR__ . '/vendor/autoload.php');
@@ -171,6 +171,7 @@ use HeadlessChromium\BrowserFactory;
         $address = str_replace(' ', '+', urlencode($address));
         
         $url = 'https://www.merinfo.se/search?who='.$address.'&where=';
+
         
         $result = get_web_page(trim($url));
         $html   = $result['content'];
@@ -219,7 +220,22 @@ use HeadlessChromium\BrowserFactory;
 
                 // Phone
                 $phone = $dom->find('.phonenumber a', 0)->plaintext;
-            
+
+                // New requirment
+                $gender = $dom->find('.float-md-right', 0);
+
+                if (strpos($gender, 'kvinna') !== false)
+                
+                    $gender = 'kvinna';
+
+                else if (strpos($gender, 'man') !== false)
+
+                    $gender = 'man';
+
+                else
+                    
+                    $gender = '';
+                
             }
 
             else if(!$found){
@@ -247,7 +263,7 @@ use HeadlessChromium\BrowserFactory;
         }
         else{
 
-            if($phone){
+            if(1){
                 $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
                 $txt =  trim($original_input)     . "\t" .
                         trim($name)     . "\t" . 
@@ -255,6 +271,7 @@ use HeadlessChromium\BrowserFactory;
                         trim($address)  . "\t". 
                         trim($postal)   . "\t". 
                         trim($city)     . "\t". 
+                        trim($gender)   . "\t". 
                         trim($phone);
 
                 fwrite($myfile, $txt);
