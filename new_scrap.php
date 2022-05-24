@@ -8,18 +8,6 @@ use Rct567\DomQuery\DomQuery;
 use HeadlessChromium\BrowserFactory;
 
 
-// $servername = "localhost";
-// $username = "aridtlpn_kundkontakter_user";
-// $password = "A)Ro#7Ups_ZN";
-// $dbname = "aridtlpn_kundkontakter";
-
-// Create connection
-// $conn = new mysqli($servername, $username, $password, $dbname);
-// // Check connection
-// if ($conn->connect_error) {
-//   die("Connection failed: " . $conn->connect_error);
-// }
-
 
     function get_web_page( $url )
     {

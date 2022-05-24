@@ -7,20 +7,6 @@ require_once (__DIR__ . '/vendor/autoload.php');
 use Rct567\DomQuery\DomQuery;
 use HeadlessChromium\BrowserFactory;
 
-
-// $servername = "localhost";
-// $username = "aridtlpn_kundkontakter_user";
-// $password = "A)Ro#7Ups_ZN";
-// $dbname = "aridtlpn_kundkontakter";
-
-// Create connection
-// $conn = new mysqli($servername, $username, $password, $dbname);
-// // Check connection
-// if ($conn->connect_error) {
-//   die("Connection failed: " . $conn->connect_error);
-// }
-
-
     function get_web_page( $url )
     {
         $user_agent = 'Mozilla/5.0 (Windows NT 6.1; rv:8.0) Gecko/20100101 Firefox/8.0';
@@ -379,18 +365,17 @@ use HeadlessChromium\BrowserFactory;
         $file = fopen('uploads/'.$file_name.'.txt', "w");
         fclose($file);
 
-        // $file_addresses = fopen("source/input.txt", "r") or die("Unable to open file!");
-        $file_addresses = fopen("source/input.txt", "r") or die("Unable to open file!");
+        $file_addresses = fopen("source/source-multiple/input1.txt", "r") or die("Unable to open file!");
 
         $addresses = [];
 
-        while (($line = fgets($file_addresses)) !== false) {
+        while (($line = fgets($file_addresses)) !== false)
             $addresses[] = $line;
-        }
+        
 
 
-        foreach(array_unique($addresses) as $key => $address){
+        foreach(array_unique($addresses) as $key => $address)
             getData($address, $key, $file_name);
-        }
+        
 
     }
