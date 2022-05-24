@@ -359,7 +359,7 @@ use HeadlessChromium\BrowserFactory;
     if (1) {
         
 
-        // File 1
+        // Main File
 
         $file_name = "final";
         $file = fopen('uploads/'.$file_name.'.txt', "w");
