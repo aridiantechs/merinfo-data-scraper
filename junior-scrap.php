@@ -188,8 +188,21 @@ use HeadlessChromium\BrowserFactory;
                 createLog($key,$original_input,$page_link,true);
 
                 // name
-                $name = $dom->find('.link-primary', 0)->plaintext;
+                $f_name = $dom->find('.link-primary i', 0)->plaintext;
+                $l_name = $dom->find('.link-primary', 0)->plaintext;
                 
+
+                if($f_name == ''){
+
+                    $name_array = explode(" ", trim($l_name));
+
+                    $f_name = $name_array[0];
+                    $l_name = implode(" ",$name_array);
+                
+                }
+
+                $l_name = str_replace($f_name, "", $l_name);
+
                 // ssn
                 $ssn = $dom->find('.col.pb-3.pl-3.pt-0.pr-0 p.my-1.mb-0', 0)->plaintext;
                 
@@ -251,14 +264,15 @@ use HeadlessChromium\BrowserFactory;
 
             if(1){
                 $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
-                $txt =  trim($original_input)     . "\t" .
-                        trim($name)     . "\t" . 
-                        trim($ssn)      . "\t". 
-                        trim($address)  . "\t". 
-                        trim($postal)   . "\t". 
-                        trim($city)     . "\t". 
-                        trim($gender)   . "\t". 
-                        trim($phone);
+                $txt = trim($original_input)    . "\t" .
+                       trim($f_name)            . "\t" . 
+                       trim($l_name)            . "\t" . 
+                       trim($ssn)               . "\t" . 
+                       trim($address)           . "\t" . 
+                       trim($postal)            . "\t" . 
+                       trim($city)              . "\t" . 
+                       trim($gender)            . "\t" . 
+                       trim($phone);
 
                 fwrite($myfile, $txt);
                 fwrite($myfile, "\n");
@@ -365,7 +379,7 @@ use HeadlessChromium\BrowserFactory;
         $file = fopen('uploads/'.$file_name.'.txt', "w");
         fclose($file);
 
-        $file_addresses = fopen("source/source-multiple/input1.txt", "r") or die("Unable to open file!");
+        $file_addresses = fopen("source/input.txt", "r") or die("Unable to open file!");
 
         $addresses = [];
 
