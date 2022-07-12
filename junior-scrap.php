@@ -1,6 +1,6 @@
 <?php
 
-error_reporting(0);
+error_reporting(E_ALL);
 
 include_once('simple_html_dom.php');
 require_once (__DIR__ . '/vendor/autoload.php');
@@ -26,10 +26,10 @@ use HeadlessChromium\BrowserFactory;
             CURLOPT_CONNECTTIMEOUT => 120,      // timeout on connect
             CURLOPT_TIMEOUT        => 120,      // timeout on response
             CURLOPT_MAXREDIRS      => 10,       // stop after 10 redirects
-            CURLOPT_PROXY          => 'zproxy.lum-superproxy.io',
-            CURLOPT_PROXYPORT      => '22225',
-            CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone-country-se:0xwx5ytxlfcc',
-            CURLOPT_HTTPPROXYTUNNEL=> 1,
+            // CURLOPT_PROXY          => 'zproxy.lum-superproxy.io',
+            // CURLOPT_PROXYPORT      => '22225',
+            // CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone-country-se:0xwx5ytxlfcc',
+            // CURLOPT_HTTPPROXYTUNNEL=> 1,
         );
         
         $ch      = curl_init( $url );
@@ -372,7 +372,6 @@ use HeadlessChromium\BrowserFactory;
 
     if (1) {
         
-
         // Main File
 
         $file_name = "final";
@@ -383,11 +382,11 @@ use HeadlessChromium\BrowserFactory;
 
         $addresses = [];
 
-        while (($line = fgets($file_addresses)) !== false)
-            $addresses[] = $line;
+        while (($line = fgets($file_addresses)) !== false){
+            if(trim($line))
+                $addresses[] = $line;
+        }
         
-
-
         foreach(array_unique($addresses) as $key => $address)
             getData($address, $key, $file_name);
         
