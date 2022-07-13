@@ -183,7 +183,7 @@ use HeadlessChromium\BrowserFactory;
             }
 
 
-            if($found){
+            if($found && !is_null($dom)){
 
                 createLog($key,$original_input,$page_link,true);
 
