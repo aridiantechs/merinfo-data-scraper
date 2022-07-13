@@ -218,8 +218,8 @@ use HeadlessChromium\BrowserFactory;
 
 
                 // Phone
-                $phone = $dom->find('.phonenumber a', 0)->plaintext;
-
+                $phone = !is_null($dom->find('.phonenumber a', 0)) ? $dom->find('.phonenumber a', 0)->plaintext : '';
+                
                 // New requirment
                 $gender = $dom->find('.float-md-right', 0);
 
@@ -264,15 +264,15 @@ use HeadlessChromium\BrowserFactory;
 
             if(1){
                 $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
-                $txt = trim($original_input)    . "\t" .
-                       trim($f_name)            . "\t" . 
-                       trim($l_name)            . "\t" . 
-                       trim($ssn)               . "\t" . 
-                       trim($address)           . "\t" . 
-                       trim($postal)            . "\t" . 
-                       trim($city)              . "\t" . 
-                       trim($gender)            . "\t" . 
-                       trim($phone);
+                $txt = trim($original_input ?? '')    . "\t" .
+                       trim($f_name ?? '')            . "\t" . 
+                       trim($l_name ?? '')            . "\t" . 
+                       trim($ssn ?? '')               . "\t" . 
+                       trim($address ?? '')           . "\t" . 
+                       trim($postal ?? '')            . "\t" . 
+                       trim($city ?? '')              . "\t" . 
+                       trim($gender ?? '')            . "\t" . 
+                       trim($phone ?? '');
 
                 fwrite($myfile, $txt);
                 fwrite($myfile, "\n");
