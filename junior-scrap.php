@@ -188,7 +188,7 @@ use HeadlessChromium\BrowserFactory;
                 createLog($key,$original_input,$page_link,true);
 
                 // name
-                $f_name = $dom->find('.link-primary i', 0)->plaintext;
+                $f_name = is_null($dom->find('.link-primary i')) ? $dom->find('.link-primary i', 0)->plaintext : '';
                 $l_name = $dom->find('.link-primary', 0)->plaintext;
                 
 
