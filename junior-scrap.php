@@ -152,6 +152,8 @@ use HeadlessChromium\BrowserFactory;
         if($key > 1 && ($key % 20) == 0)
             sleep(5);
 
+        $address = trim(preg_replace('/\t/', '', $address));
+
         $original_input = $address = trim(preg_replace('/\s\s+/', ' ', $address));
 
         $address = str_replace(' ', '+', urlencode($address));
