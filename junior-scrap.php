@@ -390,13 +390,13 @@ use HeadlessChromium\BrowserFactory;
 
         if($input_file_name == 'DESKTOP-AJFT9FC')
         
-            $file_addresses = fopen("source/source-multiple/input1.txt", "r") or die("Unable to open file!");
+            // $file_addresses = fopen("source/source-multiple/input1.txt", "r") or die("Unable to open file!");
         
         else{
         
             $input_file_name = str_replace("scraper-", "input", $input_file_name);
             $input_file_name = 'source/source-multiple/' . $input_file_name . '.txt';
-            $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
+            // $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
         
         }
 
