@@ -400,10 +400,6 @@ use HeadlessChromium\BrowserFactory;
         
         }
 
-        
-            echo $input_file_name;
-            die();
-
         $addresses = [];
 
         while (($line = fgets($file_addresses)) !== false){
