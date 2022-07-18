@@ -381,6 +381,8 @@ use HeadlessChromium\BrowserFactory;
         
         // Main File
 
+        $input_file_name = php_uname('n');
+
         $file_name = "final";
         $file = fopen('uploads/'.$file_name.'.txt', "w");
         fclose($file);
@@ -398,7 +400,8 @@ use HeadlessChromium\BrowserFactory;
         
         }
 
-        echo $input_file_name;die();
+        echo $input_file_name;
+        die();
 
         $addresses = [];
 
