@@ -1,6 +1,7 @@
 <?php
 
-error_reporting(E_ALL);
+error_reporting(0);
+ini_set('memory_limit', '-1');
 
 include_once('simple_html_dom.php');
 require_once (__DIR__ . '/vendor/autoload.php');
@@ -152,7 +153,7 @@ use HeadlessChromium\BrowserFactory;
         if($key > 1 && ($key % 20) == 0)
             sleep(5);
 
-        $address = trim(preg_replace('/\t/', '', $address));
+        $address = trim(preg_replace('/\t/', ' ', $address));
 
         $original_input = $address = trim(preg_replace('/\s\s+/', ' ', $address));
 
@@ -206,10 +207,14 @@ use HeadlessChromium\BrowserFactory;
                 $l_name = str_replace($f_name, "", $l_name);
 
                 // ssn
-                $ssn = $dom->find('.col.pb-3.pl-3.pt-0.pr-0 p.my-1.mb-0', 0)->plaintext;
+                $ssn = is_null($dom->find('.col.pb-3.pl-3.pt-0.pr-0 p.my-1.mb-0')) ? $dom->find('.col.pb-3.pl-3.pt-0.pr-0 p.my-1.mb-0', 0)->plaintext : '';
                 
                 // address
-                $address_details = $dom->find('.col.pb-3.pl-3.pt-0.pr-0 .mb-0', 1)->plaintext;
+                if(!empty($d = $dom->find('.col.pb-3.pl-3.pt-0.pr-0 .mb-0')))
+                    $address_details = $dom->find('.col.pb-3.pl-3.pt-0.pr-0 .mb-0', 1)->plaintext;
+                else
+                    $address_details = $dom->find('address', 0)->plaintext;
+
                 $pos = preg_split("/\r\n|\n|\r/", $address_details);
                 $address = $pos[0] ?? '';
                 $city_postal = $pos[1] ?? '';
@@ -380,7 +385,7 @@ use HeadlessChromium\BrowserFactory;
         $file = fopen('uploads/'.$file_name.'.txt', "w");
         fclose($file);
 
-        $file_addresses = fopen("source/input.txt", "r") or die("Unable to open file!");
+        $file_addresses = fopen("source/source-multiple/input1.txt", "r") or die("Unable to open file!");
 
         $addresses = [];
 
